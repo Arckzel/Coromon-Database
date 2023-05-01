@@ -1,0 +1,58 @@
+[
+    {
+        "Id": "1",
+        "Name": "Ice",
+        "wiki": "https://coromon.wiki.gg/wiki/Ice",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "2",
+        "Name": "Fire",
+        "wiki": "https://coromon.wiki.gg/wiki/Fire",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "3",
+        "Name": "Water",
+        "wiki": "https://coromon.wiki.gg/wiki/Water",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "4",
+        "Name": "Normal",
+        "wiki": "https://coromon.wiki.gg/wiki/Normal",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "5",
+        "Name": "Electric",
+        "wiki": "https://coromon.wiki.gg/wiki/Electric",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "6",
+        "Name": "Sand",
+        "wiki": "https://coromon.wiki.gg/wiki/Sand",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "7",
+        "Name": "Ghost",
+        "wiki": "https://coromon.wiki.gg/wiki/Ghost",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "8",
+        "Name": "Dark Magic",
+        "wiki": "https://coromon.wiki.gg/wiki/Dark Magic",
+        "Image": "",
+        "Thumb": ""
+    }
+]

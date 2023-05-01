@@ -1,0 +1,164 @@
+[
+    {
+        "Id": "1",
+        "Name": "Voltgar",
+        "Type": "Electric",
+        "Base-Hp": "1500",
+        "Base-Spe": "60",
+        "Base-Atk": "140",
+        "Base-Def": "120",
+        "Base-Sp": {
+            "A": "140",
+            "D": "120"
+        },
+        "Base-SP": "160",
+        "Encounter-lvl": "25",
+        "Encounter-Hp": "413",
+        "Encounter-Spe": "20",
+        "Encounter-Atk": "40",
+        "Encounter-Def": "35",
+        "Encounter-Sp": {
+            "A": "40",
+            "D": "35"
+        },
+        "Encounter-SP": "60",
+        "wiki": "https://coromon.wiki.gg/wiki/Voltgar",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "2",
+        "Name": "Illuginn",
+        "Type": "Ghost",
+        "Base-Hp": "1500",
+        "Base-Spe": "65",
+        "Base-Atk": "125",
+        "Base-Def": "110",
+        "Base-Sp": {
+            "A": "125",
+            "D": "120"
+        },
+        "Base-SP": "160",
+        "Encounter-lvl": "35",
+        "Encounter-Hp": "575",
+        "Encounter-Spe": "27",
+        "Encounter-Atk": "49",
+        "Encounter-Def": "43",
+        "Encounter-Sp": {
+            "A": "49",
+            "D": "47"
+        },
+        "Encounter-SP": "76",
+        "wiki": "https://coromon.wiki.gg/wiki/Illuginn",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "3",
+        "Name": "Sart",
+        "Type": "Sand",
+        "Base-Hp": "1700",
+        "Base-Spe": "80",
+        "Base-Atk": "150",
+        "Base-Def": "145",
+        "Base-Sp": {
+            "A": "130",
+            "D": "145"
+        },
+        "Base-SP": "160",
+        "Encounter-lvl": "45",
+        "Encounter-Hp": "827",
+        "Encounter-Spe": "41",
+        "Encounter-Atk": "73",
+        "Encounter-Def": "70",
+        "Encounter-Sp": {
+            "A": "64",
+            "D": "70"
+        },
+        "Encounter-SP": "92",
+        "wiki": "https://coromon.wiki.gg/wiki/Sart",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "4",
+        "Name": "Hozai",
+        "Type": "Fire",
+        "Base-Hp": "1800",
+        "Base-Spe": "90",
+        "Base-Atk": "140",
+        "Base-Def": "170",
+        "Base-Sp": {
+            "A": "165",
+            "D": "170"
+        },
+        "Base-SP": "160",
+        "Encounter-lvl": "55",
+        "Encounter-Hp": "1065",
+        "Encounter-Spe": "55",
+        "Encounter-Atk": "82",
+        "Encounter-Def": "99",
+        "Encounter-Sp": {
+            "A": "96",
+            "D": "99"
+        },
+        "Encounter-SP": "108",
+        "wiki": "https://coromon.wiki.gg/wiki/Hozai",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "5",
+        "Name": "Vørst",
+        "Type": "Ice",
+        "Base-Hp": "1900",
+        "Base-Spe": "100",
+        "Base-Atk": "170",
+        "Base-Def": "210",
+        "Base-Sp": {
+            "A": "180",
+            "D": "200"
+        },
+        "Base-SP": "160",
+        "Encounter-lvl": "65",
+        "Encounter-Hp": "1322",
+        "Encounter-Spe": "70",
+        "Encounter-Atk": "116",
+        "Encounter-Def": "142",
+        "Encounter-Sp": {
+            "A": "123",
+            "D": "136"
+        },
+        "Encounter-SP": "125",
+        "wiki": "https://coromon.wiki.gg/wiki/https://coromon.wiki.gg/wiki/V%C3%B8rst",
+        "Image": "",
+        "Thumb": ""
+    },
+    {
+        "Id": "6",
+        "Name": "Chalchiu",
+        "Type": "Water",
+        "Base-Hp": "2000",
+        "Base-Spe": "110",
+        "Base-Atk": "140",
+        "Base-Def": "150",
+        "Base-Sp": {
+            "A": "130",
+            "D": "150"
+        },
+        "Base-SP": "160",
+        "Encounter-lvl": "75",
+        "Encounter-Hp": "1600",
+        "Encounter-Spe": "88",
+        "Encounter-Atk": "111",
+        "Encounter-Def": "118",
+        "Encounter-Sp": {
+            "A": "103",
+            "D": "118"
+        },
+        "Encounter-SP": "141",
+        "wiki": "https://coromon.wiki.gg/wiki/Chalchiu",
+        "Image": "",
+        "Thumb": ""
+    }
+]
