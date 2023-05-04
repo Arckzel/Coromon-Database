@@ -1,11 +1,20 @@
 <template>
   <div id="menu">
-    <router-link to="/">Home</router-link>
+    <VueButton :link="'/'" :type="'int'">Home</VueButton>
+    <VueButton :link="'https://coromon.wiki.gg/wiki/Coromon_Wiki'" :type="'ext'">Official Wiki</VueButton>
+    <VueButton :link="'https://www.coromon.com'" :type="'ext'">Official Site</VueButton>
   </div>
 </template>
 
 <script>
+
+import VueButton from './VueButton.vue';
+
 export default {
+
+  components: {
+    VueButton
+  }
 
 }
 </script>
@@ -15,19 +24,6 @@ export default {
 #menu {
     text-align: center;
     margin-block: 1rem;
-}
-
-#menu a{
-    padding-block: 0.5rem;
-    padding-inline: 1rem;
-    background-color: lightblue;
-    border-radius: 10px;
-    color: black;
-    margin-inline: 0.5rem;
-
-    border-style: solid;
-    border-width: 3px;
-    box-shadow: inset #3a74ec  0px 0px 1px 3px;
 }
 
 </style>
