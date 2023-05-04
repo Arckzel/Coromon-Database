@@ -18,20 +18,23 @@
             <img :src="'src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" alt="" srcset="">
         </div>
     </div>
-    <div class="see-div">
-      <router-link class="see" :to="'/coromon/'+coromon.id">See More</router-link>
-    </div>
+    <ToCoromonVue :id="coromon.id"></ToCoromonVue>
 </template>
 
 <script>
-export default {
+import ToCoromonVue from './ToCoromon.vue'
 
-    props:{
-        coromon: {
-            type: Object,
-            required: true
-        }
-    }
+export default {
+  components:{
+    ToCoromonVue
+  },
+
+  props:{
+      coromon: {
+          type: Object,
+          required: true
+      }
+  }
 
 }
 </script>
@@ -43,6 +46,7 @@ export default {
   font-weight: bolder;
   text-transform: uppercase;
   margin-block: 5px;
+  font-size: 17px;
 }
 
 /* Lista de tipos */
@@ -66,6 +70,8 @@ export default {
   font-weight: 500;
   border-style: solid;
   border-width: 1px;
+  color: white;
+  border-color: black;
 }
 
 /* div da imagem */
@@ -97,6 +103,7 @@ ul.stats li{
   padding-inline: 5px;
   border-width: 1px;
   border-style: solid;
+  background-color: white;
 }
 
 ul.stats span{
@@ -105,27 +112,6 @@ ul.stats span{
 
 h3{
   font-weight: bolder;
-}
-
-.see-div{
-  text-align: center;
-  margin-top: 30px;
-  margin-bottom: 10px;
-}
-
-a.see{
-  background-color: #ffffff9e;
-  box-shadow: inset #bebebe 0px 0px 0px 3px;
-  color: black;
-  padding: 0.3rem;
-  
-  border-radius: 10px;
-  border-style: solid;
-  border-width: 3px;
-}
-
-a.see:hover{
-  background-color: white;
 }
 
 @media (min-width: 780px) {
@@ -158,10 +144,6 @@ a.see:hover{
   ul.stats li{
     display: grid;
     grid-template-columns: 1fr 1fr;
-  }
-
-  .see-div{
-    text-align: left;
   }
 
 }
