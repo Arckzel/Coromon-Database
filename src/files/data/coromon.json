@@ -1,2966 +1,2966 @@
 [
     {
-        "Id": "1",
-        "Name": "CubZero",
-        "Type": "Ice",
-        "Base-Hp": "90",
-        "Base-Spe": "88",
-        "Base-Atk": "131",
-        "Base-Def": "109",
-        "Base-Sp": {
-            "A": "98",
-            "D": "119"
+        "id": "1",
+        "name": "CubZero",
+        "type": "Ice",
+        "base_hp": "90",
+        "base_spe": "88",
+        "base_atk": "131",
+        "base_def": "109",
+        "base_sp": {
+            "a": "98",
+            "d": "119"
         },
-        "Base-SP": "34",
-        "Max-Hp": "199",
-        "Max-Spe": "93",
-        "Max-Atk": "136",
-        "Max-Def": "114",
-        "Max-Sp": {
-            "A": "103",
-            "D": "124"
+        "base_sp": "34",
+        "max_hp": "199",
+        "max_spe": "93",
+        "max_atk": "136",
+        "max_def": "114",
+        "max_sp": {
+            "a": "103",
+            "d": "124"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Cubzero",
-        "Image": "",
-        "Thumb": ""
+        "Image": "1_Cubzero_A_front.webp",
+        "thumb": ""
     },
     {
-        "Id": "2",
-        "Name": "Aroara",
-        "Type": "Ice",
-        "Base-Hp": "121",
-        "Base-Spe": "119",
-        "Base-Atk": "172",
-        "Base-Def": "140",
-        "Base-Sp": {
-            "A": "129",
-            "D": "148"
+        "id": "2",
+        "name": "Aroara",
+        "type": "Ice",
+        "base_hp": "121",
+        "base_spe": "119",
+        "base_atk": "172",
+        "base_def": "140",
+        "base_sp": {
+            "a": "129",
+            "d": "148"
         },
-        "Base-SP": "34",
-        "Max-Hp": "230",
-        "Max-Spe": "124",
-        "Max-Atk": "177",
-        "Max-Def": "145",
-        "Max-Sp": {
-            "A": "134",
-            "D": "153"
+        "base_sp": "34",
+        "max_hp": "230",
+        "max_spe": "124",
+        "max_atk": "177",
+        "max_def": "145",
+        "max_sp": {
+            "a": "134",
+            "d": "153"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Aroara",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "3",
-        "Name": "Bearealis",
-        "Type": "Ice",
-        "Base-Hp": "162",
-        "Base-Spe": "158",
-        "Base-Atk": "203",
-        "Base-Def": "181",
-        "Base-Sp": {
-            "A": "170",
-            "D": "179"
+        "id": "3",
+        "name": "Bearealis",
+        "type": "Ice",
+        "base_hp": "162",
+        "base_spe": "158",
+        "base_atk": "203",
+        "base_def": "181",
+        "base_sp": {
+            "a": "170",
+            "d": "179"
         },
-        "Base-SP": "34",
-        "Max-Hp": "271",
-        "Max-Spe": "163",
-        "Max-Atk": "208",
-        "Max-Def": "186",
-        "Max-Sp": {
-            "A": "175",
-            "D": "184"
+        "base_sp": "34",
+        "max_hp": "271",
+        "max_spe": "163",
+        "max_atk": "208",
+        "max_def": "186",
+        "max_sp": {
+            "a": "175",
+            "d": "184"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bearealis",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "4",
-        "Name": "Toruga",
-        "Type": "Fire",
-        "Base-Hp": "80",
-        "Base-Spe": "132",
-        "Base-Atk": "99",
-        "Base-Def": "90",
-        "Base-Sp": {
-            "A": "121",
-            "D": "102"
+        "id": "4",
+        "name": "Toruga",
+        "type": "Fire",
+        "base_hp": "80",
+        "base_spe": "132",
+        "base_atk": "99",
+        "base_def": "90",
+        "base_sp": {
+            "a": "121",
+            "d": "102"
         },
-        "Base-SP": "34",
-        "Max-Hp": "189",
-        "Max-Spe": "137",
-        "Max-Atk": "104",
-        "Max-Def": "95",
-        "Max-Sp": {
-            "A": "126",
-            "D": "107"
+        "base_sp": "34",
+        "max_hp": "189",
+        "max_spe": "137",
+        "max_atk": "104",
+        "max_def": "95",
+        "max_sp": {
+            "a": "126",
+            "d": "107"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Toruga",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "5",
-        "Name": "Embaval",
-        "Type": "Fire",
-        "Base-Hp": "121",
-        "Base-Spe": "161",
-        "Base-Atk": "122",
-        "Base-Def": "119",
-        "Base-Sp": {
-            "A": "162",
-            "D": "128"
+        "id": "5",
+        "name": "Embaval",
+        "type": "Fire",
+        "base_hp": "121",
+        "base_spe": "161",
+        "base_atk": "122",
+        "base_def": "119",
+        "base_sp": {
+            "a": "162",
+            "d": "128"
         },
-        "Base-SP": "34",
-        "Max-Hp": "230",
-        "Max-Spe": "166",
-        "Max-Atk": "127",
-        "Max-Def": "124",
-        "Max-Sp": {
-            "A": "167",
-            "D": "133"
+        "base_sp": "34",
+        "max_hp": "230",
+        "max_spe": "166",
+        "max_atk": "127",
+        "max_def": "124",
+        "max_sp": {
+            "a": "167",
+            "d": "133"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Embaval",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "6",
-        "Name": "Volcadon",
-        "Type": "Fire",
-        "Base-Hp": "159",
-        "Base-Spe": "199",
-        "Base-Atk": "180",
-        "Base-Def": "145",
-        "Base-Sp": {
-            "A": "236",
-            "D": "161"
+        "id": "6",
+        "name": "Volcadon",
+        "type": "Fire",
+        "base_hp": "159",
+        "base_spe": "199",
+        "base_atk": "180",
+        "base_def": "145",
+        "base_sp": {
+            "a": "236",
+            "d": "161"
         },
-        "Base-SP": "34",
-        "Max-Hp": "268",
-        "Max-Spe": "204",
-        "Max-Atk": "185",
-        "Max-Def": "150",
-        "Max-Sp": {
-            "A": "241",
-            "D": "166"
+        "base_sp": "34",
+        "max_hp": "268",
+        "max_spe": "204",
+        "max_atk": "185",
+        "max_def": "150",
+        "max_sp": {
+            "a": "241",
+            "d": "166"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Volcadon",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "7",
-        "Name": "Nibblegar",
-        "Type": "Water",
-        "Base-Hp": "89",
-        "Base-Spe": "91",
-        "Base-Atk": "89",
-        "Base-Def": "131",
-        "Base-Sp": {
-            "A": "98",
-            "D": "132"
+        "id": "7",
+        "name": "Nibblegar",
+        "type": "Water",
+        "base_hp": "89",
+        "base_spe": "91",
+        "base_atk": "89",
+        "base_def": "131",
+        "base_sp": {
+            "a": "98",
+            "d": "132"
         },
-        "Base-SP": "34",
-        "Max-Hp": "198",
-        "Max-Spe": "96",
-        "Max-Atk": "94",
-        "Max-Def": "136",
-        "Max-Sp": {
-            "A": "103",
-            "D": "137"
+        "base_sp": "34",
+        "max_hp": "198",
+        "max_spe": "96",
+        "max_atk": "94",
+        "max_def": "136",
+        "max_sp": {
+            "a": "103",
+            "d": "137"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Nibblegar",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "8",
-        "Name": "Sheartooth",
-        "Type": "Water",
-        "Base-Hp": "118",
-        "Base-Spe": "116",
-        "Base-Atk": "126",
-        "Base-Def": "162",
-        "Base-Sp": {
-            "A": "130",
-            "D": "160"
+        "id": "8",
+        "name": "Sheartooth",
+        "type": "Water",
+        "base_hp": "118",
+        "base_spe": "116",
+        "base_atk": "126",
+        "base_def": "162",
+        "base_sp": {
+            "a": "130",
+            "d": "160"
         },
-        "Base-SP": "34",
-        "Max-Hp": "227",
-        "Max-Spe": "121",
-        "Max-Atk": "131",
-        "Max-Def": "167",
-        "Max-Sp": {
-            "A": "135",
-            "D": "165"
+        "base_sp": "34",
+        "max_hp": "227",
+        "max_spe": "121",
+        "max_atk": "131",
+        "max_def": "167",
+        "max_sp": {
+            "a": "135",
+            "d": "165"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Sheartooth",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "9",
-        "Name": "Megalobite",
-        "Type": "Water",
-        "Base-Hp": "171",
-        "Base-Spe": "156",
-        "Base-Atk": "166",
-        "Base-Def": "204",
-        "Base-Sp": {
-            "A": "168",
-            "D": "214"
+        "id": "9",
+        "name": "Megalobite",
+        "type": "Water",
+        "base_hp": "171",
+        "base_spe": "156",
+        "base_atk": "166",
+        "base_def": "204",
+        "base_sp": {
+            "a": "168",
+            "d": "214"
         },
-        "Base-SP": "34",
-        "Max-Hp": "280",
-        "Max-Spe": "161",
-        "Max-Atk": "171",
-        "Max-Def": "209",
-        "Max-Sp": {
-            "A": "173",
-            "D": "219"
+        "base_sp": "34",
+        "max_hp": "280",
+        "max_spe": "161",
+        "max_atk": "171",
+        "max_def": "209",
+        "max_sp": {
+            "a": "173",
+            "d": "219"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Megalobite",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "10",
-        "Name": "Swurmy",
-        "Type": "Normal",
-        "Base-Hp": "81",
-        "Base-Spe": "98",
-        "Base-Atk": "67",
-        "Base-Def": "58",
-        "Base-Sp": {
-            "A": "36",
-            "D": "36"
+        "id": "10",
+        "name": "Swurmy",
+        "type": "Normal",
+        "base_hp": "81",
+        "base_spe": "98",
+        "base_atk": "67",
+        "base_def": "58",
+        "base_sp": {
+            "a": "36",
+            "d": "36"
         },
-        "Base-SP": "34",
-        "Max-Hp": "190",
-        "Max-Spe": "103",
-        "Max-Atk": "72",
-        "Max-Def": "63",
-        "Max-Sp": {
-            "A": "41",
-            "D": "41"
+        "base_sp": "34",
+        "max_hp": "190",
+        "max_spe": "103",
+        "max_atk": "72",
+        "max_def": "63",
+        "max_sp": {
+            "a": "41",
+            "d": "41"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Swurmy",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "11",
-        "Name": "Beezel",
-        "Type": "Normal",
-        "Base-Hp": "102",
-        "Base-Spe": "141",
-        "Base-Atk": "161",
-        "Base-Def": "71",
-        "Base-Sp": {
-            "A": "62",
-            "D": "98"
+        "id": "11",
+        "name": "Beezel",
+        "type": "Normal",
+        "base_hp": "102",
+        "base_spe": "141",
+        "base_atk": "161",
+        "base_def": "71",
+        "base_sp": {
+            "a": "62",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "211",
-        "Max-Spe": "146",
-        "Max-Atk": "166",
-        "Max-Def": "76",
-        "Max-Sp": {
-            "A": "67",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "211",
+        "max_spe": "146",
+        "max_atk": "166",
+        "max_def": "76",
+        "max_sp": {
+            "a": "67",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Beezel",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "12",
-        "Name": "Humbee",
-        "Type": "Normal",
-        "Base-Hp": "143",
-        "Base-Spe": "185",
-        "Base-Atk": "227",
-        "Base-Def": "91",
-        "Base-Sp": {
-            "A": "89",
-            "D": "174"
+        "id": "12",
+        "name": "Humbee",
+        "type": "Normal",
+        "base_hp": "143",
+        "base_spe": "185",
+        "base_atk": "227",
+        "base_def": "91",
+        "base_sp": {
+            "a": "89",
+            "d": "174"
         },
-        "Base-SP": "34",
-        "Max-Hp": "252",
-        "Max-Spe": "190",
-        "Max-Atk": "232",
-        "Max-Def": "96",
-        "Max-Sp": {
-            "A": "94",
-            "D": "179"
+        "base_sp": "34",
+        "max_hp": "252",
+        "max_spe": "190",
+        "max_atk": "232",
+        "max_def": "96",
+        "max_sp": {
+            "a": "94",
+            "d": "179"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Humbee",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "13",
-        "Name": "Silquill",
-        "Type": "Normal",
-        "Base-Hp": "78",
-        "Base-Spe": "110",
-        "Base-Atk": "91",
-        "Base-Def": "79",
-        "Base-Sp": {
-            "A": "56",
-            "D": "71"
+        "id": "13",
+        "name": "Silquill",
+        "type": "Normal",
+        "base_hp": "78",
+        "base_spe": "110",
+        "base_atk": "91",
+        "base_def": "79",
+        "base_sp": {
+            "a": "56",
+            "d": "71"
         },
-        "Base-SP": "34",
-        "Max-Hp": "187",
-        "Max-Spe": "115",
-        "Max-Atk": "96",
-        "Max-Def": "84",
-        "Max-Sp": {
-            "A": "61",
-            "D": "76"
+        "base_sp": "34",
+        "max_hp": "187",
+        "max_spe": "115",
+        "max_atk": "96",
+        "max_def": "84",
+        "max_sp": {
+            "a": "61",
+            "d": "76"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Silquill",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "14",
-        "Name": "Gildwing",
-        "Type": "Normal",
-        "Base-Hp": "124",
-        "Base-Spe": "152",
-        "Base-Atk": "128",
-        "Base-Def": "112",
-        "Base-Sp": {
-            "A": "79",
-            "D": "98"
+        "id": "14",
+        "name": "Gildwing",
+        "type": "Normal",
+        "base_hp": "124",
+        "base_spe": "152",
+        "base_atk": "128",
+        "base_def": "112",
+        "base_sp": {
+            "a": "79",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "233",
-        "Max-Spe": "157",
-        "Max-Atk": "133",
-        "Max-Def": "117",
-        "Max-Sp": {
-            "A": "84",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "233",
+        "max_spe": "157",
+        "max_atk": "133",
+        "max_def": "117",
+        "max_sp": {
+            "a": "84",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gildwing",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "15",
-        "Name": "Golbeak",
-        "Type": "Normal",
-        "Base-Hp": "172",
-        "Base-Spe": "208",
-        "Base-Atk": "169",
-        "Base-Def": "153",
-        "Base-Sp": {
-            "A": "168",
-            "D": "147"
+        "id": "15",
+        "name": "Golbeak",
+        "type": "Normal",
+        "base_hp": "172",
+        "base_spe": "208",
+        "base_atk": "169",
+        "base_def": "153",
+        "base_sp": {
+            "a": "168",
+            "d": "147"
         },
-        "Base-SP": "34",
-        "Max-Hp": "281",
-        "Max-Spe": "213",
-        "Max-Atk": "174",
-        "Max-Def": "158",
-        "Max-Sp": {
-            "A": "173",
-            "D": "152"
+        "base_sp": "34",
+        "max_hp": "281",
+        "max_spe": "213",
+        "max_atk": "174",
+        "max_def": "158",
+        "max_sp": {
+            "a": "173",
+            "d": "152"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Golbeak",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "16",
-        "Name": "Slitherpin",
-        "Type": "Normal",
-        "Base-Hp": "81",
-        "Base-Spe": "124",
-        "Base-Atk": "132",
-        "Base-Def": "88",
-        "Base-Sp": {
-            "A": "90",
-            "D": "124"
+        "id": "16",
+        "name": "Slitherpin",
+        "type": "Normal",
+        "base_hp": "81",
+        "base_spe": "124",
+        "base_atk": "132",
+        "base_def": "88",
+        "base_sp": {
+            "a": "90",
+            "d": "124"
         },
-        "Base-SP": "34",
-        "Max-Hp": "190",
-        "Max-Spe": "129",
-        "Max-Atk": "137",
-        "Max-Def": "93",
-        "Max-Sp": {
-            "A": "95",
-            "D": "129"
+        "base_sp": "34",
+        "max_hp": "190",
+        "max_spe": "129",
+        "max_atk": "137",
+        "max_def": "93",
+        "max_sp": {
+            "a": "95",
+            "d": "129"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Slitherpin",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "17",
-        "Name": "Serpike",
-        "Type": "Normal",
-        "Base-Hp": "142",
-        "Base-Spe": "188",
-        "Base-Atk": "213",
-        "Base-Def": "181",
-        "Base-Sp": {
-            "A": "139",
-            "D": "188"
+        "id": "17",
+        "name": "Serpike",
+        "type": "Normal",
+        "base_hp": "142",
+        "base_spe": "188",
+        "base_atk": "213",
+        "base_def": "181",
+        "base_sp": {
+            "a": "139",
+            "d": "188"
         },
-        "Base-SP": "34",
-        "Max-Hp": "251",
-        "Max-Spe": "193",
-        "Max-Atk": "218",
-        "Max-Def": "186",
-        "Max-Sp": {
-            "A": "144",
-            "D": "193"
+        "base_sp": "34",
+        "max_hp": "251",
+        "max_spe": "193",
+        "max_atk": "218",
+        "max_def": "186",
+        "max_sp": {
+            "a": "144",
+            "d": "193"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Serpike",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "18",
-        "Name": "Houndos",
-        "Type": "Electric",
-        "Base-Hp": "92",
-        "Base-Spe": "132",
-        "Base-Atk": "119",
-        "Base-Def": "59",
-        "Base-Sp": {
-            "A": "161",
-            "D": "97"
+        "id": "18",
+        "name": "Houndos",
+        "type": "Electric",
+        "base_hp": "92",
+        "base_spe": "132",
+        "base_atk": "119",
+        "base_def": "59",
+        "base_sp": {
+            "a": "161",
+            "d": "97"
         },
-        "Base-SP": "34",
-        "Max-Hp": "201",
-        "Max-Spe": "137",
-        "Max-Atk": "124",
-        "Max-Def": "64",
-        "Max-Sp": {
-            "A": "166",
-            "D": "102"
+        "base_sp": "34",
+        "max_hp": "201",
+        "max_spe": "137",
+        "max_atk": "124",
+        "max_def": "64",
+        "max_sp": {
+            "a": "166",
+            "d": "102"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Houndos",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "19",
-        "Name": "Hountrion",
-        "Type": "Electric",
-        "Base-Hp": "167",
-        "Base-Spe": "197",
-        "Base-Atk": "218",
-        "Base-Def": "107",
-        "Base-Sp": {
-            "A": "230",
-            "D": "148"
+        "id": "19",
+        "name": "Hountrion",
+        "type": "Electric",
+        "base_hp": "167",
+        "base_spe": "197",
+        "base_atk": "218",
+        "base_def": "107",
+        "base_sp": {
+            "a": "230",
+            "d": "148"
         },
-        "Base-SP": "34",
-        "Max-Hp": "276",
-        "Max-Spe": "202",
-        "Max-Atk": "223",
-        "Max-Def": "112",
-        "Max-Sp": {
-            "A": "235",
-            "D": "153"
+        "base_sp": "34",
+        "max_hp": "276",
+        "max_spe": "202",
+        "max_atk": "223",
+        "max_def": "112",
+        "max_sp": {
+            "a": "235",
+            "d": "153"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Hountrion",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "20",
-        "Name": "Armado",
-        "Type": "Normal",
-        "Base-Hp": "68",
-        "Base-Spe": "59",
-        "Base-Atk": "161",
-        "Base-Def": "203",
-        "Base-Sp": {
-            "A": "59",
-            "D": "51"
+        "id": "20",
+        "name": "Armado",
+        "type": "Normal",
+        "base_hp": "68",
+        "base_spe": "59",
+        "base_atk": "161",
+        "base_def": "203",
+        "base_sp": {
+            "a": "59",
+            "d": "51"
         },
-        "Base-SP": "34",
-        "Max-Hp": "177",
-        "Max-Spe": "64",
-        "Max-Atk": "166",
-        "Max-Def": "208",
-        "Max-Sp": {
-            "A": "64",
-            "D": "56"
+        "base_sp": "34",
+        "max_hp": "177",
+        "max_spe": "64",
+        "max_atk": "166",
+        "max_def": "208",
+        "max_sp": {
+            "a": "64",
+            "d": "56"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Armado",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "21",
-        "Name": "Armadil",
-        "Type": "Normal",
-        "Base-Hp": "126",
-        "Base-Spe": "82",
-        "Base-Atk": "197",
-        "Base-Def": "234",
-        "Base-Sp": {
-            "A": "88",
-            "D": "67"
+        "id": "21",
+        "name": "Armadil",
+        "type": "Normal",
+        "base_hp": "126",
+        "base_spe": "82",
+        "base_atk": "197",
+        "base_def": "234",
+        "base_sp": {
+            "a": "88",
+            "d": "67"
         },
-        "Base-SP": "34",
-        "Max-Hp": "235",
-        "Max-Spe": "87",
-        "Max-Atk": "202",
-        "Max-Def": "239",
-        "Max-Sp": {
-            "A": "93",
-            "D": "72"
+        "base_sp": "34",
+        "max_hp": "235",
+        "max_spe": "87",
+        "max_atk": "202",
+        "max_def": "239",
+        "max_sp": {
+            "a": "93",
+            "d": "72"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Armadil",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "22",
-        "Name": "Armadon",
-        "Type": "Normal",
-        "Base-Hp": "168",
-        "Base-Spe": "88",
-        "Base-Atk": "211",
-        "Base-Def": "266",
-        "Base-Sp": {
-            "A": "112",
-            "D": "129"
+        "id": "22",
+        "name": "Armadon",
+        "type": "Normal",
+        "base_hp": "168",
+        "base_spe": "88",
+        "base_atk": "211",
+        "base_def": "266",
+        "base_sp": {
+            "a": "112",
+            "d": "129"
         },
-        "Base-SP": "34",
-        "Max-Hp": "277",
-        "Max-Spe": "93",
-        "Max-Atk": "216",
-        "Max-Def": "271",
-        "Max-Sp": {
-            "A": "117",
-            "D": "134"
+        "base_sp": "34",
+        "max_hp": "277",
+        "max_spe": "93",
+        "max_atk": "216",
+        "max_def": "271",
+        "max_sp": {
+            "a": "117",
+            "d": "134"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Armadon",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "23",
-        "Name": "Sanscale",
-        "Type": "Sand",
-        "Base-Hp": "121",
-        "Base-Spe": "127",
-        "Base-Atk": "143",
-        "Base-Def": "121",
-        "Base-Sp": {
-            "A": "108",
-            "D": "102"
+        "id": "23",
+        "name": "Sanscale",
+        "type": "Sand",
+        "base_hp": "121",
+        "base_spe": "127",
+        "base_atk": "143",
+        "base_def": "121",
+        "base_sp": {
+            "a": "108",
+            "d": "102"
         },
-        "Base-SP": "34",
-        "Max-Hp": "230",
-        "Max-Spe": "132",
-        "Max-Atk": "148",
-        "Max-Def": "126",
-        "Max-Sp": {
-            "A": "113",
-            "D": "107"
+        "base_sp": "34",
+        "max_hp": "230",
+        "max_spe": "132",
+        "max_atk": "148",
+        "max_def": "126",
+        "max_sp": {
+            "a": "113",
+            "d": "107"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Sanscale",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "24",
-        "Name": "Caradune",
-        "Type": "Sand",
-        "Base-Hp": "192",
-        "Base-Spe": "162",
-        "Base-Atk": "206",
-        "Base-Def": "195",
-        "Base-Sp": {
-            "A": "183",
-            "D": "138"
+        "id": "24",
+        "name": "Caradune",
+        "type": "Sand",
+        "base_hp": "192",
+        "base_spe": "162",
+        "base_atk": "206",
+        "base_def": "195",
+        "base_sp": {
+            "a": "183",
+            "d": "138"
         },
-        "Base-SP": "34",
-        "Max-Hp": "301",
-        "Max-Spe": "167",
-        "Max-Atk": "211",
-        "Max-Def": "200",
-        "Max-Sp": {
-            "A": "188",
-            "D": "143"
+        "base_sp": "34",
+        "max_hp": "301",
+        "max_spe": "167",
+        "max_atk": "211",
+        "max_def": "200",
+        "max_sp": {
+            "a": "188",
+            "d": "143"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Caradune",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "25",
-        "Name": "Bittybolt",
-        "Type": "Electric",
-        "Base-Hp": "80",
-        "Base-Spe": "132",
-        "Base-Atk": "68",
-        "Base-Def": "144",
-        "Base-Sp": {
-            "A": "102",
-            "D": "105"
+        "id": "25",
+        "name": "Bittybolt",
+        "type": "Electric",
+        "base_hp": "80",
+        "base_spe": "132",
+        "base_atk": "68",
+        "base_def": "144",
+        "base_sp": {
+            "a": "102",
+            "d": "105"
         },
-        "Base-SP": "34",
-        "Max-Hp": "189",
-        "Max-Spe": "137",
-        "Max-Atk": "73",
-        "Max-Def": "149",
-        "Max-Sp": {
-            "A": "107",
-            "D": "110"
+        "base_sp": "34",
+        "max_hp": "189",
+        "max_spe": "137",
+        "max_atk": "73",
+        "max_def": "149",
+        "max_sp": {
+            "a": "107",
+            "d": "110"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bittybolt",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "26",
-        "Name": "Toravolt",
-        "Type": "Electric",
-        "Base-Hp": "134",
-        "Base-Spe": "186",
-        "Base-Atk": "141",
-        "Base-Def": "172",
-        "Base-Sp": {
-            "A": "226",
-            "D": "168"
+        "id": "26",
+        "name": "Toravolt",
+        "type": "Electric",
+        "base_hp": "134",
+        "base_spe": "186",
+        "base_atk": "141",
+        "base_def": "172",
+        "base_sp": {
+            "a": "226",
+            "d": "168"
         },
-        "Base-SP": "34",
-        "Max-Hp": "243",
-        "Max-Spe": "191",
-        "Max-Atk": "146",
-        "Max-Def": "177",
-        "Max-Sp": {
-            "A": "231",
-            "D": "173"
+        "base_sp": "34",
+        "max_hp": "243",
+        "max_spe": "191",
+        "max_atk": "146",
+        "max_def": "177",
+        "max_sp": {
+            "a": "231",
+            "d": "173"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Toravolt",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "27",
-        "Name": "Bloby",
-        "Type": "Fire",
-        "Base-Hp": "129",
-        "Base-Spe": "88",
-        "Base-Atk": "129",
-        "Base-Def": "81",
-        "Base-Sp": {
-            "A": "92",
-            "D": "84"
+        "id": "27",
+        "name": "Bloby",
+        "type": "Fire",
+        "base_hp": "129",
+        "base_spe": "88",
+        "base_atk": "129",
+        "base_def": "81",
+        "base_sp": {
+            "a": "92",
+            "d": "84"
         },
-        "Base-SP": "34",
-        "Max-Hp": "238",
-        "Max-Spe": "93",
-        "Max-Atk": "134",
-        "Max-Def": "86",
-        "Max-Sp": {
-            "A": "97",
-            "D": "89"
+        "base_sp": "34",
+        "max_hp": "238",
+        "max_spe": "93",
+        "max_atk": "134",
+        "max_def": "86",
+        "max_sp": {
+            "a": "97",
+            "d": "89"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bloby",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "28",
-        "Name": "Molteye",
-        "Type": "Fire",
-        "Base-Hp": "177",
-        "Base-Spe": "112",
-        "Base-Atk": "188",
-        "Base-Def": "108",
-        "Base-Sp": {
-            "A": "139",
-            "D": "110"
+        "id": "28",
+        "name": "Molteye",
+        "type": "Fire",
+        "base_hp": "177",
+        "base_spe": "112",
+        "base_atk": "188",
+        "base_def": "108",
+        "base_sp": {
+            "a": "139",
+            "d": "110"
         },
-        "Base-SP": "34",
-        "Max-Hp": "286",
-        "Max-Spe": "117",
-        "Max-Atk": "193",
-        "Max-Def": "113",
-        "Max-Sp": {
-            "A": "144",
-            "D": "115"
+        "base_sp": "34",
+        "max_hp": "286",
+        "max_spe": "117",
+        "max_atk": "193",
+        "max_def": "113",
+        "max_sp": {
+            "a": "144",
+            "d": "115"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Molteye",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "29",
-        "Name": "Ashclops",
-        "Type": "Fire",
-        "Base-Hp": "216",
-        "Base-Spe": "139",
-        "Base-Atk": "232",
-        "Base-Def": "156",
-        "Base-Sp": {
-            "A": "194",
-            "D": "124"
+        "id": "29",
+        "name": "Ashclops",
+        "type": "Fire",
+        "base_hp": "216",
+        "base_spe": "139",
+        "base_atk": "232",
+        "base_def": "156",
+        "base_sp": {
+            "a": "194",
+            "d": "124"
         },
-        "Base-SP": "34",
-        "Max-Hp": "325",
-        "Max-Spe": "144",
-        "Max-Atk": "237",
-        "Max-Def": "161",
-        "Max-Sp": {
-            "A": "199",
-            "D": "129"
+        "base_sp": "34",
+        "max_hp": "325",
+        "max_spe": "144",
+        "max_atk": "237",
+        "max_def": "161",
+        "max_sp": {
+            "a": "199",
+            "d": "129"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ashclops",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "30",
-        "Name": "Fiddly",
-        "Type": "Water",
-        "Base-Hp": "62",
-        "Base-Spe": "102",
-        "Base-Atk": "191",
-        "Base-Def": "159",
-        "Base-Sp": {
-            "A": "52",
-            "D": "48"
+        "id": "30",
+        "name": "Fiddly",
+        "type": "Water",
+        "base_hp": "62",
+        "base_spe": "102",
+        "base_atk": "191",
+        "base_def": "159",
+        "base_sp": {
+            "a": "52",
+            "d": "48"
         },
-        "Base-SP": "34",
-        "Max-Hp": "171",
-        "Max-Spe": "107",
-        "Max-Atk": "196",
-        "Max-Def": "164",
-        "Max-Sp": {
-            "A": "57",
-            "D": "53"
+        "base_sp": "34",
+        "max_hp": "171",
+        "max_spe": "107",
+        "max_atk": "196",
+        "max_def": "164",
+        "max_sp": {
+            "a": "57",
+            "d": "53"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Fiddly",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "31",
-        "Name": "Ucaclaw",
-        "Type": "Water",
-        "Base-Hp": "143",
-        "Base-Spe": "148",
-        "Base-Atk": "278",
-        "Base-Def": "245",
-        "Base-Sp": {
-            "A": "128",
-            "D": "104"
+        "id": "31",
+        "name": "Ucaclaw",
+        "type": "Water",
+        "base_hp": "143",
+        "base_spe": "148",
+        "base_atk": "278",
+        "base_def": "245",
+        "base_sp": {
+            "a": "128",
+            "d": "104"
         },
-        "Base-SP": "34",
-        "Max-Hp": "252",
-        "Max-Spe": "153",
-        "Max-Atk": "283",
-        "Max-Def": "250",
-        "Max-Sp": {
-            "A": "133",
-            "D": "109"
+        "base_sp": "34",
+        "max_hp": "252",
+        "max_spe": "153",
+        "max_atk": "283",
+        "max_def": "250",
+        "max_sp": {
+            "a": "133",
+            "d": "109"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ucaclaw",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "32",
-        "Name": "Moffel",
-        "Type": "Sand",
-        "Base-Hp": "99",
-        "Base-Spe": "80",
-        "Base-Atk": "151",
-        "Base-Def": "68",
-        "Base-Sp": {
-            "A": "142",
-            "D": "61"
+        "id": "32",
+        "name": "Moffel",
+        "type": "Sand",
+        "base_hp": "99",
+        "base_spe": "80",
+        "base_atk": "151",
+        "base_def": "68",
+        "base_sp": {
+            "a": "142",
+            "d": "61"
         },
-        "Base-SP": "34",
-        "Max-Hp": "208",
-        "Max-Spe": "85",
-        "Max-Atk": "156",
-        "Max-Def": "73",
-        "Max-Sp": {
-            "A": "147",
-            "D": "66"
+        "base_sp": "34",
+        "max_hp": "208",
+        "max_spe": "85",
+        "max_atk": "156",
+        "max_def": "73",
+        "max_sp": {
+            "a": "147",
+            "d": "66"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Moffel",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "33",
-        "Name": "Digmow",
-        "Type": "Sand",
-        "Base-Hp": "128",
-        "Base-Spe": "114",
-        "Base-Atk": "172",
-        "Base-Def": "94",
-        "Base-Sp": {
-            "A": "164",
-            "D": "84"
+        "id": "33",
+        "name": "Digmow",
+        "type": "Sand",
+        "base_hp": "128",
+        "base_spe": "114",
+        "base_atk": "172",
+        "base_def": "94",
+        "base_sp": {
+            "a": "164",
+            "d": "84"
         },
-        "Base-SP": "34",
-        "Max-Hp": "237",
-        "Max-Spe": "119",
-        "Max-Atk": "177",
-        "Max-Def": "99",
-        "Max-Sp": {
-            "A": "169",
-            "D": "89"
+        "base_sp": "34",
+        "max_hp": "237",
+        "max_spe": "119",
+        "max_atk": "177",
+        "max_def": "99",
+        "max_sp": {
+            "a": "169",
+            "d": "89"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Digmow",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "34",
-        "Name": "Dugterra",
-        "Type": "Sand",
-        "Base-Hp": "158",
-        "Base-Spe": "166",
-        "Base-Atk": "230",
-        "Base-Def": "111",
-        "Base-Sp": {
-            "A": "221",
-            "D": "118"
+        "id": "34",
+        "name": "Dugterra",
+        "type": "Sand",
+        "base_hp": "158",
+        "base_spe": "166",
+        "base_atk": "230",
+        "base_def": "111",
+        "base_sp": {
+            "a": "221",
+            "d": "118"
         },
-        "Base-SP": "34",
-        "Max-Hp": "267",
-        "Max-Spe": "171",
-        "Max-Atk": "235",
-        "Max-Def": "116",
-        "Max-Sp": {
-            "A": "226",
-            "D": "123"
+        "base_sp": "34",
+        "max_hp": "267",
+        "max_spe": "171",
+        "max_atk": "235",
+        "max_def": "116",
+        "max_sp": {
+            "a": "226",
+            "d": "123"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Dugterra",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "35",
-        "Name": "Buzzlet",
-        "Type": "Electric",
-        "Base-Hp": "108",
-        "Base-Spe": "67",
-        "Base-Atk": "78",
-        "Base-Def": "79",
-        "Base-Sp": {
-            "A": "132",
-            "D": "91"
+        "id": "35",
+        "name": "Buzzlet",
+        "type": "Electric",
+        "base_hp": "108",
+        "base_spe": "67",
+        "base_atk": "78",
+        "base_def": "79",
+        "base_sp": {
+            "a": "132",
+            "d": "91"
         },
-        "Base-SP": "34",
-        "Max-Hp": "217",
-        "Max-Spe": "72",
-        "Max-Atk": "83",
-        "Max-Def": "84",
-        "Max-Sp": {
-            "A": "137",
-            "D": "96"
+        "base_sp": "34",
+        "max_hp": "217",
+        "max_spe": "72",
+        "max_atk": "83",
+        "max_def": "84",
+        "max_sp": {
+            "a": "137",
+            "d": "96"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Buzzlet",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "36",
-        "Name": "Bazzer",
-        "Type": "Electric",
-        "Base-Hp": "142",
-        "Base-Spe": "90",
-        "Base-Atk": "110",
-        "Base-Def": "108",
-        "Base-Sp": {
-            "A": "161",
-            "D": "122"
+        "id": "36",
+        "name": "Bazzer",
+        "type": "Electric",
+        "base_hp": "142",
+        "base_spe": "90",
+        "base_atk": "110",
+        "base_def": "108",
+        "base_sp": {
+            "a": "161",
+            "d": "122"
         },
-        "Base-SP": "34",
-        "Max-Hp": "251",
-        "Max-Spe": "95",
-        "Max-Atk": "115",
-        "Max-Def": "113",
-        "Max-Sp": {
-            "A": "166",
-            "D": "127"
+        "base_sp": "34",
+        "max_hp": "251",
+        "max_spe": "95",
+        "max_atk": "115",
+        "max_def": "113",
+        "max_sp": {
+            "a": "166",
+            "d": "127"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bazzer",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "37",
-        "Name": "Rhynobuz",
-        "Type": "Electric",
-        "Base-Hp": "181",
-        "Base-Spe": "102",
-        "Base-Atk": "172",
-        "Base-Def": "170",
-        "Base-Sp": {
-            "A": "216",
-            "D": "178"
+        "id": "37",
+        "name": "Rhynobuz",
+        "type": "Electric",
+        "base_hp": "181",
+        "base_spe": "102",
+        "base_atk": "172",
+        "base_def": "170",
+        "base_sp": {
+            "a": "216",
+            "d": "178"
         },
-        "Base-SP": "34",
-        "Max-Hp": "290",
-        "Max-Spe": "107",
-        "Max-Atk": "177",
-        "Max-Def": "175",
-        "Max-Sp": {
-            "A": "221",
-            "D": "183"
+        "base_sp": "34",
+        "max_hp": "290",
+        "max_spe": "107",
+        "max_atk": "177",
+        "max_def": "175",
+        "max_sp": {
+            "a": "221",
+            "d": "183"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Rhynobuz",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "38",
-        "Name": "Lunarpup",
-        "Type": "Ghost",
-        "Base-Hp": "58",
-        "Base-Spe": "160",
-        "Base-Atk": "72",
-        "Base-Def": "60",
-        "Base-Sp": {
-            "A": "181",
-            "D": "72"
+        "id": "38",
+        "name": "Lunarpup",
+        "type": "Ghost",
+        "base_hp": "58",
+        "base_spe": "160",
+        "base_atk": "72",
+        "base_def": "60",
+        "base_sp": {
+            "a": "181",
+            "d": "72"
         },
-        "Base-SP": "34",
-        "Max-Hp": "167",
-        "Max-Spe": "165",
-        "Max-Atk": "77",
-        "Max-Def": "65",
-        "Max-Sp": {
-            "A": "186",
-            "D": "77"
+        "base_sp": "34",
+        "max_hp": "167",
+        "max_spe": "165",
+        "max_atk": "77",
+        "max_def": "65",
+        "max_sp": {
+            "a": "186",
+            "d": "77"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lunarpup",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "39",
-        "Name": "Lunarwulf",
-        "Type": "Ghost",
-        "Base-Hp": "89",
-        "Base-Spe": "191",
-        "Base-Atk": "134",
-        "Base-Def": "92",
-        "Base-Sp": {
-            "A": "213",
-            "D": "107"
+        "id": "39",
+        "name": "Lunarwulf",
+        "type": "Ghost",
+        "base_hp": "89",
+        "base_spe": "191",
+        "base_atk": "134",
+        "base_def": "92",
+        "base_sp": {
+            "a": "213",
+            "d": "107"
         },
-        "Base-SP": "34",
-        "Max-Hp": "198",
-        "Max-Spe": "196",
-        "Max-Atk": "139",
-        "Max-Def": "97",
-        "Max-Sp": {
-            "A": "218",
-            "D": "112"
+        "base_sp": "34",
+        "max_hp": "198",
+        "max_spe": "196",
+        "max_atk": "139",
+        "max_def": "97",
+        "max_sp": {
+            "a": "218",
+            "d": "112"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lunarwulf",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "40",
-        "Name": "Eclyptor",
-        "Type": "Ghost",
-        "Base-Hp": "150",
-        "Base-Spe": "223",
-        "Base-Atk": "201",
-        "Base-Def": "121",
-        "Base-Sp": {
-            "A": "224",
-            "D": "152"
+        "id": "40",
+        "name": "Eclyptor",
+        "type": "Ghost",
+        "base_hp": "150",
+        "base_spe": "223",
+        "base_atk": "201",
+        "base_def": "121",
+        "base_sp": {
+            "a": "224",
+            "d": "152"
         },
-        "Base-SP": "34",
-        "Max-Hp": "259",
-        "Max-Spe": "228",
-        "Max-Atk": "206",
-        "Max-Def": "126",
-        "Max-Sp": {
-            "A": "229",
-            "D": "157"
+        "base_sp": "34",
+        "max_hp": "259",
+        "max_spe": "228",
+        "max_atk": "206",
+        "max_def": "126",
+        "max_sp": {
+            "a": "229",
+            "d": "157"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Eclyptor",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "41",
-        "Name": "Kryo",
-        "Type": "Ice",
-        "Base-Hp": "141",
-        "Base-Spe": "46",
-        "Base-Atk": "79",
-        "Base-Def": "96",
-        "Base-Sp": {
-            "A": "108",
-            "D": "98"
+        "id": "41",
+        "name": "Kryo",
+        "type": "Ice",
+        "base_hp": "141",
+        "base_spe": "46",
+        "base_atk": "79",
+        "base_def": "96",
+        "base_sp": {
+            "a": "108",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "250",
-        "Max-Spe": "51",
-        "Max-Atk": "84",
-        "Max-Def": "101",
-        "Max-Sp": {
-            "A": "113",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "250",
+        "max_spe": "51",
+        "max_atk": "84",
+        "max_def": "101",
+        "max_sp": {
+            "a": "113",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Kryo",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "42",
-        "Name": "Krypeek",
-        "Type": "Ice",
-        "Base-Hp": "180",
-        "Base-Spe": "84",
-        "Base-Atk": "121",
-        "Base-Def": "137",
-        "Base-Sp": {
-            "A": "149",
-            "D": "141"
+        "id": "42",
+        "name": "Krypeek",
+        "type": "Ice",
+        "base_hp": "180",
+        "base_spe": "84",
+        "base_atk": "121",
+        "base_def": "137",
+        "base_sp": {
+            "a": "149",
+            "d": "141"
         },
-        "Base-SP": "34",
-        "Max-Hp": "289",
-        "Max-Spe": "89",
-        "Max-Atk": "126",
-        "Max-Def": "142",
-        "Max-Sp": {
-            "A": "154",
-            "D": "146"
+        "base_sp": "34",
+        "max_hp": "289",
+        "max_spe": "89",
+        "max_atk": "126",
+        "max_def": "142",
+        "max_sp": {
+            "a": "154",
+            "d": "146"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Krypeek",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "43",
-        "Name": "Krybeest",
-        "Type": "Ice",
-        "Base-Hp": "219",
-        "Base-Spe": "118",
-        "Base-Atk": "162",
-        "Base-Def": "169",
-        "Base-Sp": {
-            "A": "186",
-            "D": "181"
+        "id": "43",
+        "name": "Krybeest",
+        "type": "Ice",
+        "base_hp": "219",
+        "base_spe": "118",
+        "base_atk": "162",
+        "base_def": "169",
+        "base_sp": {
+            "a": "186",
+            "d": "181"
         },
-        "Base-SP": "34",
-        "Max-Hp": "328",
-        "Max-Spe": "123",
-        "Max-Atk": "167",
-        "Max-Def": "174",
-        "Max-Sp": {
-            "A": "191",
-            "D": "186"
+        "base_sp": "34",
+        "max_hp": "328",
+        "max_spe": "123",
+        "max_atk": "167",
+        "max_def": "174",
+        "max_sp": {
+            "a": "191",
+            "d": "186"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Krybeest",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "44",
-        "Name": "Bren",
-        "Type": "Fire",
-        "Base-Hp": "91",
-        "Base-Spe": "93",
-        "Base-Atk": "118",
-        "Base-Def": "78",
-        "Base-Sp": {
-            "A": "132",
-            "D": "98"
+        "id": "44",
+        "name": "Bren",
+        "type": "Fire",
+        "base_hp": "91",
+        "base_spe": "93",
+        "base_atk": "118",
+        "base_def": "78",
+        "base_sp": {
+            "a": "132",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "200",
-        "Max-Spe": "98",
-        "Max-Atk": "123",
-        "Max-Def": "83",
-        "Max-Sp": {
-            "A": "137",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "200",
+        "max_spe": "98",
+        "max_atk": "123",
+        "max_def": "83",
+        "max_sp": {
+            "a": "137",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bren",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "45",
-        "Name": "Pyrochick",
-        "Type": "Fire",
-        "Base-Hp": "91",
-        "Base-Spe": "93",
-        "Base-Atk": "118",
-        "Base-Def": "78",
-        "Base-Sp": {
-            "A": "132",
-            "D": "98"
+        "id": "45",
+        "name": "Pyrochick",
+        "type": "Fire",
+        "base_hp": "91",
+        "base_spe": "93",
+        "base_atk": "118",
+        "base_def": "78",
+        "base_sp": {
+            "a": "132",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "200",
-        "Max-Spe": "98",
-        "Max-Atk": "123",
-        "Max-Def": "83",
-        "Max-Sp": {
-            "A": "137",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "200",
+        "max_spe": "98",
+        "max_atk": "123",
+        "max_def": "83",
+        "max_sp": {
+            "a": "137",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Pyrochick",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "46",
-        "Name": "Infinix",
-        "Type": "Fire",
-        "Base-Hp": "152",
-        "Base-Spe": "175",
-        "Base-Atk": "225",
-        "Base-Def": "129",
-        "Base-Sp": {
-            "A": "217",
-            "D": "132"
+        "id": "46",
+        "name": "Infinix",
+        "type": "Fire",
+        "base_hp": "152",
+        "base_spe": "175",
+        "base_atk": "225",
+        "base_def": "129",
+        "base_sp": {
+            "a": "217",
+            "d": "132"
         },
-        "Base-SP": "34",
-        "Max-Hp": "261",
-        "Max-Spe": "180",
-        "Max-Atk": "230",
-        "Max-Def": "134",
-        "Max-Sp": {
-            "A": "222",
-            "D": "137"
+        "base_sp": "34",
+        "max_hp": "261",
+        "max_spe": "180",
+        "max_atk": "230",
+        "max_def": "134",
+        "max_sp": {
+            "a": "222",
+            "d": "137"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Infinix",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "47",
-        "Name": "Acie",
-        "Type": "Electric",
-        "Base-Hp": "84",
-        "Base-Spe": "96",
-        "Base-Atk": "71",
-        "Base-Def": "138",
-        "Base-Sp": {
-            "A": "158",
-            "D": "118"
+        "id": "47",
+        "name": "Acie",
+        "type": "Electric",
+        "base_hp": "84",
+        "base_spe": "96",
+        "base_atk": "71",
+        "base_def": "138",
+        "base_sp": {
+            "a": "158",
+            "d": "118"
         },
-        "Base-SP": "34",
-        "Max-Hp": "193",
-        "Max-Spe": "101",
-        "Max-Atk": "76",
-        "Max-Def": "143",
-        "Max-Sp": {
-            "A": "163",
-            "D": "123"
+        "base_sp": "34",
+        "max_hp": "193",
+        "max_spe": "101",
+        "max_atk": "76",
+        "max_def": "143",
+        "max_sp": {
+            "a": "163",
+            "d": "123"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Acie",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "48",
-        "Name": "Deecie",
-        "Type": "Electric",
-        "Base-Hp": "179",
-        "Base-Spe": "151",
-        "Base-Atk": "120",
-        "Base-Def": "188",
-        "Base-Sp": {
-            "A": "184",
-            "D": "195"
+        "id": "48",
+        "name": "Deecie",
+        "type": "Electric",
+        "base_hp": "179",
+        "base_spe": "151",
+        "base_atk": "120",
+        "base_def": "188",
+        "base_sp": {
+            "a": "184",
+            "d": "195"
         },
-        "Base-SP": "34",
-        "Max-Hp": "288",
-        "Max-Spe": "156",
-        "Max-Atk": "125",
-        "Max-Def": "193",
-        "Max-Sp": {
-            "A": "189",
-            "D": "200"
+        "base_sp": "34",
+        "max_hp": "288",
+        "max_spe": "156",
+        "max_atk": "125",
+        "max_def": "193",
+        "max_sp": {
+            "a": "189",
+            "d": "200"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Deecie",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "49",
-        "Name": "Kyreptil",
-        "Type": "Sand",
-        "Base-Hp": "158",
-        "Base-Spe": "58",
-        "Base-Atk": "171",
-        "Base-Def": "192",
-        "Base-Sp": {
-            "A": "56",
-            "D": "72"
+        "id": "49",
+        "name": "Kyreptil",
+        "type": "Sand",
+        "base_hp": "158",
+        "base_spe": "58",
+        "base_atk": "171",
+        "base_def": "192",
+        "base_sp": {
+            "a": "56",
+            "d": "72"
         },
-        "Base-SP": "34",
-        "Max-Hp": "267",
-        "Max-Spe": "63",
-        "Max-Atk": "176",
-        "Max-Def": "197",
-        "Max-Sp": {
-            "A": "61",
-            "D": "77"
+        "base_sp": "34",
+        "max_hp": "267",
+        "max_spe": "63",
+        "max_atk": "176",
+        "max_def": "197",
+        "max_sp": {
+            "a": "61",
+            "d": "77"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Kyreptil",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "50",
-        "Name": "Kyraptor",
-        "Type": "Sand",
-        "Base-Hp": "197",
-        "Base-Spe": "78",
-        "Base-Atk": "215",
-        "Base-Def": "266",
-        "Base-Sp": {
-            "A": "98",
-            "D": "111"
+        "id": "50",
+        "name": "Kyraptor",
+        "type": "Sand",
+        "base_hp": "197",
+        "base_spe": "78",
+        "base_atk": "215",
+        "base_def": "266",
+        "base_sp": {
+            "a": "98",
+            "d": "111"
         },
-        "Base-SP": "34",
-        "Max-Hp": "306",
-        "Max-Spe": "83",
-        "Max-Atk": "220",
-        "Max-Def": "271",
-        "Max-Sp": {
-            "A": "103",
-            "D": "116"
+        "base_sp": "34",
+        "max_hp": "306",
+        "max_spe": "83",
+        "max_atk": "220",
+        "max_def": "271",
+        "max_sp": {
+            "a": "103",
+            "d": "116"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Kyraptor",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "51",
-        "Name": "Gella",
-        "Type": "Water",
-        "Base-Hp": "71",
-        "Base-Spe": "128",
-        "Base-Atk": "83",
-        "Base-Def": "98",
-        "Base-Sp": {
-            "A": "136",
-            "D": "80"
+        "id": "51",
+        "name": "Gella",
+        "type": "Water",
+        "base_hp": "71",
+        "base_spe": "128",
+        "base_atk": "83",
+        "base_def": "98",
+        "base_sp": {
+            "a": "136",
+            "d": "80"
         },
-        "Base-SP": "34",
-        "Max-Hp": "180",
-        "Max-Spe": "133",
-        "Max-Atk": "88",
-        "Max-Def": "103",
-        "Max-Sp": {
-            "A": "141",
-            "D": "85"
+        "base_sp": "34",
+        "max_hp": "180",
+        "max_spe": "133",
+        "max_atk": "88",
+        "max_def": "103",
+        "max_sp": {
+            "a": "141",
+            "d": "85"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gella",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "52",
-        "Name": "Gellish",
-        "Type": "Water",
-        "Base-Hp": "122",
-        "Base-Spe": "161",
-        "Base-Atk": "138",
-        "Base-Def": "114",
-        "Base-Sp": {
-            "A": "176",
-            "D": "128"
+        "id": "52",
+        "name": "Gellish",
+        "type": "Water",
+        "base_hp": "122",
+        "base_spe": "161",
+        "base_atk": "138",
+        "base_def": "114",
+        "base_sp": {
+            "a": "176",
+            "d": "128"
         },
-        "Base-SP": "34",
-        "Max-Hp": "231",
-        "Max-Spe": "166",
-        "Max-Atk": "143",
-        "Max-Def": "119",
-        "Max-Sp": {
-            "A": "181",
-            "D": "133"
+        "base_sp": "34",
+        "max_hp": "231",
+        "max_spe": "166",
+        "max_atk": "143",
+        "max_def": "119",
+        "max_sp": {
+            "a": "181",
+            "d": "133"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gellish",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "53",
-        "Name": "Gelaquad",
-        "Type": "Water",
-        "Base-Hp": "174",
-        "Base-Spe": "188",
-        "Base-Atk": "226",
-        "Base-Def": "159",
-        "Base-Sp": {
-            "A": "182",
-            "D": "131"
+        "id": "53",
+        "name": "Gelaquad",
+        "type": "Water",
+        "base_hp": "174",
+        "base_spe": "188",
+        "base_atk": "226",
+        "base_def": "159",
+        "base_sp": {
+            "a": "182",
+            "d": "131"
         },
-        "Base-SP": "34",
-        "Max-Hp": "283",
-        "Max-Spe": "193",
-        "Max-Atk": "231",
-        "Max-Def": "164",
-        "Max-Sp": {
-            "A": "187",
-            "D": "136"
+        "base_sp": "34",
+        "max_hp": "283",
+        "max_spe": "193",
+        "max_atk": "231",
+        "max_def": "164",
+        "max_sp": {
+            "a": "187",
+            "d": "136"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gelaquad",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "54",
-        "Name": "Skarbone",
-        "Type": "Sand",
-        "Base-Hp": "143",
-        "Base-Spe": "68",
-        "Base-Atk": "158",
-        "Base-Def": "94",
-        "Base-Sp": {
-            "A": "63",
-            "D": "65"
+        "id": "54",
+        "name": "Skarbone",
+        "type": "Sand",
+        "base_hp": "143",
+        "base_spe": "68",
+        "base_atk": "158",
+        "base_def": "94",
+        "base_sp": {
+            "a": "63",
+            "d": "65"
         },
-        "Base-SP": "34",
-        "Max-Hp": "252",
-        "Max-Spe": "73",
-        "Max-Atk": "163",
-        "Max-Def": "99",
-        "Max-Sp": {
-            "A": "68",
-            "D": "70"
+        "base_sp": "34",
+        "max_hp": "252",
+        "max_spe": "73",
+        "max_atk": "163",
+        "max_def": "99",
+        "max_sp": {
+            "a": "68",
+            "d": "70"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Skarbone",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "55",
-        "Name": "Skuldra",
-        "Type": "Sand",
-        "Base-Hp": "152",
-        "Base-Spe": "90",
-        "Base-Atk": "202",
-        "Base-Def": "141",
-        "Base-Sp": {
-            "A": "107",
-            "D": "121"
+        "id": "55",
+        "name": "Skuldra",
+        "type": "Sand",
+        "base_hp": "152",
+        "base_spe": "90",
+        "base_atk": "202",
+        "base_def": "141",
+        "base_sp": {
+            "a": "107",
+            "d": "121"
         },
-        "Base-SP": "34",
-        "Max-Hp": "261",
-        "Max-Spe": "95",
-        "Max-Atk": "207",
-        "Max-Def": "146",
-        "Max-Sp": {
-            "A": "112",
-            "D": "126"
+        "base_sp": "34",
+        "max_hp": "261",
+        "max_spe": "95",
+        "max_atk": "207",
+        "max_def": "146",
+        "max_sp": {
+            "a": "112",
+            "d": "126"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Skuldra",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "56",
-        "Name": "Skelatops",
-        "Type": "Sand",
-        "Base-Hp": "161",
-        "Base-Spe": "114",
-        "Base-Atk": "260",
-        "Base-Def": "183",
-        "Base-Sp": {
-            "A": "151",
-            "D": "178"
+        "id": "56",
+        "name": "Skelatops",
+        "type": "Sand",
+        "base_hp": "161",
+        "base_spe": "114",
+        "base_atk": "260",
+        "base_def": "183",
+        "base_sp": {
+            "a": "151",
+            "d": "178"
         },
-        "Base-SP": "34",
-        "Max-Hp": "270",
-        "Max-Spe": "119",
-        "Max-Atk": "265",
-        "Max-Def": "188",
-        "Max-Sp": {
-            "A": "156",
-            "D": "183"
+        "base_sp": "34",
+        "max_hp": "270",
+        "max_spe": "119",
+        "max_atk": "265",
+        "max_def": "188",
+        "max_sp": {
+            "a": "156",
+            "d": "183"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Skelatops",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "57",
-        "Name": "Droople",
-        "Type": "Ghost",
-        "Base-Hp": "122",
-        "Base-Spe": "86",
-        "Base-Atk": "98",
-        "Base-Def": "96",
-        "Base-Sp": {
-            "A": "82",
-            "D": "80"
+        "id": "57",
+        "name": "Droople",
+        "type": "Ghost",
+        "base_hp": "122",
+        "base_spe": "86",
+        "base_atk": "98",
+        "base_def": "96",
+        "base_sp": {
+            "a": "82",
+            "d": "80"
         },
-        "Base-SP": "34",
-        "Max-Hp": "231",
-        "Max-Spe": "91",
-        "Max-Atk": "103",
-        "Max-Def": "101",
-        "Max-Sp": {
-            "A": "87",
-            "D": "85"
+        "base_sp": "34",
+        "max_hp": "231",
+        "max_spe": "91",
+        "max_atk": "103",
+        "max_def": "101",
+        "max_sp": {
+            "a": "87",
+            "d": "85"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Droople",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "58",
-        "Name": "Mudma",
-        "Type": "Ghost",
-        "Base-Hp": "194",
-        "Base-Spe": "122",
-        "Base-Atk": "184",
-        "Base-Def": "174",
-        "Base-Sp": {
-            "A": "129",
-            "D": "168"
+        "id": "58",
+        "name": "Mudma",
+        "type": "Ghost",
+        "base_hp": "194",
+        "base_spe": "122",
+        "base_atk": "184",
+        "base_def": "174",
+        "base_sp": {
+            "a": "129",
+            "d": "168"
         },
-        "Base-SP": "34",
-        "Max-Hp": "303",
-        "Max-Spe": "127",
-        "Max-Atk": "189",
-        "Max-Def": "179",
-        "Max-Sp": {
-            "A": "134",
-            "D": "173"
+        "base_sp": "34",
+        "max_hp": "303",
+        "max_spe": "127",
+        "max_atk": "189",
+        "max_def": "179",
+        "max_sp": {
+            "a": "134",
+            "d": "173"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Mudma",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "59",
-        "Name": "Arcta",
-        "Type": "Ice",
-        "Base-Hp": "90",
-        "Base-Spe": "98",
-        "Base-Atk": "109",
-        "Base-Def": "117",
-        "Base-Sp": {
-            "A": "145",
-            "D": "126"
+        "id": "59",
+        "name": "Arcta",
+        "type": "Ice",
+        "base_hp": "90",
+        "base_spe": "98",
+        "base_atk": "109",
+        "base_def": "117",
+        "base_sp": {
+            "a": "145",
+            "d": "126"
         },
-        "Base-SP": "34",
-        "Max-Hp": "199",
-        "Max-Spe": "103",
-        "Max-Atk": "114",
-        "Max-Def": "122",
-        "Max-Sp": {
-            "A": "150",
-            "D": "131"
+        "base_sp": "34",
+        "max_hp": "199",
+        "max_spe": "103",
+        "max_atk": "114",
+        "max_def": "122",
+        "max_sp": {
+            "a": "150",
+            "d": "131"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcta",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "60",
-        "Name": "Arcturos",
-        "Type": "Ice",
-        "Base-Hp": "166",
-        "Base-Spe": "147",
-        "Base-Atk": "161",
-        "Base-Def": "171",
-        "Base-Sp": {
-            "A": "201",
-            "D": "212"
+        "id": "60",
+        "name": "Arcturos",
+        "type": "Ice",
+        "base_hp": "166",
+        "base_spe": "147",
+        "base_atk": "161",
+        "base_def": "171",
+        "base_sp": {
+            "a": "201",
+            "d": "212"
         },
-        "Base-SP": "34",
-        "Max-Hp": "275",
-        "Max-Spe": "152",
-        "Max-Atk": "166",
-        "Max-Def": "176",
-        "Max-Sp": {
-            "A": "206",
-            "D": "217"
+        "base_sp": "34",
+        "max_hp": "275",
+        "max_spe": "152",
+        "max_atk": "166",
+        "max_def": "176",
+        "max_sp": {
+            "a": "206",
+            "d": "217"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcturos",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "61",
-        "Name": "Seraphace",
-        "Type": "Ghost",
-        "Base-Hp": "138",
-        "Base-Spe": "70",
-        "Base-Atk": "92",
-        "Base-Def": "97",
-        "Base-Sp": {
-            "A": "122",
-            "D": "129"
+        "id": "61",
+        "name": "Seraphace",
+        "type": "Ghost",
+        "base_hp": "138",
+        "base_spe": "70",
+        "base_atk": "92",
+        "base_def": "97",
+        "base_sp": {
+            "a": "122",
+            "d": "129"
         },
-        "Base-SP": "34",
-        "Max-Hp": "247",
-        "Max-Spe": "75",
-        "Max-Atk": "97",
-        "Max-Def": "102",
-        "Max-Sp": {
-            "A": "127",
-            "D": "134"
+        "base_sp": "34",
+        "max_hp": "247",
+        "max_spe": "75",
+        "max_atk": "97",
+        "max_def": "102",
+        "max_sp": {
+            "a": "127",
+            "d": "134"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Seraphace",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "62",
-        "Name": "Grimmask",
-        "Type": "Ghost",
-        "Base-Hp": "191",
-        "Base-Spe": "121",
-        "Base-Atk": "143",
-        "Base-Def": "152",
-        "Base-Sp": {
-            "A": "211",
-            "D": "182"
+        "id": "62",
+        "name": "Grimmask",
+        "type": "Ghost",
+        "base_hp": "191",
+        "base_spe": "121",
+        "base_atk": "143",
+        "base_def": "152",
+        "base_sp": {
+            "a": "211",
+            "d": "182"
         },
-        "Base-SP": "34",
-        "Max-Hp": "300",
-        "Max-Spe": "126",
-        "Max-Atk": "148",
-        "Max-Def": "157",
-        "Max-Sp": {
-            "A": "216",
-            "D": "187"
+        "base_sp": "34",
+        "max_hp": "300",
+        "max_spe": "126",
+        "max_atk": "148",
+        "max_def": "157",
+        "max_sp": {
+            "a": "216",
+            "d": "187"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Grimmask",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "63",
-        "Name": "Squidma",
-        "Type": "Fire",
-        "Base-Hp": "76",
-        "Base-Spe": "142",
-        "Base-Atk": "78",
-        "Base-Def": "67",
-        "Base-Sp": {
-            "A": "101",
-            "D": "198"
+        "id": "63",
+        "name": "Squidma",
+        "type": "Fire",
+        "base_hp": "76",
+        "base_spe": "142",
+        "base_atk": "78",
+        "base_def": "67",
+        "base_sp": {
+            "a": "101",
+            "d": "198"
         },
-        "Base-SP": "34",
-        "Max-Hp": "185",
-        "Max-Spe": "147",
-        "Max-Atk": "83",
-        "Max-Def": "72",
-        "Max-Sp": {
-            "A": "106",
-            "D": "203"
+        "base_sp": "34",
+        "max_hp": "185",
+        "max_spe": "147",
+        "max_atk": "83",
+        "max_def": "72",
+        "max_sp": {
+            "a": "106",
+            "d": "203"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Squidma",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "64",
-        "Name": "Magmilus",
-        "Type": "Fire",
-        "Base-Hp": "198",
-        "Base-Spe": "201",
-        "Base-Atk": "139",
-        "Base-Def": "130",
-        "Base-Sp": {
-            "A": "181",
-            "D": "246"
+        "id": "64",
+        "name": "Magmilus",
+        "type": "Fire",
+        "base_hp": "198",
+        "base_spe": "201",
+        "base_atk": "139",
+        "base_def": "130",
+        "base_sp": {
+            "a": "181",
+            "d": "246"
         },
-        "Base-SP": "34",
-        "Max-Hp": "307",
-        "Max-Spe": "206",
-        "Max-Atk": "144",
-        "Max-Def": "135",
-        "Max-Sp": {
-            "A": "186",
-            "D": "251"
+        "base_sp": "34",
+        "max_hp": "307",
+        "max_spe": "206",
+        "max_atk": "144",
+        "max_def": "135",
+        "max_sp": {
+            "a": "186",
+            "d": "251"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Magmilus",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "65",
-        "Name": "Lumon",
-        "Type": "Electric",
-        "Base-Hp": "69",
-        "Base-Spe": "101",
-        "Base-Atk": "71",
-        "Base-Def": "78",
-        "Base-Sp": {
-            "A": "82",
-            "D": "112"
+        "id": "65",
+        "name": "Lumon",
+        "type": "Electric",
+        "base_hp": "69",
+        "base_spe": "101",
+        "base_atk": "71",
+        "base_def": "78",
+        "base_sp": {
+            "a": "82",
+            "d": "112"
         },
-        "Base-SP": "34",
-        "Max-Hp": "178",
-        "Max-Spe": "106",
-        "Max-Atk": "76",
-        "Max-Def": "83",
-        "Max-Sp": {
-            "A": "87",
-            "D": "117"
+        "base_sp": "34",
+        "max_hp": "178",
+        "max_spe": "106",
+        "max_atk": "76",
+        "max_def": "83",
+        "max_sp": {
+            "a": "87",
+            "d": "117"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumon",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "66",
-        "Name": "Lampyre",
-        "Type": "Electric",
-        "Base-Hp": "108",
-        "Base-Spe": "160",
-        "Base-Atk": "90",
-        "Base-Def": "111",
-        "Base-Sp": {
-            "A": "103",
-            "D": "133"
+        "id": "66",
+        "name": "Lampyre",
+        "type": "Electric",
+        "base_hp": "108",
+        "base_spe": "160",
+        "base_atk": "90",
+        "base_def": "111",
+        "base_sp": {
+            "a": "103",
+            "d": "133"
         },
-        "Base-SP": "34",
-        "Max-Hp": "217",
-        "Max-Spe": "165",
-        "Max-Atk": "95",
-        "Max-Def": "116",
-        "Max-Sp": {
-            "A": "108",
-            "D": "138"
+        "base_sp": "34",
+        "max_hp": "217",
+        "max_spe": "165",
+        "max_atk": "95",
+        "max_def": "116",
+        "max_sp": {
+            "a": "108",
+            "d": "138"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lampyre",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "67",
-        "Name": "Lumasect",
-        "Type": "Electric",
-        "Base-Hp": "185",
-        "Base-Spe": "224",
-        "Base-Atk": "108",
-        "Base-Def": "166",
-        "Base-Sp": {
-            "A": "134",
-            "D": "191"
+        "id": "67",
+        "name": "Lumasect",
+        "type": "Electric",
+        "base_hp": "185",
+        "base_spe": "224",
+        "base_atk": "108",
+        "base_def": "166",
+        "base_sp": {
+            "a": "134",
+            "d": "191"
         },
-        "Base-SP": "34",
-        "Max-Hp": "294",
-        "Max-Spe": "229",
-        "Max-Atk": "113",
-        "Max-Def": "171",
-        "Max-Sp": {
-            "A": "139",
-            "D": "196"
+        "base_sp": "34",
+        "max_hp": "294",
+        "max_spe": "229",
+        "max_atk": "113",
+        "max_def": "171",
+        "max_sp": {
+            "a": "139",
+            "d": "196"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumasect",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "68",
-        "Name": "Patterbit",
-        "Type": "Normal",
-        "Base-Hp": "98",
-        "Base-Spe": "79",
-        "Base-Atk": "88",
-        "Base-Def": "108",
-        "Base-Sp": {
-            "A": "143",
-            "D": "122"
+        "id": "68",
+        "name": "Patterbit",
+        "type": "Normal",
+        "base_hp": "98",
+        "base_spe": "79",
+        "base_atk": "88",
+        "base_def": "108",
+        "base_sp": {
+            "a": "143",
+            "d": "122"
         },
-        "Base-SP": "34",
-        "Max-Hp": "207",
-        "Max-Spe": "84",
-        "Max-Atk": "93",
-        "Max-Def": "113",
-        "Max-Sp": {
-            "A": "148",
-            "D": "127"
+        "base_sp": "34",
+        "max_hp": "207",
+        "max_spe": "84",
+        "max_atk": "93",
+        "max_def": "113",
+        "max_sp": {
+            "a": "148",
+            "d": "127"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Patterbit",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "69",
-        "Name": "Pitterbyte",
-        "Type": "Normal",
-        "Base-Hp": "142",
-        "Base-Spe": "102",
-        "Base-Atk": "139",
-        "Base-Def": "152",
-        "Base-Sp": {
-            "A": "175",
-            "D": "163"
+        "id": "69",
+        "name": "Pitterbyte",
+        "type": "Normal",
+        "base_hp": "142",
+        "base_spe": "102",
+        "base_atk": "139",
+        "base_def": "152",
+        "base_sp": {
+            "a": "175",
+            "d": "163"
         },
-        "Base-SP": "34",
-        "Max-Hp": "251",
-        "Max-Spe": "107",
-        "Max-Atk": "144",
-        "Max-Def": "157",
-        "Max-Sp": {
-            "A": "180",
-            "D": "168"
+        "base_sp": "34",
+        "max_hp": "251",
+        "max_spe": "107",
+        "max_atk": "144",
+        "max_def": "157",
+        "max_sp": {
+            "a": "180",
+            "d": "168"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Pitterbyte",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "70",
-        "Name": "Cyberite",
-        "Type": "Normal",
-        "Base-Hp": "168",
-        "Base-Spe": "121",
-        "Base-Atk": "161",
-        "Base-Def": "180",
-        "Base-Sp": {
-            "A": "214",
-            "D": "196"
+        "id": "70",
+        "name": "Cyberite",
+        "type": "Normal",
+        "base_hp": "168",
+        "base_spe": "121",
+        "base_atk": "161",
+        "base_def": "180",
+        "base_sp": {
+            "a": "214",
+            "d": "196"
         },
-        "Base-SP": "34",
-        "Max-Hp": "277",
-        "Max-Spe": "126",
-        "Max-Atk": "166",
-        "Max-Def": "185",
-        "Max-Sp": {
-            "A": "219",
-            "D": "201"
+        "base_sp": "34",
+        "max_hp": "277",
+        "max_spe": "126",
+        "max_atk": "166",
+        "max_def": "185",
+        "max_sp": {
+            "a": "219",
+            "d": "201"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Cyberite",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "71",
-        "Name": "Decibite",
-        "Type": "Sand",
-        "Base-Hp": "65",
-        "Base-Spe": "67",
-        "Base-Atk": "142",
-        "Base-Def": "208",
-        "Base-Sp": {
-            "A": "81",
-            "D": "72"
+        "id": "71",
+        "name": "Decibite",
+        "type": "Sand",
+        "base_hp": "65",
+        "base_spe": "67",
+        "base_atk": "142",
+        "base_def": "208",
+        "base_sp": {
+            "a": "81",
+            "d": "72"
         },
-        "Base-SP": "34",
-        "Max-Hp": "174",
-        "Max-Spe": "72",
-        "Max-Atk": "147",
-        "Max-Def": "213",
-        "Max-Sp": {
-            "A": "86",
-            "D": "77"
+        "base_sp": "34",
+        "max_hp": "174",
+        "max_spe": "72",
+        "max_atk": "147",
+        "max_def": "213",
+        "max_sp": {
+            "a": "86",
+            "d": "77"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Decibite",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "72",
-        "Name": "Centilla",
-        "Type": "Sand",
-        "Base-Hp": "97",
-        "Base-Spe": "82",
-        "Base-Atk": "180",
-        "Base-Def": "276",
-        "Base-Sp": {
-            "A": "99",
-            "D": "98"
+        "id": "72",
+        "name": "Centilla",
+        "type": "Sand",
+        "base_hp": "97",
+        "base_spe": "82",
+        "base_atk": "180",
+        "base_def": "276",
+        "base_sp": {
+            "a": "99",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "206",
-        "Max-Spe": "87",
-        "Max-Atk": "185",
-        "Max-Def": "281",
-        "Max-Sp": {
-            "A": "104",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "206",
+        "max_spe": "87",
+        "max_atk": "185",
+        "max_def": "281",
+        "max_sp": {
+            "a": "104",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Centilla",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "73",
-        "Name": "Millidont",
-        "Type": "Sand",
-        "Base-Hp": "128",
-        "Base-Spe": "98",
-        "Base-Atk": "194",
-        "Base-Def": "340",
-        "Base-Sp": {
-            "A": "120",
-            "D": "148"
+        "id": "73",
+        "name": "Millidont",
+        "type": "Sand",
+        "base_hp": "128",
+        "base_spe": "98",
+        "base_atk": "194",
+        "base_def": "340",
+        "base_sp": {
+            "a": "120",
+            "d": "148"
         },
-        "Base-SP": "34",
-        "Max-Hp": "237",
-        "Max-Spe": "103",
-        "Max-Atk": "199",
-        "Max-Def": "345",
-        "Max-Sp": {
-            "A": "125",
-            "D": "153"
+        "base_sp": "34",
+        "max_hp": "237",
+        "max_spe": "103",
+        "max_atk": "199",
+        "max_def": "345",
+        "max_sp": {
+            "a": "125",
+            "d": "153"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Millidont",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "74",
-        "Name": "Taddle",
-        "Type": "Water",
-        "Base-Hp": "78",
-        "Base-Spe": "181",
-        "Base-Atk": "96",
-        "Base-Def": "78",
-        "Base-Sp": {
-            "A": "83",
-            "D": "78"
+        "id": "74",
+        "name": "Taddle",
+        "type": "Water",
+        "base_hp": "78",
+        "base_spe": "181",
+        "base_atk": "96",
+        "base_def": "78",
+        "base_sp": {
+            "a": "83",
+            "d": "78"
         },
-        "Base-SP": "34",
-        "Max-Hp": "187",
-        "Max-Spe": "186",
-        "Max-Atk": "101",
-        "Max-Def": "83",
-        "Max-Sp": {
-            "A": "88",
-            "D": "83"
+        "base_sp": "34",
+        "max_hp": "187",
+        "max_spe": "186",
+        "max_atk": "101",
+        "max_def": "83",
+        "max_sp": {
+            "a": "88",
+            "d": "83"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Taddle",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "75",
-        "Name": "Fibio",
-        "Type": "Water",
-        "Base-Hp": "138",
-        "Base-Spe": "181",
-        "Base-Atk": "158",
-        "Base-Def": "94",
-        "Base-Sp": {
-            "A": "133",
-            "D": "88"
+        "id": "75",
+        "name": "Fibio",
+        "type": "Water",
+        "base_hp": "138",
+        "base_spe": "181",
+        "base_atk": "158",
+        "base_def": "94",
+        "base_sp": {
+            "a": "133",
+            "d": "88"
         },
-        "Base-SP": "34",
-        "Max-Hp": "247",
-        "Max-Spe": "186",
-        "Max-Atk": "163",
-        "Max-Def": "99",
-        "Max-Sp": {
-            "A": "138",
-            "D": "93"
+        "base_sp": "34",
+        "max_hp": "247",
+        "max_spe": "186",
+        "max_atk": "163",
+        "max_def": "99",
+        "max_sp": {
+            "a": "138",
+            "d": "93"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Fibio",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "76",
-        "Name": "Chonktoad",
-        "Type": "Water",
-        "Base-Hp": "178",
-        "Base-Spe": "142",
-        "Base-Atk": "188",
-        "Base-Def": "194",
-        "Base-Sp": {
-            "A": "172",
-            "D": "182"
+        "id": "76",
+        "name": "Chonktoad",
+        "type": "Water",
+        "base_hp": "178",
+        "base_spe": "142",
+        "base_atk": "188",
+        "base_def": "194",
+        "base_sp": {
+            "a": "172",
+            "d": "182"
         },
-        "Base-SP": "34",
-        "Max-Hp": "287",
-        "Max-Spe": "147",
-        "Max-Atk": "193",
-        "Max-Def": "199",
-        "Max-Sp": {
-            "A": "177",
-            "D": "187"
+        "base_sp": "34",
+        "max_hp": "287",
+        "max_spe": "147",
+        "max_atk": "193",
+        "max_def": "199",
+        "max_sp": {
+            "a": "177",
+            "d": "187"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Chonktoad",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "77",
-        "Name": "Tinshel",
-        "Type": "Sand",
-        "Base-Hp": "92",
-        "Base-Spe": "87",
-        "Base-Atk": "88",
-        "Base-Def": "161",
-        "Base-Sp": {
-            "A": "81",
-            "D": "109"
+        "id": "77",
+        "name": "Tinshel",
+        "type": "Sand",
+        "base_hp": "92",
+        "base_spe": "87",
+        "base_atk": "88",
+        "base_def": "161",
+        "base_sp": {
+            "a": "81",
+            "d": "109"
         },
-        "Base-SP": "34",
-        "Max-Hp": "201",
-        "Max-Spe": "92",
-        "Max-Atk": "93",
-        "Max-Def": "166",
-        "Max-Sp": {
-            "A": "86",
-            "D": "114"
+        "base_sp": "34",
+        "max_hp": "201",
+        "max_spe": "92",
+        "max_atk": "93",
+        "max_def": "166",
+        "max_sp": {
+            "a": "86",
+            "d": "114"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Tinshel",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "78",
-        "Name": "Dunpod",
-        "Type": "Sand",
-        "Base-Hp": "144",
-        "Base-Spe": "104",
-        "Base-Atk": "161",
-        "Base-Def": "203",
-        "Base-Sp": {
-            "A": "113",
-            "D": "121"
+        "id": "78",
+        "name": "Dunpod",
+        "type": "Sand",
+        "base_hp": "144",
+        "base_spe": "104",
+        "base_atk": "161",
+        "base_def": "203",
+        "base_sp": {
+            "a": "113",
+            "d": "121"
         },
-        "Base-SP": "34",
-        "Max-Hp": "253",
-        "Max-Spe": "109",
-        "Max-Atk": "166",
-        "Max-Def": "208",
-        "Max-Sp": {
-            "A": "118",
-            "D": "126"
+        "base_sp": "34",
+        "max_hp": "253",
+        "max_spe": "109",
+        "max_atk": "166",
+        "max_def": "208",
+        "max_sp": {
+            "a": "118",
+            "d": "126"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Dunpod",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "79",
-        "Name": "Sandril",
-        "Type": "Sand",
-        "Base-Hp": "185",
-        "Base-Spe": "109",
-        "Base-Atk": "218",
-        "Base-Def": "238",
-        "Base-Sp": {
-            "A": "148",
-            "D": "133"
+        "id": "79",
+        "name": "Sandril",
+        "type": "Sand",
+        "base_hp": "185",
+        "base_spe": "109",
+        "base_atk": "218",
+        "base_def": "238",
+        "base_sp": {
+            "a": "148",
+            "d": "133"
         },
-        "Base-SP": "34",
-        "Max-Hp": "294",
-        "Max-Spe": "114",
-        "Max-Atk": "223",
-        "Max-Def": "243",
-        "Max-Sp": {
-            "A": "153",
-            "D": "138"
+        "base_sp": "34",
+        "max_hp": "294",
+        "max_spe": "114",
+        "max_atk": "223",
+        "max_def": "243",
+        "max_sp": {
+            "a": "153",
+            "d": "138"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Sandril",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "80",
-        "Name": "Blizzburd",
-        "Type": "Ice",
-        "Base-Hp": "102",
-        "Base-Spe": "84",
-        "Base-Atk": "122",
-        "Base-Def": "93",
-        "Base-Sp": {
-            "A": "127",
-            "D": "122"
+        "id": "80",
+        "name": "Blizzburd",
+        "type": "Ice",
+        "base_hp": "102",
+        "base_spe": "84",
+        "base_atk": "122",
+        "base_def": "93",
+        "base_sp": {
+            "a": "127",
+            "d": "122"
         },
-        "Base-SP": "34",
-        "Max-Hp": "211",
-        "Max-Spe": "89",
-        "Max-Atk": "127",
-        "Max-Def": "98",
-        "Max-Sp": {
-            "A": "132",
-            "D": "127"
+        "base_sp": "34",
+        "max_hp": "211",
+        "max_spe": "89",
+        "max_atk": "127",
+        "max_def": "98",
+        "max_sp": {
+            "a": "132",
+            "d": "127"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Blizzburd",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "81",
-        "Name": "Blizzian",
-        "Type": "Ice",
-        "Base-Hp": "183",
-        "Base-Spe": "118",
-        "Base-Atk": "194",
-        "Base-Def": "179",
-        "Base-Sp": {
-            "A": "182",
-            "D": "176"
+        "id": "81",
+        "name": "Blizzian",
+        "type": "Ice",
+        "base_hp": "183",
+        "base_spe": "118",
+        "base_atk": "194",
+        "base_def": "179",
+        "base_sp": {
+            "a": "182",
+            "d": "176"
         },
-        "Base-SP": "34",
-        "Max-Hp": "292",
-        "Max-Spe": "123",
-        "Max-Atk": "199",
-        "Max-Def": "184",
-        "Max-Sp": {
-            "A": "187",
-            "D": "181"
+        "base_sp": "34",
+        "max_hp": "292",
+        "max_spe": "123",
+        "max_atk": "199",
+        "max_def": "184",
+        "max_sp": {
+            "a": "187",
+            "d": "181"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Blizzian",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "82",
-        "Name": "Purrgy",
-        "Type": "Ghost",
-        "Base-Hp": "88",
-        "Base-Spe": "100",
-        "Base-Atk": "102",
-        "Base-Def": "78",
-        "Base-Sp": {
-            "A": "118",
-            "D": "84"
+        "id": "82",
+        "name": "Purrgy",
+        "type": "Ghost",
+        "base_hp": "88",
+        "base_spe": "100",
+        "base_atk": "102",
+        "base_def": "78",
+        "base_sp": {
+            "a": "118",
+            "d": "84"
         },
-        "Base-SP": "34",
-        "Max-Hp": "197",
-        "Max-Spe": "105",
-        "Max-Atk": "107",
-        "Max-Def": "83",
-        "Max-Sp": {
-            "A": "123",
-            "D": "89"
+        "base_sp": "34",
+        "max_hp": "197",
+        "max_spe": "105",
+        "max_atk": "107",
+        "max_def": "83",
+        "max_sp": {
+            "a": "123",
+            "d": "89"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Purrgy",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "83",
-        "Name": "Ghinx",
-        "Type": "Ghost",
-        "Base-Hp": "117",
-        "Base-Spe": "129",
-        "Base-Atk": "131",
-        "Base-Def": "116",
-        "Base-Sp": {
-            "A": "157",
-            "D": "128"
+        "id": "83",
+        "name": "Ghinx",
+        "type": "Ghost",
+        "base_hp": "117",
+        "base_spe": "129",
+        "base_atk": "131",
+        "base_def": "116",
+        "base_sp": {
+            "a": "157",
+            "d": "128"
         },
-        "Base-SP": "34",
-        "Max-Hp": "226",
-        "Max-Spe": "134",
-        "Max-Atk": "136",
-        "Max-Def": "121",
-        "Max-Sp": {
-            "A": "162",
-            "D": "133"
+        "base_sp": "34",
+        "max_hp": "226",
+        "max_spe": "134",
+        "max_atk": "136",
+        "max_def": "121",
+        "max_sp": {
+            "a": "162",
+            "d": "133"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ghinx",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "84",
-        "Name": "Purrghast",
-        "Type": "Ghost",
-        "Base-Hp": "158",
-        "Base-Spe": "182",
-        "Base-Atk": "185",
-        "Base-Def": "138",
-        "Base-Sp": {
-            "A": "204",
-            "D": "169"
+        "id": "84",
+        "name": "Purrghast",
+        "type": "Ghost",
+        "base_hp": "158",
+        "base_spe": "182",
+        "base_atk": "185",
+        "base_def": "138",
+        "base_sp": {
+            "a": "204",
+            "d": "169"
         },
-        "Base-SP": "34",
-        "Max-Hp": "267",
-        "Max-Spe": "187",
-        "Max-Atk": "190",
-        "Max-Def": "143",
-        "Max-Sp": {
-            "A": "209",
-            "D": "174"
+        "base_sp": "34",
+        "max_hp": "267",
+        "max_spe": "187",
+        "max_atk": "190",
+        "max_def": "143",
+        "max_sp": {
+            "a": "209",
+            "d": "174"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Purrghast",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "85",
-        "Name": "Gauslime",
-        "Type": "Electric",
-        "Base-Hp": "49",
-        "Base-Spe": "78",
-        "Base-Atk": "141",
-        "Base-Def": "142",
-        "Base-Sp": {
-            "A": "121",
-            "D": "106"
+        "id": "85",
+        "name": "Gauslime",
+        "type": "Electric",
+        "base_hp": "49",
+        "base_spe": "78",
+        "base_atk": "141",
+        "base_def": "142",
+        "base_sp": {
+            "a": "121",
+            "d": "106"
         },
-        "Base-SP": "34",
-        "Max-Hp": "158",
-        "Max-Spe": "83",
-        "Max-Atk": "146",
-        "Max-Def": "147",
-        "Max-Sp": {
-            "A": "126",
-            "D": "111"
+        "base_sp": "34",
+        "max_hp": "158",
+        "max_spe": "83",
+        "max_atk": "146",
+        "max_def": "147",
+        "max_sp": {
+            "a": "126",
+            "d": "111"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gauslime",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "86",
-        "Name": "Magnamire",
-        "Type": "Electric",
-        "Base-Hp": "133",
-        "Base-Spe": "117",
-        "Base-Atk": "218",
-        "Base-Def": "209",
-        "Base-Sp": {
-            "A": "163",
-            "D": "172"
+        "id": "86",
+        "name": "Magnamire",
+        "type": "Electric",
+        "base_hp": "133",
+        "base_spe": "117",
+        "base_atk": "218",
+        "base_def": "209",
+        "base_sp": {
+            "a": "163",
+            "d": "172"
         },
-        "Base-SP": "34",
-        "Max-Hp": "242",
-        "Max-Spe": "122",
-        "Max-Atk": "223",
-        "Max-Def": "214",
-        "Max-Sp": {
-            "A": "168",
-            "D": "177"
+        "base_sp": "34",
+        "max_hp": "242",
+        "max_spe": "122",
+        "max_atk": "223",
+        "max_def": "214",
+        "max_sp": {
+            "a": "168",
+            "d": "177"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Magnamire",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "87",
-        "Name": "Quagoo",
-        "Type": "Water",
-        "Base-Hp": "81",
-        "Base-Spe": "121",
-        "Base-Atk": "88",
-        "Base-Def": "141",
-        "Base-Sp": {
-            "A": "141",
-            "D": "108"
+        "id": "87",
+        "name": "Quagoo",
+        "type": "Water",
+        "base_hp": "81",
+        "base_spe": "121",
+        "base_atk": "88",
+        "base_def": "141",
+        "base_sp": {
+            "a": "141",
+            "d": "108"
         },
-        "Base-SP": "34",
-        "Max-Hp": "190",
-        "Max-Spe": "126",
-        "Max-Atk": "93",
-        "Max-Def": "146",
-        "Max-Sp": {
-            "A": "146",
-            "D": "113"
+        "base_sp": "34",
+        "max_hp": "190",
+        "max_spe": "126",
+        "max_atk": "93",
+        "max_def": "146",
+        "max_sp": {
+            "a": "146",
+            "d": "113"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Quagoo",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "88",
-        "Name": "Swampa",
-        "Type": "Water",
-        "Base-Hp": "143",
-        "Base-Spe": "183",
-        "Base-Atk": "182",
-        "Base-Def": "204",
-        "Base-Sp": {
-            "A": "212",
-            "D": "167"
+        "id": "88",
+        "name": "Swampa",
+        "type": "Water",
+        "base_hp": "143",
+        "base_spe": "183",
+        "base_atk": "182",
+        "base_def": "204",
+        "base_sp": {
+            "a": "212",
+            "d": "167"
         },
-        "Base-SP": "34",
-        "Max-Hp": "252",
-        "Max-Spe": "188",
-        "Max-Atk": "187",
-        "Max-Def": "209",
-        "Max-Sp": {
-            "A": "217",
-            "D": "172"
+        "base_sp": "34",
+        "max_hp": "252",
+        "max_spe": "188",
+        "max_atk": "187",
+        "max_def": "209",
+        "max_sp": {
+            "a": "217",
+            "d": "172"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Swampa",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "89",
-        "Name": "Squidly",
-        "Type": "Ghost",
-        "Base-Hp": "48",
-        "Base-Spe": "181",
-        "Base-Atk": "39",
-        "Base-Def": "31",
-        "Base-Sp": {
-            "A": "212",
-            "D": "111"
+        "id": "89",
+        "name": "Squidly",
+        "type": "Ghost",
+        "base_hp": "48",
+        "base_spe": "181",
+        "base_atk": "39",
+        "base_def": "31",
+        "base_sp": {
+            "a": "212",
+            "d": "111"
         },
-        "Base-SP": "34",
-        "Max-Hp": "157",
-        "Max-Spe": "186",
-        "Max-Atk": "44",
-        "Max-Def": "36",
-        "Max-Sp": {
-            "A": "217",
-            "D": "116"
+        "base_sp": "34",
+        "max_hp": "157",
+        "max_spe": "186",
+        "max_atk": "44",
+        "max_def": "36",
+        "max_sp": {
+            "a": "217",
+            "d": "116"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Squidly",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "90",
-        "Name": "Octotle",
-        "Type": "Ghost",
-        "Base-Hp": "88",
-        "Base-Spe": "214",
-        "Base-Atk": "68",
-        "Base-Def": "123",
-        "Base-Sp": {
-            "A": "251",
-            "D": "276"
+        "id": "90",
+        "name": "Octotle",
+        "type": "Ghost",
+        "base_hp": "88",
+        "base_spe": "214",
+        "base_atk": "68",
+        "base_def": "123",
+        "base_sp": {
+            "a": "251",
+            "d": "276"
         },
-        "Base-SP": "34",
-        "Max-Hp": "197",
-        "Max-Spe": "219",
-        "Max-Atk": "73",
-        "Max-Def": "128",
-        "Max-Sp": {
-            "A": "256",
-            "D": "281"
+        "base_sp": "34",
+        "max_hp": "197",
+        "max_spe": "219",
+        "max_atk": "73",
+        "max_def": "128",
+        "max_sp": {
+            "a": "256",
+            "d": "281"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Octotle",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "91",
-        "Name": "Ruptius",
-        "Type": "Fire",
-        "Base-Hp": "88",
-        "Base-Spe": "68",
-        "Base-Atk": "66",
-        "Base-Def": "111",
-        "Base-Sp": {
-            "A": "132",
-            "D": "128"
+        "id": "91",
+        "name": "Ruptius",
+        "type": "Fire",
+        "base_hp": "88",
+        "base_spe": "68",
+        "base_atk": "66",
+        "base_def": "111",
+        "base_sp": {
+            "a": "132",
+            "d": "128"
         },
-        "Base-SP": "34",
-        "Max-Hp": "197",
-        "Max-Spe": "73",
-        "Max-Atk": "71",
-        "Max-Def": "116",
-        "Max-Sp": {
-            "A": "137",
-            "D": "133"
+        "base_sp": "34",
+        "max_hp": "197",
+        "max_spe": "73",
+        "max_atk": "71",
+        "max_def": "116",
+        "max_sp": {
+            "a": "137",
+            "d": "133"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ruptius",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "92",
-        "Name": "Vulbrute",
-        "Type": "Fire",
-        "Base-Hp": "166",
-        "Base-Spe": "84",
-        "Base-Atk": "142",
-        "Base-Def": "254",
-        "Base-Sp": {
-            "A": "218",
-            "D": "195"
+        "id": "92",
+        "name": "Vulbrute",
+        "type": "Fire",
+        "base_hp": "166",
+        "base_spe": "84",
+        "base_atk": "142",
+        "base_def": "254",
+        "base_sp": {
+            "a": "218",
+            "d": "195"
         },
-        "Base-SP": "34",
-        "Max-Hp": "275",
-        "Max-Spe": "89",
-        "Max-Atk": "147",
-        "Max-Def": "259",
-        "Max-Sp": {
-            "A": "223",
-            "D": "200"
+        "base_sp": "34",
+        "max_hp": "275",
+        "max_spe": "89",
+        "max_atk": "147",
+        "max_def": "259",
+        "max_sp": {
+            "a": "223",
+            "d": "200"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Vulbrute",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "93",
-        "Name": "Mooby",
-        "Type": "Sand",
-        "Base-Hp": "68",
-        "Base-Spe": "68",
-        "Base-Atk": "72",
-        "Base-Def": "68",
-        "Base-Sp": {
-            "A": "64",
-            "D": "68"
+        "id": "93",
+        "name": "Mooby",
+        "type": "Sand",
+        "base_hp": "68",
+        "base_spe": "68",
+        "base_atk": "72",
+        "base_def": "68",
+        "base_sp": {
+            "a": "64",
+            "d": "68"
         },
-        "Base-SP": "34",
-        "Max-Hp": "177",
-        "Max-Spe": "73",
-        "Max-Atk": "77",
-        "Max-Def": "73",
-        "Max-Sp": {
-            "A": "69",
-            "D": "73"
+        "base_sp": "34",
+        "max_hp": "177",
+        "max_spe": "73",
+        "max_atk": "77",
+        "max_def": "73",
+        "max_sp": {
+            "a": "69",
+            "d": "73"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Mooby",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "94",
-        "Name": "Molbash",
-        "Type": "Sand",
-        "Base-Hp": "92",
-        "Base-Spe": "102",
-        "Base-Atk": "188",
-        "Base-Def": "172",
-        "Base-Sp": {
-            "A": "79",
-            "D": "181"
+        "id": "94",
+        "name": "Molbash",
+        "type": "Sand",
+        "base_hp": "92",
+        "base_spe": "102",
+        "base_atk": "188",
+        "base_def": "172",
+        "base_sp": {
+            "a": "79",
+            "d": "181"
         },
-        "Base-SP": "34",
-        "Max-Hp": "201",
-        "Max-Spe": "107",
-        "Max-Atk": "193",
-        "Max-Def": "177",
-        "Max-Sp": {
-            "A": "84",
-            "D": "186"
+        "base_sp": "34",
+        "max_hp": "201",
+        "max_spe": "107",
+        "max_atk": "193",
+        "max_def": "177",
+        "max_sp": {
+            "a": "84",
+            "d": "186"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Molbash",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "95",
-        "Name": "Malavite",
-        "Type": "Sand",
-        "Base-Hp": "160",
-        "Base-Spe": "124",
-        "Base-Atk": "242",
-        "Base-Def": "188",
-        "Base-Sp": {
-            "A": "97",
-            "D": "240"
+        "id": "95",
+        "name": "Malavite",
+        "type": "Sand",
+        "base_hp": "160",
+        "base_spe": "124",
+        "base_atk": "242",
+        "base_def": "188",
+        "base_sp": {
+            "a": "97",
+            "d": "240"
         },
-        "Base-SP": "34",
-        "Max-Hp": "269",
-        "Max-Spe": "129",
-        "Max-Atk": "247",
-        "Max-Def": "193",
-        "Max-Sp": {
-            "A": "102",
-            "D": "245"
+        "base_sp": "34",
+        "max_hp": "269",
+        "max_spe": "129",
+        "max_atk": "247",
+        "max_def": "193",
+        "max_sp": {
+            "a": "102",
+            "d": "245"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Malavite",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "96",
-        "Name": "Flowish",
-        "Type": "Water",
-        "Base-Hp": "74",
-        "Base-Spe": "138",
-        "Base-Atk": "118",
-        "Base-Def": "74",
-        "Base-Sp": {
-            "A": "68",
-            "D": "91"
+        "id": "96",
+        "name": "Flowish",
+        "type": "Water",
+        "base_hp": "74",
+        "base_spe": "138",
+        "base_atk": "118",
+        "base_def": "74",
+        "base_sp": {
+            "a": "68",
+            "d": "91"
         },
-        "Base-SP": "34",
-        "Max-Hp": "183",
-        "Max-Spe": "143",
-        "Max-Atk": "123",
-        "Max-Def": "79",
-        "Max-Sp": {
-            "A": "73",
-            "D": "96"
+        "base_sp": "34",
+        "max_hp": "183",
+        "max_spe": "143",
+        "max_atk": "123",
+        "max_def": "79",
+        "max_sp": {
+            "a": "73",
+            "d": "96"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Flowish",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "97",
-        "Name": "Daricara",
-        "Type": "Water",
-        "Base-Hp": "192",
-        "Base-Spe": "161",
-        "Base-Atk": "221",
-        "Base-Def": "163",
-        "Base-Sp": {
-            "A": "159",
-            "D": "197"
+        "id": "97",
+        "name": "Daricara",
+        "type": "Water",
+        "base_hp": "192",
+        "base_spe": "161",
+        "base_atk": "221",
+        "base_def": "163",
+        "base_sp": {
+            "a": "159",
+            "d": "197"
         },
-        "Base-SP": "34",
-        "Max-Hp": "301",
-        "Max-Spe": "166",
-        "Max-Atk": "226",
-        "Max-Def": "168",
-        "Max-Sp": {
-            "A": "164",
-            "D": "202"
+        "base_sp": "34",
+        "max_hp": "301",
+        "max_spe": "166",
+        "max_atk": "226",
+        "max_def": "168",
+        "max_sp": {
+            "a": "164",
+            "d": "202"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Daricara",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "98",
-        "Name": "Mino",
-        "Type": "Fire",
-        "Base-Hp": "71",
-        "Base-Spe": "140",
-        "Base-Atk": "122",
-        "Base-Def": "61",
-        "Base-Sp": {
-            "A": "98",
-            "D": "98"
+        "id": "98",
+        "name": "Mino",
+        "type": "Fire",
+        "base_hp": "71",
+        "base_spe": "140",
+        "base_atk": "122",
+        "base_def": "61",
+        "base_sp": {
+            "a": "98",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "180",
-        "Max-Spe": "145",
-        "Max-Atk": "127",
-        "Max-Def": "66",
-        "Max-Sp": {
-            "A": "103",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "180",
+        "max_spe": "145",
+        "max_atk": "127",
+        "max_def": "66",
+        "max_sp": {
+            "a": "103",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Mino",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "99",
-        "Name": "Blazitaur",
-        "Type": "Fire",
-        "Base-Hp": "132",
-        "Base-Spe": "212",
-        "Base-Atk": "204",
-        "Base-Def": "138",
-        "Base-Sp": {
-            "A": "157",
-            "D": "159"
+        "id": "99",
+        "name": "Blazitaur",
+        "type": "Fire",
+        "base_hp": "132",
+        "base_spe": "212",
+        "base_atk": "204",
+        "base_def": "138",
+        "base_sp": {
+            "a": "157",
+            "d": "159"
         },
-        "Base-SP": "34",
-        "Max-Hp": "241",
-        "Max-Spe": "217",
-        "Max-Atk": "209",
-        "Max-Def": "143",
-        "Max-Sp": {
-            "A": "162",
-            "D": "164"
+        "base_sp": "34",
+        "max_hp": "241",
+        "max_spe": "217",
+        "max_atk": "209",
+        "max_def": "143",
+        "max_sp": {
+            "a": "162",
+            "d": "164"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Blazitaur",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "100",
-        "Name": "Frova",
-        "Type": "Ice",
-        "Base-Hp": "58",
-        "Base-Spe": "84",
-        "Base-Atk": "48",
-        "Base-Def": "46",
-        "Base-Sp": {
-            "A": "91",
-            "D": "71"
+        "id": "100",
+        "name": "Frova",
+        "type": "Ice",
+        "base_hp": "58",
+        "base_spe": "84",
+        "base_atk": "48",
+        "base_def": "46",
+        "base_sp": {
+            "a": "91",
+            "d": "71"
         },
-        "Base-SP": "34",
-        "Max-Hp": "167",
-        "Max-Spe": "89",
-        "Max-Atk": "53",
-        "Max-Def": "51",
-        "Max-Sp": {
-            "A": "96",
-            "D": "76"
+        "base_sp": "34",
+        "max_hp": "167",
+        "max_spe": "89",
+        "max_atk": "53",
+        "max_def": "51",
+        "max_sp": {
+            "a": "96",
+            "d": "76"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Frova",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "101",
-        "Name": "Froshell",
-        "Type": "Ice",
-        "Base-Hp": "86",
-        "Base-Spe": "92",
-        "Base-Atk": "65",
-        "Base-Def": "104",
-        "Base-Sp": {
-            "A": "115",
-            "D": "152"
+        "id": "101",
+        "name": "Froshell",
+        "type": "Ice",
+        "base_hp": "86",
+        "base_spe": "92",
+        "base_atk": "65",
+        "base_def": "104",
+        "base_sp": {
+            "a": "115",
+            "d": "152"
         },
-        "Base-SP": "34",
-        "Max-Hp": "195",
-        "Max-Spe": "97",
-        "Max-Atk": "70",
-        "Max-Def": "109",
-        "Max-Sp": {
-            "A": "120",
-            "D": "157"
+        "base_sp": "34",
+        "max_hp": "195",
+        "max_spe": "97",
+        "max_atk": "70",
+        "max_def": "109",
+        "max_sp": {
+            "a": "120",
+            "d": "157"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Froshell",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "102",
-        "Name": "Glamoth",
-        "Type": "Ice",
-        "Base-Hp": "150",
-        "Base-Spe": "190",
-        "Base-Atk": "139",
-        "Base-Def": "128",
-        "Base-Sp": {
-            "A": "220",
-            "D": "226"
+        "id": "102",
+        "name": "Glamoth",
+        "type": "Ice",
+        "base_hp": "150",
+        "base_spe": "190",
+        "base_atk": "139",
+        "base_def": "128",
+        "base_sp": {
+            "a": "220",
+            "d": "226"
         },
-        "Base-SP": "34",
-        "Max-Hp": "259",
-        "Max-Spe": "195",
-        "Max-Atk": "144",
-        "Max-Def": "133",
-        "Max-Sp": {
-            "A": "225",
-            "D": "231"
+        "base_sp": "34",
+        "max_hp": "259",
+        "max_spe": "195",
+        "max_atk": "144",
+        "max_def": "133",
+        "max_sp": {
+            "a": "225",
+            "d": "231"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Glamoth",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "103",
-        "Name": "Otogy",
-        "Type": "Ghost",
-        "Base-Hp": "148",
-        "Base-Spe": "49",
-        "Base-Atk": "118",
-        "Base-Def": "78",
-        "Base-Sp": {
-            "A": "138",
-            "D": "78"
+        "id": "103",
+        "name": "Otogy",
+        "type": "Ghost",
+        "base_hp": "148",
+        "base_spe": "49",
+        "base_atk": "118",
+        "base_def": "78",
+        "base_sp": {
+            "a": "138",
+            "d": "78"
         },
-        "Base-SP": "34",
-        "Max-Hp": "257",
-        "Max-Spe": "54",
-        "Max-Atk": "123",
-        "Max-Def": "83",
-        "Max-Sp": {
-            "A": "143",
-            "D": "83"
+        "base_sp": "34",
+        "max_hp": "257",
+        "max_spe": "54",
+        "max_atk": "123",
+        "max_def": "83",
+        "max_sp": {
+            "a": "143",
+            "d": "83"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Otogy",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "104",
-        "Name": "Orotchy",
-        "Type": "Ghost",
-        "Base-Hp": "237",
-        "Base-Spe": "99",
-        "Base-Atk": "219",
-        "Base-Def": "161",
-        "Base-Sp": {
-            "A": "176",
-            "D": "138"
+        "id": "104",
+        "name": "Orotchy",
+        "type": "Ghost",
+        "base_hp": "237",
+        "base_spe": "99",
+        "base_atk": "219",
+        "base_def": "161",
+        "base_sp": {
+            "a": "176",
+            "d": "138"
         },
-        "Base-SP": "34",
-        "Max-Hp": "346",
-        "Max-Spe": "104",
-        "Max-Atk": "224",
-        "Max-Def": "166",
-        "Max-Sp": {
-            "A": "181",
-            "D": "143"
+        "base_sp": "34",
+        "max_hp": "346",
+        "max_spe": "104",
+        "max_atk": "224",
+        "max_def": "166",
+        "max_sp": {
+            "a": "181",
+            "d": "143"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Orotchy",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "105",
-        "Name": "Shimshell",
-        "Type": "Water",
-        "Base-Hp": "58",
-        "Base-Spe": "78",
-        "Base-Atk": "132",
-        "Base-Def": "202",
-        "Base-Sp": {
-            "A": "88",
-            "D": "49"
+        "id": "105",
+        "name": "Shimshell",
+        "type": "Water",
+        "base_hp": "58",
+        "base_spe": "78",
+        "base_atk": "132",
+        "base_def": "202",
+        "base_sp": {
+            "a": "88",
+            "d": "49"
         },
-        "Base-SP": "34",
-        "Max-Hp": "167",
-        "Max-Spe": "83",
-        "Max-Atk": "137",
-        "Max-Def": "207",
-        "Max-Sp": {
-            "A": "93",
-            "D": "54"
+        "base_sp": "34",
+        "max_hp": "167",
+        "max_spe": "83",
+        "max_atk": "137",
+        "max_def": "207",
+        "max_sp": {
+            "a": "93",
+            "d": "54"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Shimshell",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "106",
-        "Name": "Atlantern",
-        "Type": "Water",
-        "Base-Hp": "117",
-        "Base-Spe": "137",
-        "Base-Atk": "181",
-        "Base-Def": "344",
-        "Base-Sp": {
-            "A": "204",
-            "D": "102"
+        "id": "106",
+        "name": "Atlantern",
+        "type": "Water",
+        "base_hp": "117",
+        "base_spe": "137",
+        "base_atk": "181",
+        "base_def": "344",
+        "base_sp": {
+            "a": "204",
+            "d": "102"
         },
-        "Base-SP": "34",
-        "Max-Hp": "226",
-        "Max-Spe": "142",
-        "Max-Atk": "186",
-        "Max-Def": "349",
-        "Max-Sp": {
-            "A": "209",
-            "D": "107"
+        "base_sp": "34",
+        "max_hp": "226",
+        "max_spe": "142",
+        "max_atk": "186",
+        "max_def": "349",
+        "max_sp": {
+            "a": "209",
+            "d": "107"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Atlantern",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "107",
-        "Name": "Ucaclaw",
-        "Type": "Dark Magic",
-        "Base-Hp": "143",
-        "Base-Spe": "148",
-        "Base-Atk": "278",
-        "Base-Def": "245",
-        "Base-Sp": {
-            "A": "128",
-            "D": "104"
+        "id": "107",
+        "name": "Ucaclaw",
+        "type": "Dark Magic",
+        "base_hp": "143",
+        "base_spe": "148",
+        "base_atk": "278",
+        "base_def": "245",
+        "base_sp": {
+            "a": "128",
+            "d": "104"
         },
-        "Base-SP": "34",
-        "Max-Hp": "252",
-        "Max-Spe": "153",
-        "Max-Atk": "283",
-        "Max-Def": "250",
-        "Max-Sp": {
-            "A": "133",
-            "D": "109"
+        "base_sp": "34",
+        "max_hp": "252",
+        "max_spe": "153",
+        "max_atk": "283",
+        "max_def": "250",
+        "max_sp": {
+            "a": "133",
+            "d": "109"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ucaclaw",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "108",
-        "Name": "Lumon",
-        "Type": "Dark Magic",
-        "Base-Hp": "69",
-        "Base-Spe": "101",
-        "Base-Atk": "71",
-        "Base-Def": "78",
-        "Base-Sp": {
-            "A": "82",
-            "D": "112"
+        "id": "108",
+        "name": "Lumon",
+        "type": "Dark Magic",
+        "base_hp": "69",
+        "base_spe": "101",
+        "base_atk": "71",
+        "base_def": "78",
+        "base_sp": {
+            "a": "82",
+            "d": "112"
         },
-        "Base-SP": "34",
-        "Max-Hp": "178",
-        "Max-Spe": "106",
-        "Max-Atk": "76",
-        "Max-Def": "83",
-        "Max-Sp": {
-            "A": "87",
-            "D": "117"
+        "base_sp": "34",
+        "max_hp": "178",
+        "max_spe": "106",
+        "max_atk": "76",
+        "max_def": "83",
+        "max_sp": {
+            "a": "87",
+            "d": "117"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumon",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "109",
-        "Name": "Lampyre",
-        "Type": "Dark Magic",
-        "Base-Hp": "108",
-        "Base-Spe": "160",
-        "Base-Atk": "90",
-        "Base-Def": "111",
-        "Base-Sp": {
-            "A": "103",
-            "D": "133"
+        "id": "109",
+        "name": "Lampyre",
+        "type": "Dark Magic",
+        "base_hp": "108",
+        "base_spe": "160",
+        "base_atk": "90",
+        "base_def": "111",
+        "base_sp": {
+            "a": "103",
+            "d": "133"
         },
-        "Base-SP": "34",
-        "Max-Hp": "217",
-        "Max-Spe": "165",
-        "Max-Atk": "95",
-        "Max-Def": "116",
-        "Max-Sp": {
-            "A": "108",
-            "D": "138"
+        "base_sp": "34",
+        "max_hp": "217",
+        "max_spe": "165",
+        "max_atk": "95",
+        "max_def": "116",
+        "max_sp": {
+            "a": "108",
+            "d": "138"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lampyre",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "110",
-        "Name": "Lumasect",
-        "Type": "Dark Magic",
-        "Base-Hp": "162",
-        "Base-Spe": "224",
-        "Base-Atk": "108",
-        "Base-Def": "166",
-        "Base-Sp": {
-            "A": "134",
-            "D": "191"
+        "id": "110",
+        "name": "Lumasect",
+        "type": "Dark Magic",
+        "base_hp": "162",
+        "base_spe": "224",
+        "base_atk": "108",
+        "base_def": "166",
+        "base_sp": {
+            "a": "134",
+            "d": "191"
         },
-        "Base-SP": "34",
-        "Max-Hp": "271",
-        "Max-Spe": "229",
-        "Max-Atk": "113",
-        "Max-Def": "171",
-        "Max-Sp": {
-            "A": "139",
-            "D": "196"
+        "base_sp": "34",
+        "max_hp": "271",
+        "max_spe": "229",
+        "max_atk": "113",
+        "max_def": "171",
+        "max_sp": {
+            "a": "139",
+            "d": "196"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumasect",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "111",
-        "Name": "Centilla",
-        "Type": "Dark Magic",
-        "Base-Hp": "97",
-        "Base-Spe": "82",
-        "Base-Atk": "180",
-        "Base-Def": "276",
-        "Base-Sp": {
-            "A": "99",
-            "D": "98"
+        "id": "111",
+        "name": "Centilla",
+        "type": "Dark Magic",
+        "base_hp": "97",
+        "base_spe": "82",
+        "base_atk": "180",
+        "base_def": "276",
+        "base_sp": {
+            "a": "99",
+            "d": "98"
         },
-        "Base-SP": "34",
-        "Max-Hp": "206",
-        "Max-Spe": "87",
-        "Max-Atk": "185",
-        "Max-Def": "281",
-        "Max-Sp": {
-            "A": "104",
-            "D": "103"
+        "base_sp": "34",
+        "max_hp": "206",
+        "max_spe": "87",
+        "max_atk": "185",
+        "max_def": "281",
+        "max_sp": {
+            "a": "104",
+            "d": "103"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Centilla",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "112",
-        "Name": "Millidont",
-        "Type": "Dark Magic",
-        "Base-Hp": "128",
-        "Base-Spe": "98",
-        "Base-Atk": "194",
-        "Base-Def": "340",
-        "Base-Sp": {
-            "A": "120",
-            "D": "148"
+        "id": "112",
+        "name": "Millidont",
+        "type": "Dark Magic",
+        "base_hp": "128",
+        "base_spe": "98",
+        "base_atk": "194",
+        "base_def": "340",
+        "base_sp": {
+            "a": "120",
+            "d": "148"
         },
-        "Base-SP": "34",
-        "Max-Hp": "237",
-        "Max-Spe": "103",
-        "Max-Atk": "199",
-        "Max-Def": "345",
-        "Max-Sp": {
-            "A": "125",
-            "D": "153"
+        "base_sp": "34",
+        "max_hp": "237",
+        "max_spe": "103",
+        "max_atk": "199",
+        "max_def": "345",
+        "max_sp": {
+            "a": "125",
+            "d": "153"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Millidont",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "113",
-        "Name": "Arcta",
-        "Type": "Dark Magic",
-        "Base-Hp": "90",
-        "Base-Spe": "98",
-        "Base-Atk": "109",
-        "Base-Def": "117",
-        "Base-Sp": {
-            "A": "145",
-            "D": "126"
+        "id": "113",
+        "name": "Arcta",
+        "type": "Dark Magic",
+        "base_hp": "90",
+        "base_spe": "98",
+        "base_atk": "109",
+        "base_def": "117",
+        "base_sp": {
+            "a": "145",
+            "d": "126"
         },
-        "Base-SP": "34",
-        "Max-Hp": "199",
-        "Max-Spe": "103",
-        "Max-Atk": "114",
-        "Max-Def": "122",
-        "Max-Sp": {
-            "A": "150",
-            "D": "131"
+        "base_sp": "34",
+        "max_hp": "199",
+        "max_spe": "103",
+        "max_atk": "114",
+        "max_def": "122",
+        "max_sp": {
+            "a": "150",
+            "d": "131"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcta",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     },
     {
-        "Id": "114",
-        "Name": "Arcturos",
-        "Type": "Dark Magic",
-        "Base-Hp": "141",
-        "Base-Spe": "147",
-        "Base-Atk": "161",
-        "Base-Def": "171",
-        "Base-Sp": {
-            "A": "201",
-            "D": "212"
+        "id": "114",
+        "name": "Arcturos",
+        "type": "Dark Magic",
+        "base_hp": "141",
+        "base_spe": "147",
+        "base_atk": "161",
+        "base_def": "171",
+        "base_sp": {
+            "a": "201",
+            "d": "212"
         },
-        "Base-SP": "34",
-        "Max-Hp": "250",
-        "Max-Spe": "152",
-        "Max-Atk": "166",
-        "Max-Def": "176",
-        "Max-Sp": {
-            "A": "206",
-            "D": "217"
+        "base_sp": "34",
+        "max_hp": "250",
+        "max_spe": "152",
+        "max_atk": "166",
+        "max_def": "176",
+        "max_sp": {
+            "a": "206",
+            "d": "217"
         },
-        "Max-SP": "54",
+        "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcturos",
         "Image": "",
-        "Thumb": ""
+        "thumb": ""
     }
 ]
