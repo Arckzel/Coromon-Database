@@ -1,12 +1,10 @@
 import { createRouter, createWebHistory } from "vue-router"
 import DataGrid from '../Pages/DataGrid.vue'
-
-const Home = { template: '<div>Home</div>' }
-const About = { template: '<div>About</div>' }
+import CoromonPage from '../Pages/CoromonPage.vue'
 
 const routes = [
   { path: '/', component: DataGrid },
-  { path: '/about', component: About },
+  { path: '/coromon/:id', component: CoromonPage },
 ]
 
 const router = createRouter({
