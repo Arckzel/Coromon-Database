@@ -2,22 +2,25 @@
     <p class="name">{{ coromon.name }}</p>
     <ul class="types">
         <li :class="'type-'+coromon.type">{{ coromon.type }}</li>
-    </ul>
+      </ul>
+    <h3>Base Stats</h3>
     <div class="block-content">
         <div class="info">
-        <h3>Base Stats LV</h3>
         <ul class="stats">
-            <li><p><span>HP:</span> {{ coromon.base_atk }}</p></li>
-            <li><p><span>ATK:</span> {{ coromon.base_atk }}</p></li>
-            <li><p><span>DEF:</span> {{ coromon.base_atk }}</p></li>
-            <li><p><span>SPE:</span> {{ coromon.base_atk }}</p></li>
+            <li><span>HP:</span> <p> {{ coromon.base_hp  }}</p></li>
+            <li><span>ATK:</span><p> {{ coromon.base_atk }}</p></li>
+            <li><span>DEF:</span><p> {{ coromon.base_def }}</p></li>
+            <li><span>SPE:</span><p> {{ coromon.base_spe }}</p></li>
         </ul>
         </div>
         <div class="imagem">
-            <img :src="'src/files/images/coromon/'+coromon.Image" alt="" srcset="">
+            <!-- <img :src="'src/files/images/coromon/'+coromon.Image" alt="" srcset=""> -->
+            <img :src="'src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" alt="" srcset="">
         </div>
     </div>
-    <router-link class="see" :to="'/coromon/'+coromon.id">See More</router-link>
+    <div class="see-div">
+      <router-link class="see" :to="'/coromon/'+coromon.id">See More</router-link>
+    </div>
 </template>
 
 <script>
@@ -68,26 +71,45 @@ div.imagem{
   align-self: center;
 }
 
+div.imagem img{
+  height: 150px;
+}
+
 /* Informações Básicas */
 ul.stats{
-  margin-block: 1rem;
-  display: grid;
-  grid-template-columns: 1fr 1fr;
+  display: flex;
+  place-content: space-between;
+}
+
+ul.stats li{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: -webkit-fill-available;
+  background-color: #6767673b;
+  margin: 3px;
+  border-radius: 5px;
+  padding-inline: 5px
 }
 
 ul.stats span{
   font-weight: 600;
 }
 
-.info h3{
+h3{
   font-weight: bolder;
+}
+
+.see-div{
+  text-align: center;
+  margin-top: 30px;
+  margin-bottom: 10px;
 }
 
 a.see{
   background-color: #ffffff9e;
   color: black;
   padding: 0.3rem;
-  margin-block: 1rem;
   
   border-radius: 10px;
   border-style: solid;
@@ -103,6 +125,35 @@ a.see:hover{
   .block-content{
     display: grid;
     grid-template-columns: 1fr 1fr;
+  }
+
+  
+  /* div da imagem */
+  div.imagem{
+    align-self: center;  
+    position: static;
+
+    position: absolute;
+    bottom: -40px;
+    left: 80px
+  }
+
+  div.imagem img{
+    max-height: 200px;
+    max-width: 170px;
+  }
+
+  ul.stats{
+    display: block;
+  }
+
+  ul.stats li{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+  }
+
+  .see-div{
+    text-align: left;
   }
 
 }
