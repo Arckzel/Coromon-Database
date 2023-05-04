@@ -48,7 +48,7 @@ export default {
 /* Lista de tipos */
 #grid ul.types{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
   list-style: none;
   margin: 0;
   padding: 0;
@@ -64,6 +64,8 @@ export default {
   height: fit-content;
   border-radius: 10px;
   font-weight: 500;
+  border-style: solid;
+  border-width: 1px;
 }
 
 /* div da imagem */
@@ -113,6 +115,7 @@ h3{
 
 a.see{
   background-color: #ffffff9e;
+  box-shadow: inset #bebebe 0px 0px 0px 3px;
   color: black;
   padding: 0.3rem;
   
@@ -145,7 +148,7 @@ a.see:hover{
 
   div.imagem img{
     max-height: 200px;
-    /* max-width: 170px; */
+    max-width: 250px;
   }
 
   ul.stats{
