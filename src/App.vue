@@ -1,13 +1,11 @@
 <script setup>
 import MenuVue from "./components/Menu.vue";
-
+import Title from "./components/Title.vue";
 </script>
 
 <template>
     <div>
-      <div id="title">
-        <h1>Coromon Database</h1>
-      </div>
+      <Title></Title>
       <MenuVue></MenuVue>
       <router-view></router-view>
     </div>
