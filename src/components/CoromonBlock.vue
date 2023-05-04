@@ -68,7 +68,10 @@ export default {
 
 /* div da imagem */
 div.imagem{
+  display: flex;
   align-self: center;
+  height: 150px;
+  align-items: flex-end;
 }
 
 div.imagem img{
@@ -89,7 +92,9 @@ ul.stats li{
   background-color: #6767673b;
   margin: 3px;
   border-radius: 5px;
-  padding-inline: 5px
+  padding-inline: 5px;
+  border-width: 1px;
+  border-style: solid;
 }
 
 ul.stats span{

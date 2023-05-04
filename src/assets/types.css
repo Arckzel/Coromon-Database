@@ -28,20 +28,20 @@
 /* Water Type */
 
 #grid ul.datas li.Water{
-    background-color: rgb(0 72 255);
-    box-shadow: inset #2d0ebc 0px 0px 1px 3px;
+    background-color: #568fea;
+    box-shadow: inset #3e5efd 0px 0px 1px 3px;
   }
   
 #grid ul.types li.type-Water{
-    background-color: #2d0ebc;
+    background-color: #3e5efd;
 }
 
 
 /* Normal Type */
 
 #grid ul.datas li.Normal{
-    background-color: #777777;
-    box-shadow: inset #d1cfcf 0px 0px 1px 3px;
+    background-color: #d1cfcf;
+    box-shadow: inset #777777 0px 0px 1px 3px;
   }
   
 #grid ul.types li.type-Normal{
