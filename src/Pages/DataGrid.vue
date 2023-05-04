@@ -48,6 +48,8 @@ ul{
   margin: auto;
   margin-block: 0.5rem;
   border-radius: 10px;
+  overflow: hidden;
+  position: relative;
 }
 
 
