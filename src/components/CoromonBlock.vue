@@ -72,7 +72,7 @@ div.imagem{
 }
 
 div.imagem img{
-  height: 150px;
+  max-height: 150px;
 }
 
 /* Informações Básicas */
@@ -140,7 +140,7 @@ a.see:hover{
 
   div.imagem img{
     max-height: 200px;
-    max-width: 170px;
+    /* max-width: 170px; */
   }
 
   ul.stats{
