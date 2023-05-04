@@ -6,7 +6,7 @@
 /* Ice Type */
 
 #grid ul.datas li.Ice{
-    background-color: aqua;
+    background-color: #d3ffff;
     box-shadow: inset #3A93C1 0px 0px 1px 3px;
   }
   
@@ -17,12 +17,12 @@
 /* Fire Type */
 
 #grid ul.datas li.Fire{
-    background-color: red;
+    background-color: #ff7a00;
     box-shadow: inset #a90e0e 0px 0px 1px 3px;
   }
   
 #grid ul.types li.type-Fire{
-    background-color: #a90e0e;
+    background-color: #ee0909;
 }
 
 /* Water Type */
