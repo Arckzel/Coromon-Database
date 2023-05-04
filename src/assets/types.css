@@ -40,12 +40,12 @@
 /* Normal Type */
 
 #grid ul.datas li.Normal{
-    background-color: #d1cfcf;
-    box-shadow: inset #777777 0px 0px 1px 3px;
+    background-color: #999999;
+    box-shadow: inset #888888 0px 0px 1px 3px;
   }
   
 #grid ul.types li.type-Normal{
-    background-color: #d1cfcf;
+    background-color: #888888;
 }
 
 /* Electric Type */
@@ -84,10 +84,10 @@
 /* Dark Magic Type */
 
 #grid ul.datas li.Dark.Magic{
-    background-color: #8d0f0f;
-    box-shadow: inset #b40e0e 0px 0px 1px 3px;
+    background-color: #ae0303;
+    box-shadow: inset #740303 0px 0px 1px 3px;
   }
   
 #grid ul.types li.type-Dark.Magic{
-    background-color: #b40e0e;
+    background-color: #740303;
 }
