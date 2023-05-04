@@ -1,0 +1,93 @@
+
+#grid ul.datas li.block{
+    border-style: solid;
+}
+
+/* Ice Type */
+
+#grid ul.datas li.Ice{
+    background-color: aqua;
+    box-shadow: inset #3A93C1 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Ice{
+    background-color: #3A93C1;
+}
+
+/* Fire Type */
+
+#grid ul.datas li.Fire{
+    background-color: red;
+    box-shadow: inset #a90e0e 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Fire{
+    background-color: #a90e0e;
+}
+
+/* Water Type */
+
+#grid ul.datas li.Water{
+    background-color: rgb(0 72 255);
+    box-shadow: inset #2d0ebc 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Water{
+    background-color: #2d0ebc;
+}
+
+
+/* Normal Type */
+
+#grid ul.datas li.Normal{
+    background-color: #777777;
+    box-shadow: inset #d1cfcf 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Normal{
+    background-color: #d1cfcf;
+}
+
+/* Electric Type */
+
+#grid ul.datas li.Electric{
+    background-color: #fffb00;
+    box-shadow: inset #adad0f 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Electric{
+    background-color: #adad0f;
+}
+
+/* Sand Type */
+
+#grid ul.datas li.Sand{
+    background-color: #cf9703;
+    box-shadow: inset #926a01 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Sand{
+    background-color: #926a01;
+}
+
+/* Ghost Type */
+
+#grid ul.datas li.Ghost{
+    background-color: #8603dc;
+    box-shadow: inset #6400a5 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Ghost{
+    background-color: #6400a5;
+}
+
+/* Dark Magic Type */
+
+#grid ul.datas li.Dark.Magic{
+    background-color: #8d0f0f;
+    box-shadow: inset #b40e0e 0px 0px 1px 3px;
+  }
+  
+#grid ul.types li.type-Dark.Magic{
+    background-color: #b40e0e;
+}
