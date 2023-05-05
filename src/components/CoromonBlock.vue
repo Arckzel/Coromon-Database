@@ -2,7 +2,7 @@
     <p class="name">{{ coromon.name }}</p>
     <ul class="types">
         <li :class="'type-'+coromon.type">{{ coromon.type }}</li>
-      </ul>
+    </ul>
     <h3>Base Stats</h3>
     <div class="block-content">
         <div class="info">
@@ -15,7 +15,7 @@
         </div>
         <div class="imagem">
             <!-- <img :src="'src/files/images/coromon/'+coromon.Image" alt="" srcset=""> -->
-            <img :src="'src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" alt="" srcset="">
+            <img :src="'src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" :alt="coromon.name+' image'" srcset="">
         </div>
     </div>
     <ToCoromonVue :id="coromon.id"></ToCoromonVue>
@@ -50,7 +50,7 @@ export default {
 }
 
 /* Lista de tipos */
-#grid ul.types{
+ul.types{
   display: grid;
   grid-template-columns: 1fr;
   list-style: none;
@@ -59,7 +59,7 @@ export default {
 }
 
 /* Tipos da lista */
-#grid ul.types li{
+ul.types li{
   list-style: none;
   padding-block: 0;
   padding-inline: 1rem;
