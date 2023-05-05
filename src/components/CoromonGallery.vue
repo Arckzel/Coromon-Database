@@ -1,0 +1,117 @@
+<template>
+    <div id="gallery">
+        <div id="content">
+            
+            <div id="navigation">
+                <a v-if="current_rarity == 'Potent' || current_rarity == 'Perfect'" class="arrow" @click="changeRarity('<')" href="#">{{ "<" }}</a>
+                <p v-else ></p>
+                <h3 class="rarity">{{ current_rarity }}</h3>
+                <a v-if="current_rarity == 'Normal' || current_rarity == 'Potent'" class="arrow" @click="changeRarity('>')" href="#">{{ ">" }}</a>
+                <p v-else ></p>
+            </div>
+
+            <div v-if="current_rarity == 'Normal'" class="image-div" id="normal">
+                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" :alt="coromon.name+' image normal'">
+                <div id="shadow"></div>
+            </div>
+
+            <div v-if="current_rarity == 'Potent'" class="image-div" id="potent">
+                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_B_front.webp'" :alt="coromon.name+' image potent'">
+                <div id="shadow"></div>
+            </div>
+
+            <div v-if="current_rarity == 'Perfect'" class="image-div" id="perfect">
+                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_C_front.webp'" :alt="coromon.name+' image perfect'">
+                <div id="shadow"></div>
+            </div>
+
+            <ul class="types">
+                <li :class="'type-'+coromon.type">{{ coromon.type }}</li>
+            </ul>
+
+        </div>
+    </div>
+</template>
+
+
+<script>
+
+export default{
+
+    data(){
+        return{
+            current_rarity: "Normal"
+        }
+    },
+
+    props: {
+        coromon: {
+            type: Object,
+            required: true
+        }
+    },
+
+    methods: {
+        changeRarity(side){
+            if(side == '<'){
+                this.current_rarity = this.current_rarity == 'Potent' ? "Normal" : "Potent"
+            }else{
+                this.current_rarity = this.current_rarity == 'Normal' ? "Potent" : "Perfect"
+            }
+            this.$emit('new_rarity',this.current_rarity)
+        }
+    }
+
+}
+
+</script>
+
+
+<style>
+
+#gallery div#content{
+    text-align: center;
+    background: radial-gradient(#ffffff1f, #c3c4c8);
+    padding-top: 1rem;
+    padding-bottom: 3rem;
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 3px;
+    margin: auto;
+}
+
+#navigation {
+    display: grid;
+    grid-template-columns: 100px 1fr 100px;
+}
+
+.arrow{
+    color: black;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.rarity {
+    text-transform: uppercase;
+}
+
+.image-div{
+    margin-top: 2rem;
+    position: relative;
+}
+
+div#shadow{
+    width: 40%;
+    height: 0px;
+    border-radius: 50px;
+    margin: auto;
+    box-shadow: #656464 0px 0px 20px 8px;
+    background-color: #656464;
+}
+
+ul.types li{
+    margin-top: 20px;
+    margin-inline: auto;
+}
+
+</style>
