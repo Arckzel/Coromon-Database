@@ -7,19 +7,15 @@
         "base_spe": "88",
         "base_atk": "131",
         "base_def": "109",
-        "base_sp": {
-            "a": "98",
-            "d": "119"
-        },
+        "base_sp_a": "98",
+        "base_sp_d": "119",
         "base_sp": "34",
         "max_hp": "199",
         "max_spe": "93",
         "max_atk": "136",
-        "max_def": "114",
-        "max_sp": {
-            "a": "103",
-            "d": "124"
-        },
+        "max_Def": "114",
+        "max_sp_a": "103",
+        "max_sp_d": "124",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Cubzero",
         "Image": "",
@@ -33,19 +29,15 @@
         "base_spe": "119",
         "base_atk": "172",
         "base_def": "140",
-        "base_sp": {
-            "a": "129",
-            "d": "148"
-        },
+        "base_sp_a": "129",
+        "base_sp_d": "148",
         "base_sp": "34",
         "max_hp": "230",
         "max_spe": "124",
         "max_atk": "177",
-        "max_def": "145",
-        "max_sp": {
-            "a": "134",
-            "d": "153"
-        },
+        "max_Def": "145",
+        "max_sp_a": "134",
+        "max_sp_d": "153",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Aroara",
         "Image": "",
@@ -59,19 +51,15 @@
         "base_spe": "158",
         "base_atk": "203",
         "base_def": "181",
-        "base_sp": {
-            "a": "170",
-            "d": "179"
-        },
+        "base_sp_a": "170",
+        "base_sp_d": "179",
         "base_sp": "34",
         "max_hp": "271",
         "max_spe": "163",
         "max_atk": "208",
-        "max_def": "186",
-        "max_sp": {
-            "a": "175",
-            "d": "184"
-        },
+        "max_Def": "186",
+        "max_sp_a": "175",
+        "max_sp_d": "184",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bearealis",
         "Image": "",
@@ -85,19 +73,15 @@
         "base_spe": "132",
         "base_atk": "99",
         "base_def": "90",
-        "base_sp": {
-            "a": "121",
-            "d": "102"
-        },
+        "base_sp_a": "121",
+        "base_sp_d": "102",
         "base_sp": "34",
         "max_hp": "189",
         "max_spe": "137",
         "max_atk": "104",
-        "max_def": "95",
-        "max_sp": {
-            "a": "126",
-            "d": "107"
-        },
+        "max_Def": "95",
+        "max_sp_a": "126",
+        "max_sp_d": "107",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Toruga",
         "Image": "",
@@ -111,19 +95,15 @@
         "base_spe": "161",
         "base_atk": "122",
         "base_def": "119",
-        "base_sp": {
-            "a": "162",
-            "d": "128"
-        },
+        "base_sp_a": "162",
+        "base_sp_d": "128",
         "base_sp": "34",
         "max_hp": "230",
         "max_spe": "166",
         "max_atk": "127",
-        "max_def": "124",
-        "max_sp": {
-            "a": "167",
-            "d": "133"
-        },
+        "max_Def": "124",
+        "max_sp_a": "126",
+        "max_sp_d": "133",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Embaval",
         "Image": "",
@@ -137,19 +117,15 @@
         "base_spe": "199",
         "base_atk": "180",
         "base_def": "145",
-        "base_sp": {
-            "a": "236",
-            "d": "161"
-        },
+        "base_sp_a": "236",
+        "base_sp_d": "161",
         "base_sp": "34",
         "max_hp": "268",
         "max_spe": "204",
         "max_atk": "185",
-        "max_def": "150",
-        "max_sp": {
-            "a": "241",
-            "d": "166"
-        },
+        "max_Def": "150",
+        "max_sp_a": "241",
+        "max_sp_d": "166",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Volcadon",
         "Image": "",
@@ -163,19 +139,15 @@
         "base_spe": "91",
         "base_atk": "89",
         "base_def": "131",
-        "base_sp": {
-            "a": "98",
-            "d": "132"
-        },
+        "base_sp_a": "236",
+        "base_sp_d": "132",
         "base_sp": "34",
         "max_hp": "198",
         "max_spe": "96",
         "max_atk": "94",
-        "max_def": "136",
-        "max_sp": {
-            "a": "103",
-            "d": "137"
-        },
+        "max_Def": "136",
+        "max_sp_a": "103",
+        "max_sp_d": "137",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Nibblegar",
         "Image": "",
@@ -189,19 +161,15 @@
         "base_spe": "116",
         "base_atk": "126",
         "base_def": "162",
-        "base_sp": {
-            "a": "130",
-            "d": "160"
-        },
+        "base_sp_a": "130",
+        "base_sp_d": "160",
         "base_sp": "34",
         "max_hp": "227",
         "max_spe": "121",
         "max_atk": "131",
-        "max_def": "167",
-        "max_sp": {
-            "a": "135",
-            "d": "165"
-        },
+        "max_Def": "167",
+        "max_sp_a": "135",
+        "max_sp_d": "165",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Sheartooth",
         "Image": "",
@@ -215,19 +183,15 @@
         "base_spe": "156",
         "base_atk": "166",
         "base_def": "204",
-        "base_sp": {
-            "a": "168",
-            "d": "214"
-        },
+        "base_sp_a": "168",
+        "base_sp_d": "214",
         "base_sp": "34",
         "max_hp": "280",
         "max_spe": "161",
         "max_atk": "171",
-        "max_def": "209",
-        "max_sp": {
-            "a": "173",
-            "d": "219"
-        },
+        "max_Def": "209",
+        "max_sp_a": "173",
+        "max_sp_d": "219",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Megalobite",
         "Image": "",
@@ -241,19 +205,15 @@
         "base_spe": "98",
         "base_atk": "67",
         "base_def": "58",
-        "base_sp": {
-            "a": "36",
-            "d": "36"
-        },
+        "base_sp_a": "36",
+        "base_sp_d": "36",
         "base_sp": "34",
         "max_hp": "190",
         "max_spe": "103",
         "max_atk": "72",
-        "max_def": "63",
-        "max_sp": {
-            "a": "41",
-            "d": "41"
-        },
+        "max_Def": "63",
+        "max_sp_a": "41",
+        "max_sp_d": "41",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Swurmy",
         "Image": "",
@@ -267,19 +227,15 @@
         "base_spe": "141",
         "base_atk": "161",
         "base_def": "71",
-        "base_sp": {
-            "a": "62",
-            "d": "98"
-        },
+        "base_sp_a": "62",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "211",
         "max_spe": "146",
         "max_atk": "166",
-        "max_def": "76",
-        "max_sp": {
-            "a": "67",
-            "d": "103"
-        },
+        "max_Def": "76",
+        "max_sp_a": "67",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Beezel",
         "Image": "",
@@ -293,19 +249,15 @@
         "base_spe": "185",
         "base_atk": "227",
         "base_def": "91",
-        "base_sp": {
-            "a": "89",
-            "d": "174"
-        },
+        "base_sp_a": "89",
+        "base_sp_d": "174",
         "base_sp": "34",
         "max_hp": "252",
         "max_spe": "190",
         "max_atk": "232",
-        "max_def": "96",
-        "max_sp": {
-            "a": "94",
-            "d": "179"
-        },
+        "max_Def": "96",
+        "max_sp_a": "94",
+        "max_sp_d": "179",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Humbee",
         "Image": "",
@@ -319,19 +271,15 @@
         "base_spe": "110",
         "base_atk": "91",
         "base_def": "79",
-        "base_sp": {
-            "a": "56",
-            "d": "71"
-        },
+        "base_sp_a": "56",
+        "base_sp_d": "71",
         "base_sp": "34",
         "max_hp": "187",
         "max_spe": "115",
         "max_atk": "96",
-        "max_def": "84",
-        "max_sp": {
-            "a": "61",
-            "d": "76"
-        },
+        "max_Def": "84",
+        "max_sp_a": "61",
+        "max_sp_d": "76",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Silquill",
         "Image": "",
@@ -345,19 +293,15 @@
         "base_spe": "152",
         "base_atk": "128",
         "base_def": "112",
-        "base_sp": {
-            "a": "79",
-            "d": "98"
-        },
+        "base_sp_a": "79",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "233",
         "max_spe": "157",
         "max_atk": "133",
-        "max_def": "117",
-        "max_sp": {
-            "a": "84",
-            "d": "103"
-        },
+        "max_Def": "117",
+        "max_sp_a": "84",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gildwing",
         "Image": "",
@@ -371,19 +315,15 @@
         "base_spe": "208",
         "base_atk": "169",
         "base_def": "153",
-        "base_sp": {
-            "a": "168",
-            "d": "147"
-        },
+        "base_sp_a": "168",
+        "base_sp_d": "147",
         "base_sp": "34",
         "max_hp": "281",
         "max_spe": "213",
         "max_atk": "174",
-        "max_def": "158",
-        "max_sp": {
-            "a": "173",
-            "d": "152"
-        },
+        "max_Def": "158",
+        "max_sp_a": "173",
+        "max_sp_d": "152",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Golbeak",
         "Image": "",
@@ -397,19 +337,15 @@
         "base_spe": "124",
         "base_atk": "132",
         "base_def": "88",
-        "base_sp": {
-            "a": "90",
-            "d": "124"
-        },
+        "base_sp_a": "90",
+        "base_sp_d": "124",
         "base_sp": "34",
         "max_hp": "190",
         "max_spe": "129",
         "max_atk": "137",
-        "max_def": "93",
-        "max_sp": {
-            "a": "95",
-            "d": "129"
-        },
+        "max_Def": "93",
+        "max_sp_a": "95",
+        "max_sp_d": "129",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Slitherpin",
         "Image": "",
@@ -423,19 +359,15 @@
         "base_spe": "188",
         "base_atk": "213",
         "base_def": "181",
-        "base_sp": {
-            "a": "139",
-            "d": "188"
-        },
+        "base_sp_a": "139",
+        "base_sp_d": "188",
         "base_sp": "34",
         "max_hp": "251",
         "max_spe": "193",
         "max_atk": "218",
-        "max_def": "186",
-        "max_sp": {
-            "a": "144",
-            "d": "193"
-        },
+        "max_Def": "186",
+        "max_sp_a": "144",
+        "max_sp_d": "193",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Serpike",
         "Image": "",
@@ -449,19 +381,15 @@
         "base_spe": "132",
         "base_atk": "119",
         "base_def": "59",
-        "base_sp": {
-            "a": "161",
-            "d": "97"
-        },
+        "base_sp_a": "161",
+        "base_sp_d": "97",
         "base_sp": "34",
         "max_hp": "201",
         "max_spe": "137",
         "max_atk": "124",
-        "max_def": "64",
-        "max_sp": {
-            "a": "166",
-            "d": "102"
-        },
+        "max_Def": "64",
+        "max_sp_a": "166",
+        "max_sp_d": "102",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Houndos",
         "Image": "",
@@ -475,19 +403,15 @@
         "base_spe": "197",
         "base_atk": "218",
         "base_def": "107",
-        "base_sp": {
-            "a": "230",
-            "d": "148"
-        },
+        "base_sp_a": "230",
+        "base_sp_d": "148",
         "base_sp": "34",
         "max_hp": "276",
         "max_spe": "202",
         "max_atk": "223",
-        "max_def": "112",
-        "max_sp": {
-            "a": "235",
-            "d": "153"
-        },
+        "max_Def": "112",
+        "max_sp_a": "235",
+        "max_sp_d": "153",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Hountrion",
         "Image": "",
@@ -501,19 +425,15 @@
         "base_spe": "59",
         "base_atk": "161",
         "base_def": "203",
-        "base_sp": {
-            "a": "59",
-            "d": "51"
-        },
+        "base_sp_a": "59",
+        "base_sp_d": "51",
         "base_sp": "34",
         "max_hp": "177",
         "max_spe": "64",
         "max_atk": "166",
-        "max_def": "208",
-        "max_sp": {
-            "a": "64",
-            "d": "56"
-        },
+        "max_Def": "208",
+        "max_sp_a": "64",
+        "max_sp_d": "56",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Armado",
         "Image": "",
@@ -527,19 +447,15 @@
         "base_spe": "82",
         "base_atk": "197",
         "base_def": "234",
-        "base_sp": {
-            "a": "88",
-            "d": "67"
-        },
+        "base_sp_a": "88",
+        "base_sp_d": "67",
         "base_sp": "34",
         "max_hp": "235",
         "max_spe": "87",
         "max_atk": "202",
-        "max_def": "239",
-        "max_sp": {
-            "a": "93",
-            "d": "72"
-        },
+        "max_Def": "239",
+        "max_sp_a": "93",
+        "max_sp_d": "72",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Armadil",
         "Image": "",
@@ -553,19 +469,15 @@
         "base_spe": "88",
         "base_atk": "211",
         "base_def": "266",
-        "base_sp": {
-            "a": "112",
-            "d": "129"
-        },
+        "base_sp_a": "112",
+        "base_sp_d": "129",
         "base_sp": "34",
         "max_hp": "277",
         "max_spe": "93",
         "max_atk": "216",
-        "max_def": "271",
-        "max_sp": {
-            "a": "117",
-            "d": "134"
-        },
+        "max_Def": "271",
+        "max_sp_a": "117",
+        "max_sp_d": "134",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Armadon",
         "Image": "",
@@ -579,19 +491,15 @@
         "base_spe": "127",
         "base_atk": "143",
         "base_def": "121",
-        "base_sp": {
-            "a": "108",
-            "d": "102"
-        },
+        "base_sp_a": "108",
+        "base_sp_d": "102",
         "base_sp": "34",
         "max_hp": "230",
         "max_spe": "132",
         "max_atk": "148",
-        "max_def": "126",
-        "max_sp": {
-            "a": "113",
-            "d": "107"
-        },
+        "max_Def": "126",
+        "max_sp_a": "113",
+        "max_sp_d": "107",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Sanscale",
         "Image": "",
@@ -605,19 +513,15 @@
         "base_spe": "162",
         "base_atk": "206",
         "base_def": "195",
-        "base_sp": {
-            "a": "183",
-            "d": "138"
-        },
+        "base_sp_a": "183",
+        "base_sp_d": "138",
         "base_sp": "34",
         "max_hp": "301",
         "max_spe": "167",
         "max_atk": "211",
-        "max_def": "200",
-        "max_sp": {
-            "a": "188",
-            "d": "143"
-        },
+        "max_Def": "200",
+        "max_sp_a": "188",
+        "max_sp_d": "143",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Caradune",
         "Image": "",
@@ -631,19 +535,15 @@
         "base_spe": "132",
         "base_atk": "68",
         "base_def": "144",
-        "base_sp": {
-            "a": "102",
-            "d": "105"
-        },
+        "base_sp_a": "102",
+        "base_sp_d": "105",
         "base_sp": "34",
         "max_hp": "189",
         "max_spe": "137",
         "max_atk": "73",
-        "max_def": "149",
-        "max_sp": {
-            "a": "107",
-            "d": "110"
-        },
+        "max_Def": "149",
+        "max_sp_a": "107",
+        "max_sp_d": "110",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bittybolt",
         "Image": "",
@@ -657,19 +557,15 @@
         "base_spe": "186",
         "base_atk": "141",
         "base_def": "172",
-        "base_sp": {
-            "a": "226",
-            "d": "168"
-        },
+        "base_sp_a": "226",
+        "base_sp_d": "168",
         "base_sp": "34",
         "max_hp": "243",
         "max_spe": "191",
         "max_atk": "146",
-        "max_def": "177",
-        "max_sp": {
-            "a": "231",
-            "d": "173"
-        },
+        "max_Def": "177",
+        "max_sp_a": "231",
+        "max_sp_d": "173",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Toravolt",
         "Image": "",
@@ -683,19 +579,15 @@
         "base_spe": "88",
         "base_atk": "129",
         "base_def": "81",
-        "base_sp": {
-            "a": "92",
-            "d": "84"
-        },
+        "base_sp_a": "92",
+        "base_sp_d": "84",
         "base_sp": "34",
         "max_hp": "238",
         "max_spe": "93",
         "max_atk": "134",
-        "max_def": "86",
-        "max_sp": {
-            "a": "97",
-            "d": "89"
-        },
+        "max_Def": "86",
+        "max_sp_a": "97",
+        "max_sp_d": "89",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bloby",
         "Image": "",
@@ -709,19 +601,15 @@
         "base_spe": "112",
         "base_atk": "188",
         "base_def": "108",
-        "base_sp": {
-            "a": "139",
-            "d": "110"
-        },
+        "base_sp_a": "139",
+        "base_sp_d": "110",
         "base_sp": "34",
         "max_hp": "286",
         "max_spe": "117",
         "max_atk": "193",
-        "max_def": "113",
-        "max_sp": {
-            "a": "144",
-            "d": "115"
-        },
+        "max_Def": "113",
+        "max_sp_a": "144",
+        "max_sp_d": "115",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Molteye",
         "Image": "",
@@ -735,19 +623,15 @@
         "base_spe": "139",
         "base_atk": "232",
         "base_def": "156",
-        "base_sp": {
-            "a": "194",
-            "d": "124"
-        },
+        "base_sp_a": "194",
+        "base_sp_d": "124",
         "base_sp": "34",
         "max_hp": "325",
         "max_spe": "144",
         "max_atk": "237",
-        "max_def": "161",
-        "max_sp": {
-            "a": "199",
-            "d": "129"
-        },
+        "max_Def": "161",
+        "max_sp_a": "199",
+        "max_sp_d": "129",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ashclops",
         "Image": "",
@@ -761,19 +645,15 @@
         "base_spe": "102",
         "base_atk": "191",
         "base_def": "159",
-        "base_sp": {
-            "a": "52",
-            "d": "48"
-        },
+        "base_sp_a": "52",
+        "base_sp_d": "48",
         "base_sp": "34",
         "max_hp": "171",
         "max_spe": "107",
         "max_atk": "196",
-        "max_def": "164",
-        "max_sp": {
-            "a": "57",
-            "d": "53"
-        },
+        "max_Def": "164",
+        "max_sp_a": "57",
+        "max_sp_d": "53",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Fiddly",
         "Image": "",
@@ -787,19 +667,15 @@
         "base_spe": "148",
         "base_atk": "278",
         "base_def": "245",
-        "base_sp": {
-            "a": "128",
-            "d": "104"
-        },
+        "base_sp_a": "128",
+        "base_sp_d": "104",
         "base_sp": "34",
         "max_hp": "252",
         "max_spe": "153",
         "max_atk": "283",
-        "max_def": "250",
-        "max_sp": {
-            "a": "133",
-            "d": "109"
-        },
+        "max_Def": "250",
+        "max_sp_a": "133",
+        "max_sp_d": "109",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ucaclaw",
         "Image": "",
@@ -813,19 +689,15 @@
         "base_spe": "80",
         "base_atk": "151",
         "base_def": "68",
-        "base_sp": {
-            "a": "142",
-            "d": "61"
-        },
+        "base_sp_a": "142",
+        "base_sp_d": "61",
         "base_sp": "34",
         "max_hp": "208",
         "max_spe": "85",
         "max_atk": "156",
-        "max_def": "73",
-        "max_sp": {
-            "a": "147",
-            "d": "66"
-        },
+        "max_Def": "73",
+        "max_sp_a": "147",
+        "max_sp_d": "66",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Moffel",
         "Image": "",
@@ -839,19 +711,15 @@
         "base_spe": "114",
         "base_atk": "172",
         "base_def": "94",
-        "base_sp": {
-            "a": "164",
-            "d": "84"
-        },
+        "base_sp_a": "164",
+        "base_sp_d": "84",
         "base_sp": "34",
         "max_hp": "237",
         "max_spe": "119",
         "max_atk": "177",
-        "max_def": "99",
-        "max_sp": {
-            "a": "169",
-            "d": "89"
-        },
+        "max_Def": "99",
+        "max_sp_a": "169",
+        "max_sp_d": "89",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Digmow",
         "Image": "",
@@ -865,19 +733,15 @@
         "base_spe": "166",
         "base_atk": "230",
         "base_def": "111",
-        "base_sp": {
-            "a": "221",
-            "d": "118"
-        },
+        "base_sp_a": "221",
+        "base_sp_d": "118",
         "base_sp": "34",
         "max_hp": "267",
         "max_spe": "171",
         "max_atk": "235",
-        "max_def": "116",
-        "max_sp": {
-            "a": "226",
-            "d": "123"
-        },
+        "max_Def": "116",
+        "max_sp_a": "226",
+        "max_sp_d": "123",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Dugterra",
         "Image": "",
@@ -891,19 +755,15 @@
         "base_spe": "67",
         "base_atk": "78",
         "base_def": "79",
-        "base_sp": {
-            "a": "132",
-            "d": "91"
-        },
+        "base_sp_a": "132",
+        "base_sp_d": "91",
         "base_sp": "34",
         "max_hp": "217",
         "max_spe": "72",
         "max_atk": "83",
-        "max_def": "84",
-        "max_sp": {
-            "a": "137",
-            "d": "96"
-        },
+        "max_Def": "84",
+        "max_sp_a": "137",
+        "max_sp_d": "96",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Buzzlet",
         "Image": "",
@@ -917,19 +777,15 @@
         "base_spe": "90",
         "base_atk": "110",
         "base_def": "108",
-        "base_sp": {
-            "a": "161",
-            "d": "122"
-        },
+        "base_sp_a": "161",
+        "base_sp_d": "122",
         "base_sp": "34",
         "max_hp": "251",
         "max_spe": "95",
         "max_atk": "115",
-        "max_def": "113",
-        "max_sp": {
-            "a": "166",
-            "d": "127"
-        },
+        "max_Def": "113",
+        "max_sp_a": "166",
+        "max_sp_d": "127",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bazzer",
         "Image": "",
@@ -943,19 +799,15 @@
         "base_spe": "102",
         "base_atk": "172",
         "base_def": "170",
-        "base_sp": {
-            "a": "216",
-            "d": "178"
-        },
+        "base_sp_a": "216",
+        "base_sp_d": "178",
         "base_sp": "34",
         "max_hp": "290",
         "max_spe": "107",
         "max_atk": "177",
-        "max_def": "175",
-        "max_sp": {
-            "a": "221",
-            "d": "183"
-        },
+        "max_Def": "175",
+        "max_sp_a": "221",
+        "max_sp_d": "183",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Rhynobuz",
         "Image": "",
@@ -969,19 +821,15 @@
         "base_spe": "160",
         "base_atk": "72",
         "base_def": "60",
-        "base_sp": {
-            "a": "181",
-            "d": "72"
-        },
+        "base_sp_a": "181",
+        "base_sp_d": "72",
         "base_sp": "34",
         "max_hp": "167",
         "max_spe": "165",
         "max_atk": "77",
-        "max_def": "65",
-        "max_sp": {
-            "a": "186",
-            "d": "77"
-        },
+        "max_Def": "65",
+        "max_sp_a": "186",
+        "max_sp_d": "77",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lunarpup",
         "Image": "",
@@ -995,19 +843,15 @@
         "base_spe": "191",
         "base_atk": "134",
         "base_def": "92",
-        "base_sp": {
-            "a": "213",
-            "d": "107"
-        },
+        "base_sp_a": "213",
+        "base_sp_d": "107",
         "base_sp": "34",
         "max_hp": "198",
         "max_spe": "196",
         "max_atk": "139",
-        "max_def": "97",
-        "max_sp": {
-            "a": "218",
-            "d": "112"
-        },
+        "max_Def": "97",
+        "max_sp_a": "218",
+        "max_sp_d": "112",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lunarwulf",
         "Image": "",
@@ -1021,19 +865,15 @@
         "base_spe": "223",
         "base_atk": "201",
         "base_def": "121",
-        "base_sp": {
-            "a": "224",
-            "d": "152"
-        },
+        "base_sp_a": "224",
+        "base_sp_d": "152",
         "base_sp": "34",
         "max_hp": "259",
         "max_spe": "228",
         "max_atk": "206",
-        "max_def": "126",
-        "max_sp": {
-            "a": "229",
-            "d": "157"
-        },
+        "max_Def": "126",
+        "max_sp_a": "229",
+        "max_sp_d": "157",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Eclyptor",
         "Image": "",
@@ -1047,19 +887,15 @@
         "base_spe": "46",
         "base_atk": "79",
         "base_def": "96",
-        "base_sp": {
-            "a": "108",
-            "d": "98"
-        },
+        "base_sp_a": "108",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "250",
         "max_spe": "51",
         "max_atk": "84",
-        "max_def": "101",
-        "max_sp": {
-            "a": "113",
-            "d": "103"
-        },
+        "max_Def": "101",
+        "max_sp_a": "113",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Kryo",
         "Image": "",
@@ -1073,19 +909,15 @@
         "base_spe": "84",
         "base_atk": "121",
         "base_def": "137",
-        "base_sp": {
-            "a": "149",
-            "d": "141"
-        },
+        "base_sp_a": "149",
+        "base_sp_d": "141",
         "base_sp": "34",
         "max_hp": "289",
         "max_spe": "89",
         "max_atk": "126",
-        "max_def": "142",
-        "max_sp": {
-            "a": "154",
-            "d": "146"
-        },
+        "max_Def": "142",
+        "max_sp_a": "154",
+        "max_sp_d": "146",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Krypeek",
         "Image": "",
@@ -1099,19 +931,15 @@
         "base_spe": "118",
         "base_atk": "162",
         "base_def": "169",
-        "base_sp": {
-            "a": "186",
-            "d": "181"
-        },
+        "base_sp_a": "186",
+        "base_sp_d": "181",
         "base_sp": "34",
         "max_hp": "328",
         "max_spe": "123",
         "max_atk": "167",
-        "max_def": "174",
-        "max_sp": {
-            "a": "191",
-            "d": "186"
-        },
+        "max_Def": "174",
+        "max_sp_a": "191",
+        "max_sp_d": "186",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Krybeest",
         "Image": "",
@@ -1125,19 +953,15 @@
         "base_spe": "93",
         "base_atk": "118",
         "base_def": "78",
-        "base_sp": {
-            "a": "132",
-            "d": "98"
-        },
+        "base_sp_a": "132",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "200",
         "max_spe": "98",
         "max_atk": "123",
-        "max_def": "83",
-        "max_sp": {
-            "a": "137",
-            "d": "103"
-        },
+        "max_Def": "83",
+        "max_sp_a": "137",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Bren",
         "Image": "",
@@ -1151,19 +975,15 @@
         "base_spe": "93",
         "base_atk": "118",
         "base_def": "78",
-        "base_sp": {
-            "a": "132",
-            "d": "98"
-        },
+        "base_sp_a": "132",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "200",
         "max_spe": "98",
         "max_atk": "123",
-        "max_def": "83",
-        "max_sp": {
-            "a": "137",
-            "d": "103"
-        },
+        "max_Def": "83",
+        "max_sp_a": "137",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Pyrochick",
         "Image": "",
@@ -1177,19 +997,15 @@
         "base_spe": "175",
         "base_atk": "225",
         "base_def": "129",
-        "base_sp": {
-            "a": "217",
-            "d": "132"
-        },
+        "base_sp_a": "217",
+        "base_sp_d": "132",
         "base_sp": "34",
         "max_hp": "261",
         "max_spe": "180",
         "max_atk": "230",
-        "max_def": "134",
-        "max_sp": {
-            "a": "222",
-            "d": "137"
-        },
+        "max_Def": "134",
+        "max_sp_a": "222",
+        "max_sp_d": "137",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Infinix",
         "Image": "",
@@ -1203,19 +1019,15 @@
         "base_spe": "96",
         "base_atk": "71",
         "base_def": "138",
-        "base_sp": {
-            "a": "158",
-            "d": "118"
-        },
+        "base_sp_a": "158",
+        "base_sp_d": "118",
         "base_sp": "34",
         "max_hp": "193",
         "max_spe": "101",
         "max_atk": "76",
-        "max_def": "143",
-        "max_sp": {
-            "a": "163",
-            "d": "123"
-        },
+        "max_Def": "143",
+        "max_sp_a": "163",
+        "max_sp_d": "123",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Acie",
         "Image": "",
@@ -1229,19 +1041,15 @@
         "base_spe": "151",
         "base_atk": "120",
         "base_def": "188",
-        "base_sp": {
-            "a": "184",
-            "d": "195"
-        },
+        "base_sp_a": "184",
+        "base_sp_d": "195",
         "base_sp": "34",
         "max_hp": "288",
         "max_spe": "156",
         "max_atk": "125",
-        "max_def": "193",
-        "max_sp": {
-            "a": "189",
-            "d": "200"
-        },
+        "max_Def": "193",
+        "max_sp_a": "189",
+        "max_sp_d": "200",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Deecie",
         "Image": "",
@@ -1255,19 +1063,15 @@
         "base_spe": "58",
         "base_atk": "171",
         "base_def": "192",
-        "base_sp": {
-            "a": "56",
-            "d": "72"
-        },
+        "base_sp_a": "56",
+        "base_sp_d": "72",
         "base_sp": "34",
         "max_hp": "267",
         "max_spe": "63",
         "max_atk": "176",
-        "max_def": "197",
-        "max_sp": {
-            "a": "61",
-            "d": "77"
-        },
+        "max_Def": "197",
+        "max_sp_a": "61",
+        "max_sp_d": "77",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Kyreptil",
         "Image": "",
@@ -1281,19 +1085,15 @@
         "base_spe": "78",
         "base_atk": "215",
         "base_def": "266",
-        "base_sp": {
-            "a": "98",
-            "d": "111"
-        },
+        "base_sp_a": "98",
+        "base_sp_d": "111",
         "base_sp": "34",
         "max_hp": "306",
         "max_spe": "83",
         "max_atk": "220",
-        "max_def": "271",
-        "max_sp": {
-            "a": "103",
-            "d": "116"
-        },
+        "max_Def": "271",
+        "max_sp_a": "103",
+        "max_sp_d": "116",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Kyraptor",
         "Image": "",
@@ -1307,19 +1107,15 @@
         "base_spe": "128",
         "base_atk": "83",
         "base_def": "98",
-        "base_sp": {
-            "a": "136",
-            "d": "80"
-        },
+        "base_sp_a": "136",
+        "base_sp_d": "80",
         "base_sp": "34",
         "max_hp": "180",
         "max_spe": "133",
         "max_atk": "88",
-        "max_def": "103",
-        "max_sp": {
-            "a": "141",
-            "d": "85"
-        },
+        "max_Def": "103",
+        "max_sp_a": "141",
+        "max_sp_d": "85",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gella",
         "Image": "",
@@ -1333,19 +1129,15 @@
         "base_spe": "161",
         "base_atk": "138",
         "base_def": "114",
-        "base_sp": {
-            "a": "176",
-            "d": "128"
-        },
+        "base_sp_a": "176",
+        "base_sp_d": "128",
         "base_sp": "34",
         "max_hp": "231",
         "max_spe": "166",
         "max_atk": "143",
-        "max_def": "119",
-        "max_sp": {
-            "a": "181",
-            "d": "133"
-        },
+        "max_Def": "119",
+        "max_sp_a": "181",
+        "max_sp_d": "133",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gellish",
         "Image": "",
@@ -1359,19 +1151,15 @@
         "base_spe": "188",
         "base_atk": "226",
         "base_def": "159",
-        "base_sp": {
-            "a": "182",
-            "d": "131"
-        },
+        "base_sp_a": "182",
+        "base_sp_d": "131",
         "base_sp": "34",
         "max_hp": "283",
         "max_spe": "193",
         "max_atk": "231",
-        "max_def": "164",
-        "max_sp": {
-            "a": "187",
-            "d": "136"
-        },
+        "max_Def": "164",
+        "max_sp_a": "187",
+        "max_sp_d": "136",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gelaquad",
         "Image": "",
@@ -1385,19 +1173,15 @@
         "base_spe": "68",
         "base_atk": "158",
         "base_def": "94",
-        "base_sp": {
-            "a": "63",
-            "d": "65"
-        },
+        "base_sp_a": "63",
+        "base_sp_d": "65",
         "base_sp": "34",
         "max_hp": "252",
         "max_spe": "73",
         "max_atk": "163",
-        "max_def": "99",
-        "max_sp": {
-            "a": "68",
-            "d": "70"
-        },
+        "max_Def": "99",
+        "max_sp_a": "68",
+        "max_sp_d": "70",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Skarbone",
         "Image": "",
@@ -1411,19 +1195,15 @@
         "base_spe": "90",
         "base_atk": "202",
         "base_def": "141",
-        "base_sp": {
-            "a": "107",
-            "d": "121"
-        },
+        "base_sp_a": "107",
+        "base_sp_d": "121",
         "base_sp": "34",
         "max_hp": "261",
         "max_spe": "95",
         "max_atk": "207",
-        "max_def": "146",
-        "max_sp": {
-            "a": "112",
-            "d": "126"
-        },
+        "max_Def": "146",
+        "max_sp_a": "112",
+        "max_sp_d": "126",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Skuldra",
         "Image": "",
@@ -1437,19 +1217,15 @@
         "base_spe": "114",
         "base_atk": "260",
         "base_def": "183",
-        "base_sp": {
-            "a": "151",
-            "d": "178"
-        },
+        "base_sp_a": "151",
+        "base_sp_d": "178",
         "base_sp": "34",
         "max_hp": "270",
         "max_spe": "119",
         "max_atk": "265",
-        "max_def": "188",
-        "max_sp": {
-            "a": "156",
-            "d": "183"
-        },
+        "max_Def": "188",
+        "max_sp_a": "156",
+        "max_sp_d": "183",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Skelatops",
         "Image": "",
@@ -1463,19 +1239,15 @@
         "base_spe": "86",
         "base_atk": "98",
         "base_def": "96",
-        "base_sp": {
-            "a": "82",
-            "d": "80"
-        },
+        "base_sp_a": "82",
+        "base_sp_d": "80",
         "base_sp": "34",
         "max_hp": "231",
         "max_spe": "91",
         "max_atk": "103",
-        "max_def": "101",
-        "max_sp": {
-            "a": "87",
-            "d": "85"
-        },
+        "max_Def": "101",
+        "max_sp_a": "87",
+        "max_sp_d": "85",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Droople",
         "Image": "",
@@ -1489,19 +1261,15 @@
         "base_spe": "122",
         "base_atk": "184",
         "base_def": "174",
-        "base_sp": {
-            "a": "129",
-            "d": "168"
-        },
+        "base_sp_a": "129",
+        "base_sp_d": "168",
         "base_sp": "34",
         "max_hp": "303",
         "max_spe": "127",
         "max_atk": "189",
-        "max_def": "179",
-        "max_sp": {
-            "a": "134",
-            "d": "173"
-        },
+        "max_Def": "179",
+        "max_sp_a": "134",
+        "max_sp_d": "173",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Mudma",
         "Image": "",
@@ -1515,19 +1283,15 @@
         "base_spe": "98",
         "base_atk": "109",
         "base_def": "117",
-        "base_sp": {
-            "a": "145",
-            "d": "126"
-        },
+        "base_sp_a": "145",
+        "base_sp_d": "126",
         "base_sp": "34",
         "max_hp": "199",
         "max_spe": "103",
         "max_atk": "114",
-        "max_def": "122",
-        "max_sp": {
-            "a": "150",
-            "d": "131"
-        },
+        "max_Def": "122",
+        "max_sp_a": "150",
+        "max_sp_d": "131",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcta",
         "Image": "",
@@ -1541,19 +1305,15 @@
         "base_spe": "147",
         "base_atk": "161",
         "base_def": "171",
-        "base_sp": {
-            "a": "201",
-            "d": "212"
-        },
+        "base_sp_a": "201",
+        "base_sp_d": "212",
         "base_sp": "34",
         "max_hp": "275",
         "max_spe": "152",
         "max_atk": "166",
-        "max_def": "176",
-        "max_sp": {
-            "a": "206",
-            "d": "217"
-        },
+        "max_Def": "176",
+        "max_sp_a": "206",
+        "max_sp_d": "217",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcturos",
         "Image": "",
@@ -1567,19 +1327,15 @@
         "base_spe": "70",
         "base_atk": "92",
         "base_def": "97",
-        "base_sp": {
-            "a": "122",
-            "d": "129"
-        },
+        "base_sp_a": "122",
+        "base_sp_d": "129",
         "base_sp": "34",
         "max_hp": "247",
         "max_spe": "75",
         "max_atk": "97",
-        "max_def": "102",
-        "max_sp": {
-            "a": "127",
-            "d": "134"
-        },
+        "max_Def": "102",
+        "max_sp_a": "127",
+        "max_sp_d": "134",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Seraphace",
         "Image": "",
@@ -1593,19 +1349,15 @@
         "base_spe": "121",
         "base_atk": "143",
         "base_def": "152",
-        "base_sp": {
-            "a": "211",
-            "d": "182"
-        },
+        "base_sp_a": "211",
+        "base_sp_d": "182",
         "base_sp": "34",
         "max_hp": "300",
         "max_spe": "126",
         "max_atk": "148",
-        "max_def": "157",
-        "max_sp": {
-            "a": "216",
-            "d": "187"
-        },
+        "max_Def": "157",
+        "max_sp_a": "216",
+        "max_sp_d": "187",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Grimmask",
         "Image": "",
@@ -1619,19 +1371,15 @@
         "base_spe": "142",
         "base_atk": "78",
         "base_def": "67",
-        "base_sp": {
-            "a": "101",
-            "d": "198"
-        },
+        "base_sp_a": "101",
+        "base_sp_d": "198",
         "base_sp": "34",
         "max_hp": "185",
         "max_spe": "147",
         "max_atk": "83",
-        "max_def": "72",
-        "max_sp": {
-            "a": "106",
-            "d": "203"
-        },
+        "max_Def": "72",
+        "max_sp_a": "106",
+        "max_sp_d": "203",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Squidma",
         "Image": "",
@@ -1645,19 +1393,15 @@
         "base_spe": "201",
         "base_atk": "139",
         "base_def": "130",
-        "base_sp": {
-            "a": "181",
-            "d": "246"
-        },
+        "base_sp_a": "181",
+        "base_sp_d": "246",
         "base_sp": "34",
         "max_hp": "307",
         "max_spe": "206",
         "max_atk": "144",
-        "max_def": "135",
-        "max_sp": {
-            "a": "186",
-            "d": "251"
-        },
+        "max_Def": "135",
+        "max_sp_a": "186",
+        "max_sp_d": "251",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Magmilus",
         "Image": "",
@@ -1671,19 +1415,15 @@
         "base_spe": "101",
         "base_atk": "71",
         "base_def": "78",
-        "base_sp": {
-            "a": "82",
-            "d": "112"
-        },
+        "base_sp_a": "82",
+        "base_sp_d": "112",
         "base_sp": "34",
         "max_hp": "178",
         "max_spe": "106",
         "max_atk": "76",
-        "max_def": "83",
-        "max_sp": {
-            "a": "87",
-            "d": "117"
-        },
+        "max_Def": "83",
+        "max_sp_a": "87",
+        "max_sp_d": "117",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumon",
         "Image": "",
@@ -1697,19 +1437,15 @@
         "base_spe": "160",
         "base_atk": "90",
         "base_def": "111",
-        "base_sp": {
-            "a": "103",
-            "d": "133"
-        },
+        "base_sp_a": "103",
+        "base_sp_d": "133",
         "base_sp": "34",
         "max_hp": "217",
         "max_spe": "165",
         "max_atk": "95",
-        "max_def": "116",
-        "max_sp": {
-            "a": "108",
-            "d": "138"
-        },
+        "max_Def": "116",
+        "max_sp_a": "108",
+        "max_sp_d": "138",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lampyre",
         "Image": "",
@@ -1723,19 +1459,15 @@
         "base_spe": "224",
         "base_atk": "108",
         "base_def": "166",
-        "base_sp": {
-            "a": "134",
-            "d": "191"
-        },
+        "base_sp_a": "134",
+        "base_sp_d": "191",
         "base_sp": "34",
         "max_hp": "294",
         "max_spe": "229",
         "max_atk": "113",
-        "max_def": "171",
-        "max_sp": {
-            "a": "139",
-            "d": "196"
-        },
+        "max_Def": "171",
+        "max_sp_a": "139",
+        "max_sp_d": "196",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumasect",
         "Image": "",
@@ -1749,19 +1481,15 @@
         "base_spe": "79",
         "base_atk": "88",
         "base_def": "108",
-        "base_sp": {
-            "a": "143",
-            "d": "122"
-        },
+        "base_sp_a": "143",
+        "base_sp_d": "122",
         "base_sp": "34",
         "max_hp": "207",
         "max_spe": "84",
         "max_atk": "93",
-        "max_def": "113",
-        "max_sp": {
-            "a": "148",
-            "d": "127"
-        },
+        "max_Def": "113",
+        "max_sp_a": "148",
+        "max_sp_d": "127",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Patterbit",
         "Image": "",
@@ -1775,19 +1503,15 @@
         "base_spe": "102",
         "base_atk": "139",
         "base_def": "152",
-        "base_sp": {
-            "a": "175",
-            "d": "163"
-        },
+        "base_sp_a": "175",
+        "base_sp_d": "163",
         "base_sp": "34",
         "max_hp": "251",
         "max_spe": "107",
         "max_atk": "144",
-        "max_def": "157",
-        "max_sp": {
-            "a": "180",
-            "d": "168"
-        },
+        "max_Def": "157",
+        "max_sp_a": "180",
+        "max_sp_d": "168",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Pitterbyte",
         "Image": "",
@@ -1801,19 +1525,15 @@
         "base_spe": "121",
         "base_atk": "161",
         "base_def": "180",
-        "base_sp": {
-            "a": "214",
-            "d": "196"
-        },
+        "base_sp_a": "214",
+        "base_sp_d": "196",
         "base_sp": "34",
         "max_hp": "277",
         "max_spe": "126",
         "max_atk": "166",
-        "max_def": "185",
-        "max_sp": {
-            "a": "219",
-            "d": "201"
-        },
+        "max_Def": "185",
+        "max_sp_a": "219",
+        "max_sp_d": "201",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Cyberite",
         "Image": "",
@@ -1827,19 +1547,15 @@
         "base_spe": "67",
         "base_atk": "142",
         "base_def": "208",
-        "base_sp": {
-            "a": "81",
-            "d": "72"
-        },
+        "base_sp_a": "81",
+        "base_sp_d": "72",
         "base_sp": "34",
         "max_hp": "174",
         "max_spe": "72",
         "max_atk": "147",
-        "max_def": "213",
-        "max_sp": {
-            "a": "86",
-            "d": "77"
-        },
+        "max_Def": "213",
+        "max_sp_a": "86",
+        "max_sp_d": "77",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Decibite",
         "Image": "",
@@ -1853,19 +1569,15 @@
         "base_spe": "82",
         "base_atk": "180",
         "base_def": "276",
-        "base_sp": {
-            "a": "99",
-            "d": "98"
-        },
+        "base_sp_a": "99",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "206",
         "max_spe": "87",
         "max_atk": "185",
-        "max_def": "281",
-        "max_sp": {
-            "a": "104",
-            "d": "103"
-        },
+        "max_Def": "281",
+        "max_sp_a": "104",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Centilla",
         "Image": "",
@@ -1879,19 +1591,15 @@
         "base_spe": "98",
         "base_atk": "194",
         "base_def": "340",
-        "base_sp": {
-            "a": "120",
-            "d": "148"
-        },
+        "base_sp_a": "120",
+        "base_sp_d": "148",
         "base_sp": "34",
         "max_hp": "237",
         "max_spe": "103",
         "max_atk": "199",
-        "max_def": "345",
-        "max_sp": {
-            "a": "125",
-            "d": "153"
-        },
+        "max_Def": "345",
+        "max_sp_a": "125",
+        "max_sp_d": "153",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Millidont",
         "Image": "",
@@ -1905,19 +1613,15 @@
         "base_spe": "181",
         "base_atk": "96",
         "base_def": "78",
-        "base_sp": {
-            "a": "83",
-            "d": "78"
-        },
+        "base_sp_a": "83",
+        "base_sp_d": "78",
         "base_sp": "34",
         "max_hp": "187",
         "max_spe": "186",
         "max_atk": "101",
-        "max_def": "83",
-        "max_sp": {
-            "a": "88",
-            "d": "83"
-        },
+        "max_Def": "83",
+        "max_sp_a": "88",
+        "max_sp_d": "83",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Taddle",
         "Image": "",
@@ -1931,19 +1635,15 @@
         "base_spe": "181",
         "base_atk": "158",
         "base_def": "94",
-        "base_sp": {
-            "a": "133",
-            "d": "88"
-        },
+        "base_sp_a": "133",
+        "base_sp_d": "88",
         "base_sp": "34",
         "max_hp": "247",
         "max_spe": "186",
         "max_atk": "163",
-        "max_def": "99",
-        "max_sp": {
-            "a": "138",
-            "d": "93"
-        },
+        "max_Def": "99",
+        "max_sp_a": "138",
+        "max_sp_d": "93",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Fibio",
         "Image": "",
@@ -1957,19 +1657,15 @@
         "base_spe": "142",
         "base_atk": "188",
         "base_def": "194",
-        "base_sp": {
-            "a": "172",
-            "d": "182"
-        },
+        "base_sp_a": "172",
+        "base_sp_d": "182",
         "base_sp": "34",
         "max_hp": "287",
         "max_spe": "147",
         "max_atk": "193",
-        "max_def": "199",
-        "max_sp": {
-            "a": "177",
-            "d": "187"
-        },
+        "max_Def": "199",
+        "max_sp_a": "177",
+        "max_sp_d": "187",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Chonktoad",
         "Image": "",
@@ -1983,19 +1679,15 @@
         "base_spe": "87",
         "base_atk": "88",
         "base_def": "161",
-        "base_sp": {
-            "a": "81",
-            "d": "109"
-        },
+        "base_sp_a": "81",
+        "base_sp_d": "109",
         "base_sp": "34",
         "max_hp": "201",
         "max_spe": "92",
         "max_atk": "93",
-        "max_def": "166",
-        "max_sp": {
-            "a": "86",
-            "d": "114"
-        },
+        "max_Def": "166",
+        "max_sp_a": "86",
+        "max_sp_d": "114",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Tinshel",
         "Image": "",
@@ -2009,19 +1701,15 @@
         "base_spe": "104",
         "base_atk": "161",
         "base_def": "203",
-        "base_sp": {
-            "a": "113",
-            "d": "121"
-        },
+        "base_sp_a": "113",
+        "base_sp_d": "121",
         "base_sp": "34",
         "max_hp": "253",
         "max_spe": "109",
         "max_atk": "166",
-        "max_def": "208",
-        "max_sp": {
-            "a": "118",
-            "d": "126"
-        },
+        "max_Def": "208",
+        "max_sp_a": "118",
+        "max_sp_d": "126",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Dunpod",
         "Image": "",
@@ -2035,19 +1723,15 @@
         "base_spe": "109",
         "base_atk": "218",
         "base_def": "238",
-        "base_sp": {
-            "a": "148",
-            "d": "133"
-        },
+        "base_sp_a": "148",
+        "base_sp_d": "133",
         "base_sp": "34",
         "max_hp": "294",
         "max_spe": "114",
         "max_atk": "223",
-        "max_def": "243",
-        "max_sp": {
-            "a": "153",
-            "d": "138"
-        },
+        "max_Def": "243",
+        "max_sp_a": "153",
+        "max_sp_d": "138",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Sandril",
         "Image": "",
@@ -2061,19 +1745,15 @@
         "base_spe": "84",
         "base_atk": "122",
         "base_def": "93",
-        "base_sp": {
-            "a": "127",
-            "d": "122"
-        },
+        "base_sp_a": "127",
+        "base_sp_d": "122",
         "base_sp": "34",
         "max_hp": "211",
         "max_spe": "89",
         "max_atk": "127",
-        "max_def": "98",
-        "max_sp": {
-            "a": "132",
-            "d": "127"
-        },
+        "max_Def": "98",
+        "max_sp_a": "132",
+        "max_sp_d": "127",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Blizzburd",
         "Image": "",
@@ -2087,19 +1767,15 @@
         "base_spe": "118",
         "base_atk": "194",
         "base_def": "179",
-        "base_sp": {
-            "a": "182",
-            "d": "176"
-        },
+        "base_sp_a": "182",
+        "base_sp_d": "176",
         "base_sp": "34",
         "max_hp": "292",
         "max_spe": "123",
         "max_atk": "199",
-        "max_def": "184",
-        "max_sp": {
-            "a": "187",
-            "d": "181"
-        },
+        "max_Def": "184",
+        "max_sp_a": "187",
+        "max_sp_d": "181",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Blizzian",
         "Image": "",
@@ -2113,19 +1789,15 @@
         "base_spe": "100",
         "base_atk": "102",
         "base_def": "78",
-        "base_sp": {
-            "a": "118",
-            "d": "84"
-        },
+        "base_sp_a": "118",
+        "base_sp_d": "84",
         "base_sp": "34",
         "max_hp": "197",
         "max_spe": "105",
         "max_atk": "107",
-        "max_def": "83",
-        "max_sp": {
-            "a": "123",
-            "d": "89"
-        },
+        "max_Def": "83",
+        "max_sp_a": "123",
+        "max_sp_d": "89",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Purrgy",
         "Image": "",
@@ -2139,19 +1811,15 @@
         "base_spe": "129",
         "base_atk": "131",
         "base_def": "116",
-        "base_sp": {
-            "a": "157",
-            "d": "128"
-        },
+        "base_sp_a": "157",
+        "base_sp_d": "128",
         "base_sp": "34",
         "max_hp": "226",
         "max_spe": "134",
         "max_atk": "136",
-        "max_def": "121",
-        "max_sp": {
-            "a": "162",
-            "d": "133"
-        },
+        "max_Def": "121",
+        "max_sp_a": "162",
+        "max_sp_d": "133",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ghinx",
         "Image": "",
@@ -2165,19 +1833,15 @@
         "base_spe": "182",
         "base_atk": "185",
         "base_def": "138",
-        "base_sp": {
-            "a": "204",
-            "d": "169"
-        },
+        "base_sp_a": "204",
+        "base_sp_d": "169",
         "base_sp": "34",
         "max_hp": "267",
         "max_spe": "187",
         "max_atk": "190",
-        "max_def": "143",
-        "max_sp": {
-            "a": "209",
-            "d": "174"
-        },
+        "max_Def": "143",
+        "max_sp_a": "209",
+        "max_sp_d": "174",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Purrghast",
         "Image": "",
@@ -2191,19 +1855,15 @@
         "base_spe": "78",
         "base_atk": "141",
         "base_def": "142",
-        "base_sp": {
-            "a": "121",
-            "d": "106"
-        },
+        "base_sp_a": "121",
+        "base_sp_d": "106",
         "base_sp": "34",
         "max_hp": "158",
         "max_spe": "83",
         "max_atk": "146",
-        "max_def": "147",
-        "max_sp": {
-            "a": "126",
-            "d": "111"
-        },
+        "max_Def": "147",
+        "max_sp_a": "126",
+        "max_sp_d": "111",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Gauslime",
         "Image": "",
@@ -2217,19 +1877,15 @@
         "base_spe": "117",
         "base_atk": "218",
         "base_def": "209",
-        "base_sp": {
-            "a": "163",
-            "d": "172"
-        },
+        "base_sp_a": "163",
+        "base_sp_d": "172",
         "base_sp": "34",
         "max_hp": "242",
         "max_spe": "122",
         "max_atk": "223",
-        "max_def": "214",
-        "max_sp": {
-            "a": "168",
-            "d": "177"
-        },
+        "max_Def": "214",
+        "max_sp_a": "168",
+        "max_sp_d": "177",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Magnamire",
         "Image": "",
@@ -2243,19 +1899,15 @@
         "base_spe": "121",
         "base_atk": "88",
         "base_def": "141",
-        "base_sp": {
-            "a": "141",
-            "d": "108"
-        },
+        "base_sp_a": "141",
+        "base_sp_d": "108",
         "base_sp": "34",
         "max_hp": "190",
         "max_spe": "126",
         "max_atk": "93",
-        "max_def": "146",
-        "max_sp": {
-            "a": "146",
-            "d": "113"
-        },
+        "max_Def": "146",
+        "max_sp_a": "146",
+        "max_sp_d": "113",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Quagoo",
         "Image": "",
@@ -2269,19 +1921,15 @@
         "base_spe": "183",
         "base_atk": "182",
         "base_def": "204",
-        "base_sp": {
-            "a": "212",
-            "d": "167"
-        },
+        "base_sp_a": "212",
+        "base_sp_d": "167",
         "base_sp": "34",
         "max_hp": "252",
         "max_spe": "188",
         "max_atk": "187",
-        "max_def": "209",
-        "max_sp": {
-            "a": "217",
-            "d": "172"
-        },
+        "max_Def": "209",
+        "max_sp_a": "217",
+        "max_sp_d": "172",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Swampa",
         "Image": "",
@@ -2295,19 +1943,15 @@
         "base_spe": "181",
         "base_atk": "39",
         "base_def": "31",
-        "base_sp": {
-            "a": "212",
-            "d": "111"
-        },
+        "base_sp_a": "212",
+        "base_sp_d": "111",
         "base_sp": "34",
         "max_hp": "157",
         "max_spe": "186",
         "max_atk": "44",
-        "max_def": "36",
-        "max_sp": {
-            "a": "217",
-            "d": "116"
-        },
+        "max_Def": "36",
+        "max_sp_a": "217",
+        "max_sp_d": "116",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Squidly",
         "Image": "",
@@ -2321,19 +1965,15 @@
         "base_spe": "214",
         "base_atk": "68",
         "base_def": "123",
-        "base_sp": {
-            "a": "251",
-            "d": "276"
-        },
+        "base_sp_a": "251",
+        "base_sp_d": "276",
         "base_sp": "34",
         "max_hp": "197",
         "max_spe": "219",
         "max_atk": "73",
-        "max_def": "128",
-        "max_sp": {
-            "a": "256",
-            "d": "281"
-        },
+        "max_Def": "128",
+        "max_sp_a": "256",
+        "max_sp_d": "281",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Octotle",
         "Image": "",
@@ -2347,19 +1987,15 @@
         "base_spe": "68",
         "base_atk": "66",
         "base_def": "111",
-        "base_sp": {
-            "a": "132",
-            "d": "128"
-        },
+        "base_sp_a": "132",
+        "base_sp_d": "128",
         "base_sp": "34",
         "max_hp": "197",
         "max_spe": "73",
         "max_atk": "71",
-        "max_def": "116",
-        "max_sp": {
-            "a": "137",
-            "d": "133"
-        },
+        "max_Def": "116",
+        "max_sp_a": "137",
+        "max_sp_d": "133",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ruptius",
         "Image": "",
@@ -2373,19 +2009,15 @@
         "base_spe": "84",
         "base_atk": "142",
         "base_def": "254",
-        "base_sp": {
-            "a": "218",
-            "d": "195"
-        },
+        "base_sp_a": "218",
+        "base_sp_d": "195",
         "base_sp": "34",
         "max_hp": "275",
         "max_spe": "89",
         "max_atk": "147",
-        "max_def": "259",
-        "max_sp": {
-            "a": "223",
-            "d": "200"
-        },
+        "max_Def": "259",
+        "max_sp_a": "223",
+        "max_sp_d": "200",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Vulbrute",
         "Image": "",
@@ -2399,19 +2031,15 @@
         "base_spe": "68",
         "base_atk": "72",
         "base_def": "68",
-        "base_sp": {
-            "a": "64",
-            "d": "68"
-        },
+        "base_sp_a": "64",
+        "base_sp_d": "68",
         "base_sp": "34",
         "max_hp": "177",
         "max_spe": "73",
         "max_atk": "77",
-        "max_def": "73",
-        "max_sp": {
-            "a": "69",
-            "d": "73"
-        },
+        "max_Def": "73",
+        "max_sp_a": "69",
+        "max_sp_d": "73",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Mooby",
         "Image": "",
@@ -2425,19 +2053,15 @@
         "base_spe": "102",
         "base_atk": "188",
         "base_def": "172",
-        "base_sp": {
-            "a": "79",
-            "d": "181"
-        },
+        "base_sp_a": "79",
+        "base_sp_d": "181",
         "base_sp": "34",
         "max_hp": "201",
         "max_spe": "107",
         "max_atk": "193",
-        "max_def": "177",
-        "max_sp": {
-            "a": "84",
-            "d": "186"
-        },
+        "max_Def": "177",
+        "max_sp_a": "84",
+        "max_sp_d": "186",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Molbash",
         "Image": "",
@@ -2451,19 +2075,15 @@
         "base_spe": "124",
         "base_atk": "242",
         "base_def": "188",
-        "base_sp": {
-            "a": "97",
-            "d": "240"
-        },
+        "base_sp_a": "97",
+        "base_sp_d": "240",
         "base_sp": "34",
         "max_hp": "269",
         "max_spe": "129",
         "max_atk": "247",
-        "max_def": "193",
-        "max_sp": {
-            "a": "102",
-            "d": "245"
-        },
+        "max_Def": "193",
+        "max_sp_a": "102",
+        "max_sp_d": "245",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Malavite",
         "Image": "",
@@ -2477,19 +2097,15 @@
         "base_spe": "138",
         "base_atk": "118",
         "base_def": "74",
-        "base_sp": {
-            "a": "68",
-            "d": "91"
-        },
+        "base_sp_a": "68",
+        "base_sp_d": "91",
         "base_sp": "34",
         "max_hp": "183",
         "max_spe": "143",
         "max_atk": "123",
-        "max_def": "79",
-        "max_sp": {
-            "a": "73",
-            "d": "96"
-        },
+        "max_Def": "79",
+        "max_sp_a": "73",
+        "max_sp_d": "96",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Flowish",
         "Image": "",
@@ -2503,19 +2119,15 @@
         "base_spe": "161",
         "base_atk": "221",
         "base_def": "163",
-        "base_sp": {
-            "a": "159",
-            "d": "197"
-        },
+        "base_sp_a": "159",
+        "base_sp_d": "197",
         "base_sp": "34",
         "max_hp": "301",
         "max_spe": "166",
         "max_atk": "226",
-        "max_def": "168",
-        "max_sp": {
-            "a": "164",
-            "d": "202"
-        },
+        "max_Def": "168",
+        "max_sp_a": "164",
+        "max_sp_d": "202",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Daricara",
         "Image": "",
@@ -2529,19 +2141,15 @@
         "base_spe": "140",
         "base_atk": "122",
         "base_def": "61",
-        "base_sp": {
-            "a": "98",
-            "d": "98"
-        },
+        "base_sp_a": "98",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "180",
         "max_spe": "145",
         "max_atk": "127",
-        "max_def": "66",
-        "max_sp": {
-            "a": "103",
-            "d": "103"
-        },
+        "max_Def": "66",
+        "max_sp_a": "103",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Mino",
         "Image": "",
@@ -2555,19 +2163,15 @@
         "base_spe": "212",
         "base_atk": "204",
         "base_def": "138",
-        "base_sp": {
-            "a": "157",
-            "d": "159"
-        },
+        "base_sp_a": "157",
+        "base_sp_d": "159",
         "base_sp": "34",
         "max_hp": "241",
         "max_spe": "217",
         "max_atk": "209",
-        "max_def": "143",
-        "max_sp": {
-            "a": "162",
-            "d": "164"
-        },
+        "max_Def": "143",
+        "max_sp_a": "162",
+        "max_sp_d": "164",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Blazitaur",
         "Image": "",
@@ -2581,19 +2185,15 @@
         "base_spe": "84",
         "base_atk": "48",
         "base_def": "46",
-        "base_sp": {
-            "a": "91",
-            "d": "71"
-        },
+        "base_sp_a": "91",
+        "base_sp_d": "71",
         "base_sp": "34",
         "max_hp": "167",
         "max_spe": "89",
         "max_atk": "53",
-        "max_def": "51",
-        "max_sp": {
-            "a": "96",
-            "d": "76"
-        },
+        "max_Def": "51",
+        "max_sp_a": "96",
+        "max_sp_d": "76",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Frova",
         "Image": "",
@@ -2607,19 +2207,15 @@
         "base_spe": "92",
         "base_atk": "65",
         "base_def": "104",
-        "base_sp": {
-            "a": "115",
-            "d": "152"
-        },
+        "base_sp_a": "115",
+        "base_sp_d": "152",
         "base_sp": "34",
         "max_hp": "195",
         "max_spe": "97",
         "max_atk": "70",
-        "max_def": "109",
-        "max_sp": {
-            "a": "120",
-            "d": "157"
-        },
+        "max_Def": "109",
+        "max_sp_a": "120",
+        "max_sp_d": "157",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Froshell",
         "Image": "",
@@ -2633,19 +2229,15 @@
         "base_spe": "190",
         "base_atk": "139",
         "base_def": "128",
-        "base_sp": {
-            "a": "220",
-            "d": "226"
-        },
+        "base_sp_a": "220",
+        "base_sp_d": "226",
         "base_sp": "34",
         "max_hp": "259",
         "max_spe": "195",
         "max_atk": "144",
-        "max_def": "133",
-        "max_sp": {
-            "a": "225",
-            "d": "231"
-        },
+        "max_Def": "133",
+        "max_sp_a": "225",
+        "max_sp_d": "231",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Glamoth",
         "Image": "",
@@ -2659,19 +2251,15 @@
         "base_spe": "49",
         "base_atk": "118",
         "base_def": "78",
-        "base_sp": {
-            "a": "138",
-            "d": "78"
-        },
+        "base_sp_a": "138",
+        "base_sp_d": "78",
         "base_sp": "34",
         "max_hp": "257",
         "max_spe": "54",
         "max_atk": "123",
-        "max_def": "83",
-        "max_sp": {
-            "a": "143",
-            "d": "83"
-        },
+        "max_Def": "83",
+        "max_sp_a": "143",
+        "max_sp_d": "83",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Otogy",
         "Image": "",
@@ -2685,19 +2273,15 @@
         "base_spe": "99",
         "base_atk": "219",
         "base_def": "161",
-        "base_sp": {
-            "a": "176",
-            "d": "138"
-        },
+        "base_sp_a": "176",
+        "base_sp_d": "138",
         "base_sp": "34",
         "max_hp": "346",
         "max_spe": "104",
         "max_atk": "224",
-        "max_def": "166",
-        "max_sp": {
-            "a": "181",
-            "d": "143"
-        },
+        "max_Def": "166",
+        "max_sp_a": "181",
+        "max_sp_d": "143",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Orotchy",
         "Image": "",
@@ -2711,19 +2295,15 @@
         "base_spe": "78",
         "base_atk": "132",
         "base_def": "202",
-        "base_sp": {
-            "a": "88",
-            "d": "49"
-        },
+        "base_sp_a": "88",
+        "base_sp_d": "49",
         "base_sp": "34",
         "max_hp": "167",
         "max_spe": "83",
         "max_atk": "137",
-        "max_def": "207",
-        "max_sp": {
-            "a": "93",
-            "d": "54"
-        },
+        "max_Def": "207",
+        "max_sp_a": "93",
+        "max_sp_d": "54",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Shimshell",
         "Image": "",
@@ -2737,19 +2317,15 @@
         "base_spe": "137",
         "base_atk": "181",
         "base_def": "344",
-        "base_sp": {
-            "a": "204",
-            "d": "102"
-        },
+        "base_sp_a": "204",
+        "base_sp_d": "102",
         "base_sp": "34",
         "max_hp": "226",
         "max_spe": "142",
         "max_atk": "186",
-        "max_def": "349",
-        "max_sp": {
-            "a": "209",
-            "d": "107"
-        },
+        "max_Def": "349",
+        "max_sp_a": "209",
+        "max_sp_d": "107",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Atlantern",
         "Image": "",
@@ -2763,19 +2339,15 @@
         "base_spe": "148",
         "base_atk": "278",
         "base_def": "245",
-        "base_sp": {
-            "a": "128",
-            "d": "104"
-        },
+        "base_sp_a": "128",
+        "base_sp_d": "104",
         "base_sp": "34",
         "max_hp": "252",
         "max_spe": "153",
         "max_atk": "283",
-        "max_def": "250",
-        "max_sp": {
-            "a": "133",
-            "d": "109"
-        },
+        "max_Def": "250",
+        "max_sp_a": "133",
+        "max_sp_d": "109",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Ucaclaw",
         "Image": "",
@@ -2789,19 +2361,15 @@
         "base_spe": "101",
         "base_atk": "71",
         "base_def": "78",
-        "base_sp": {
-            "a": "82",
-            "d": "112"
-        },
+        "base_sp_a": "82",
+        "base_sp_d": "112",
         "base_sp": "34",
         "max_hp": "178",
         "max_spe": "106",
         "max_atk": "76",
-        "max_def": "83",
-        "max_sp": {
-            "a": "87",
-            "d": "117"
-        },
+        "max_Def": "83",
+        "max_sp_a": "87",
+        "max_sp_d": "117",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumon",
         "Image": "",
@@ -2815,19 +2383,15 @@
         "base_spe": "160",
         "base_atk": "90",
         "base_def": "111",
-        "base_sp": {
-            "a": "103",
-            "d": "133"
-        },
+        "base_sp_a": "103",
+        "base_sp_d": "133",
         "base_sp": "34",
         "max_hp": "217",
         "max_spe": "165",
         "max_atk": "95",
-        "max_def": "116",
-        "max_sp": {
-            "a": "108",
-            "d": "138"
-        },
+        "max_Def": "116",
+        "max_sp_a": "108",
+        "max_sp_d": "138",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lampyre",
         "Image": "",
@@ -2841,19 +2405,15 @@
         "base_spe": "224",
         "base_atk": "108",
         "base_def": "166",
-        "base_sp": {
-            "a": "134",
-            "d": "191"
-        },
+        "base_sp_a": "134",
+        "base_sp_d": "191",
         "base_sp": "34",
         "max_hp": "271",
         "max_spe": "229",
         "max_atk": "113",
-        "max_def": "171",
-        "max_sp": {
-            "a": "139",
-            "d": "196"
-        },
+        "max_Def": "171",
+        "max_sp_a": "139",
+        "max_sp_d": "196",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Lumasect",
         "Image": "",
@@ -2867,19 +2427,15 @@
         "base_spe": "82",
         "base_atk": "180",
         "base_def": "276",
-        "base_sp": {
-            "a": "99",
-            "d": "98"
-        },
+        "base_sp_a": "99",
+        "base_sp_d": "98",
         "base_sp": "34",
         "max_hp": "206",
         "max_spe": "87",
         "max_atk": "185",
-        "max_def": "281",
-        "max_sp": {
-            "a": "104",
-            "d": "103"
-        },
+        "max_Def": "281",
+        "max_sp_a": "104",
+        "max_sp_d": "103",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Centilla",
         "Image": "",
@@ -2893,19 +2449,15 @@
         "base_spe": "98",
         "base_atk": "194",
         "base_def": "340",
-        "base_sp": {
-            "a": "120",
-            "d": "148"
-        },
+        "base_sp_a": "120",
+        "base_sp_d": "148",
         "base_sp": "34",
         "max_hp": "237",
         "max_spe": "103",
         "max_atk": "199",
-        "max_def": "345",
-        "max_sp": {
-            "a": "125",
-            "d": "153"
-        },
+        "max_Def": "345",
+        "max_sp_a": "125",
+        "max_sp_d": "153",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Millidont",
         "Image": "",
@@ -2919,19 +2471,15 @@
         "base_spe": "98",
         "base_atk": "109",
         "base_def": "117",
-        "base_sp": {
-            "a": "145",
-            "d": "126"
-        },
+        "base_sp_a": "145",
+        "base_sp_d": "126",
         "base_sp": "34",
         "max_hp": "199",
         "max_spe": "103",
         "max_atk": "114",
-        "max_def": "122",
-        "max_sp": {
-            "a": "150",
-            "d": "131"
-        },
+        "max_Def": "122",
+        "max_sp_a": "150",
+        "max_sp_d": "131",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcta",
         "Image": "",
@@ -2945,19 +2493,15 @@
         "base_spe": "147",
         "base_atk": "161",
         "base_def": "171",
-        "base_sp": {
-            "a": "201",
-            "d": "212"
-        },
+        "base_sp_a": "201",
+        "base_sp_d": "212",
         "base_sp": "34",
         "max_hp": "250",
         "max_spe": "152",
         "max_atk": "166",
-        "max_def": "176",
-        "max_sp": {
-            "a": "206",
-            "d": "217"
-        },
+        "max_Def": "176",
+        "max_sp_a": "206",
+        "max_sp_d": "217",
         "max_sp": "54",
         "wiki": "https://coromon.wiki.gg/wiki/Arcturos",
         "Image": "",
