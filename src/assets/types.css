@@ -1,93 +1,93 @@
 
-#grid ul.datas li.block{
+ ul.datas li.block{
     border-style: solid;
 }
 
 /* Ice Type */
 
-#grid ul.datas li.Ice{
+ ul.datas li.Ice{
     background-color: #d3ffff;
     box-shadow: inset #3A93C1 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Ice{
+ ul.types li.type-Ice{
     background-color: #3A93C1;
 }
 
 /* Fire Type */
 
-#grid ul.datas li.Fire{
+ ul.datas li.Fire{
     background-color: #ff7a00;
     box-shadow: inset #a90e0e 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Fire{
+ ul.types li.type-Fire{
     background-color: #ee0909;
 }
 
 /* Water Type */
 
-#grid ul.datas li.Water{
+ ul.datas li.Water{
     background-color: #568fea;
     box-shadow: inset #3e5efd 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Water{
+ ul.types li.type-Water{
     background-color: #3e5efd;
 }
 
 
 /* Normal Type */
 
-#grid ul.datas li.Normal{
+ ul.datas li.Normal{
     background-color: #999999;
     box-shadow: inset #888888 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Normal{
+ ul.types li.type-Normal{
     background-color: #888888;
 }
 
 /* Electric Type */
 
-#grid ul.datas li.Electric{
+ ul.datas li.Electric{
     background-color: #fffb00;
     box-shadow: inset #adad0f 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Electric{
+ ul.types li.type-Electric{
     background-color: #adad0f;
 }
 
 /* Sand Type */
 
-#grid ul.datas li.Sand{
+ ul.datas li.Sand{
     background-color: #cf9703;
     box-shadow: inset #926a01 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Sand{
+ ul.types li.type-Sand{
     background-color: #926a01;
 }
 
 /* Ghost Type */
 
-#grid ul.datas li.Ghost{
+ ul.datas li.Ghost{
     background-color: #8603dc;
     box-shadow: inset #6400a5 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Ghost{
+ ul.types li.type-Ghost{
     background-color: #6400a5;
 }
 
 /* Dark Magic Type */
 
-#grid ul.datas li.Dark.Magic{
+ ul.datas li.Dark.Magic{
     background-color: #ae0303;
     box-shadow: inset #740303 0px 0px 1px 3px;
   }
   
-#grid ul.types li.type-Dark.Magic{
+ ul.types li.type-Dark.Magic{
     background-color: #740303;
 }
