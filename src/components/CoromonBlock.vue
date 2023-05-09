@@ -50,12 +50,13 @@ export default {
 }
 
 /* Lista de tipos */
-ul.types{
+.block ul.types{
   display: grid;
   grid-template-columns: 1fr;
   list-style: none;
   margin: 0;
   padding: 0;
+  text-align: left;
 }
 
 /* Tipos da lista */
