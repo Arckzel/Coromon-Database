@@ -29,12 +29,17 @@
                 <li :class="'type-'+coromon.type">{{ coromon.type }}</li>
             </ul>
 
+            <div id="buttons">
+                <VueButtonVue :link="'#'" :type="int">Testex</VueButtonVue>
+            </div>
+
         </div>
     </div>
 </template>
 
 
 <script>
+import VueButtonVue from './VueButton.vue'
 
 export default{
 
@@ -42,6 +47,10 @@ export default{
         return{
             current_rarity: "Normal"
         }
+    },
+
+    components: {
+        VueButtonVue
     },
 
     props: {
@@ -78,6 +87,12 @@ export default{
     border-radius: 10px;
     border-width: 3px;
     margin: auto;
+    min-height: 360px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #navigation {
@@ -109,9 +124,13 @@ div#shadow{
     background-color: #656464;
 }
 
-ul.types li{
+#gallery ul.types li{
     margin-top: 20px;
     margin-inline: auto;
+}
+
+#gallery #buttons{
+    margin-top: 20px;
 }
 
 </style>
