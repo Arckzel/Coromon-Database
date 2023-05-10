@@ -1,5 +1,11 @@
 <template>
-    <div v-if="current != null">
+
+    <div class="message" v-if="current == ''">
+        <h1>Loading...</h1>
+        <h2>Petting Coromon, please wait!</h2>
+    </div>
+
+    <div v-else-if="current != null">
 
         <div id="page">
 
@@ -23,7 +29,7 @@
 
     </div>
 
-    <div id="not-found" v-else>
+    <div class="message" v-else>
         <h1>Sorry! </h1>
         <h2>Coromon not found. :{{"("}}</h2>
     </div>
@@ -43,8 +49,7 @@ export default{
 
     data(){
         return {
-            coromon: null,
-            current: null,
+            current: '',
             current_rarity: "Normal",
             previous: null,
             next: null,
@@ -87,18 +92,18 @@ export default{
 
 <style>
 
-#not-found {
+.message {
     text-align: center;
     margin-block: 50px;
 }
 
-#not-found h1{
+.message h1{
     text-transform: uppercase;
     font-weight: bolder;
     font-size: 30px;
 }
 
-#not-found h2{
+.message h2{
     font-size: 25px;
 }
 
