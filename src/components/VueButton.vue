@@ -1,6 +1,6 @@
 <template>
-    <router-link class="button" v-if="type == 'int'" :to="link"><slot></slot></router-link>
-    <a v-else class="button" :href="link"><slot></slot></a>
+    <router-link class="button" v-if="type=='int'" :to="link"><slot></slot></router-link>
+    <a v-else class="button" :href="link" target="_blank"><slot></slot></a>
 </template>
 
 <script>
