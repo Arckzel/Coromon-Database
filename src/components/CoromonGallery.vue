@@ -30,7 +30,7 @@
             </ul>
 
             <div id="buttons">
-                <VueButtonVue :link="'#'" :type="int">Testex</VueButtonVue>
+                <VueButtonVue :link="'https://coromon.wiki.gg/wiki/'+coromon.name.toLowerCase()" :type="'ext'">Wiki</VueButtonVue>
             </div>
 
         </div>
