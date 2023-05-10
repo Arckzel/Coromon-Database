@@ -3,25 +3,15 @@
         <div id="content">
             
             <div id="navigation">
-                <a v-if="current_rarity == 'Potent' || current_rarity == 'Perfect'" class="arrow" @click="changeRarity('<')" href="#">{{ "<" }}</a>
+                <a v-if="current_rarity == 'Potent' || current_rarity == 'Perfect'" class="arrow" @click.prevent="changeRarity('<')" >{{ "<" }}</a>
                 <p v-else ></p>
                 <h3 class="rarity">{{ current_rarity }}</h3>
-                <a v-if="current_rarity == 'Normal' || current_rarity == 'Potent'" class="arrow" @click="changeRarity('>')" href="#">{{ ">" }}</a>
+                <a v-if="current_rarity == 'Normal' || current_rarity == 'Potent'" class="arrow" @click.prevent="changeRarity('>')" >{{ ">" }}</a>
                 <p v-else ></p>
             </div>
 
-            <div v-if="current_rarity == 'Normal'" class="image-div" id="normal">
-                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" :alt="coromon.name+' image normal'">
-                <div id="shadow"></div>
-            </div>
-
-            <div v-if="current_rarity == 'Potent'" class="image-div" id="potent">
-                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_B_front.webp'" :alt="coromon.name+' image potent'">
-                <div id="shadow"></div>
-            </div>
-
-            <div v-if="current_rarity == 'Perfect'" class="image-div" id="perfect">
-                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_C_front.webp'" :alt="coromon.name+' image perfect'">
+            <div class="image-div">
+                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_'+rarity_letter+'_front.webp'" :alt="coromon.name+' image normal'">                
                 <div id="shadow"></div>
             </div>
 
@@ -45,7 +35,8 @@ export default{
 
     data(){
         return{
-            current_rarity: "Normal"
+            current_rarity: "Normal",
+            rarity_letter: "A"
         }
     },
 
@@ -64,8 +55,10 @@ export default{
         changeRarity(side){
             if(side == '<'){
                 this.current_rarity = this.current_rarity == 'Potent' ? "Normal" : "Potent"
+                this.rarity_letter = this.current_rarity == 'Potent' ? "B" : "A"
             }else{
                 this.current_rarity = this.current_rarity == 'Normal' ? "Potent" : "Perfect"
+                this.rarity_letter = this.current_rarity == 'Potent' ? "B" : "C"
             }
             this.$emit('new_rarity',this.current_rarity)
         }
@@ -98,6 +91,10 @@ export default{
 #navigation {
     display: grid;
     grid-template-columns: 100px 1fr 100px;
+}
+
+#navigation a{
+    cursor: pointer;
 }
 
 .arrow{
