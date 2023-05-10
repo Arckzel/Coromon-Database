@@ -1,15 +1,23 @@
 <template>
-    <div v-if="coromon != null">
+    <div v-if="current != null">
 
         <div id="page">
 
-            <div id="coromon-name">
-                <h1>{{ coromon.name }}</h1>
+            <div id="coromon-navigation">
+                <div id="previous" class="arrow">
+                    <h4><router-link class="see" :to="'/coromon/'+previous.id"> {{ "<" }} {{ previous.name }}</router-link></h4>
+                </div>
+                <div id="coromon-name">
+                    <h1>{{ current.name }}</h1>
+                </div>
+                <div id="next" class="arrow">
+                    <h4><router-link class="see" :to="'/coromon/'+next.id"> {{ next.name }} {{ ">" }} </router-link></h4>
+                </div>
             </div>
 
             <div class="coromon-data">
-                <CoromonGallery :coromon="coromon" @new_rarity="(newRarity) => current_rarity = newRarity"></CoromonGallery>
-                <CoromonInfo :coromon="coromon" :rarity="current_rarity"></CoromonInfo>
+                <CoromonGallery :coromon="current" @new_rarity="(newRarity) => current_rarity = newRarity"></CoromonGallery>
+                <CoromonInfo :coromon="current" :rarity="current_rarity"></CoromonInfo>
             </div>
         </div>
 
@@ -36,20 +44,41 @@ export default{
     data(){
         return {
             coromon: null,
+            current: null,
             current_rarity: "Normal",
-            isEnabledDetails: false
+            previous: null,
+            next: null,
+            last: null,
         }
     },
 
     methods:{
-        getCoromonById(){
+
+        getCurrent(){            
             fetch("../src/files/data/coromon.json")
             .then((response) => response.json())
-            .then((json) => this.coromon = json[this.$route.params.id-1]);
+            .then((json) => {
+                    this.current = json[this.$route.params.id-1]
+
+                    if(this.current.id == 1){
+                        this.previous = json[json.length-1]
+                    }else{
+                        this.previous = json[parseInt(this.current.id) - 2]
+                    }
+
+                    if(this.current.id == json.length){
+                        this.next = json[0]
+                    }else{
+                        this.next = json[parseInt(this.current.id)]
+                    }
+
+                }
+            )
         },
+
     },
     mounted(){
-        this.getCoromonById()
+        this.getCurrent()        
     }
 
 }
@@ -73,12 +102,35 @@ export default{
     font-size: 25px;
 }
 
-#page #coromon-name{
+#page #coromon-navigation{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+#page #coromon-navigation .arrow{
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+#page #coromon-navigation .arrow h4{
+    font-weight: bold;
+}
+
+#page #coromon-navigation #previous{
+    justify-content: start;
+}
+
+#page #coromon-navigation #next{
+    justify-content: end;
+}
+
+#page #coromon-navigation #coromon-name{
     text-align: center;
     margin-block: 2rem;
 }
 
-#page #coromon-name h1{
+#page #coromon-navigation #coromon-name h1{
     font-weight: bolder;
     text-transform: uppercase;
 }
