@@ -9,7 +9,7 @@
 
 
 #title img{
-  width: 30%;
+  width: 250px;
 }
 
 #title h1{
