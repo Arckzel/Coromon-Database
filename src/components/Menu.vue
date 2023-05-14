@@ -96,7 +96,7 @@ export default {
 }
 
 
-@media (min-width: 450px) {
+@media (min-width: 550px) {
   
   #burguer{
     display: none;
