@@ -32,7 +32,7 @@ ul{
 /* Grade de colunas */
 #grid ul.datas{
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: 1fr;
 }
 
 /* Bloco de conteúdo */
@@ -52,7 +52,11 @@ ul{
   position: relative;
 }
 
-
+@media (min-width: 400px) {
+  #grid ul.datas{
+    grid-template-columns: 1fr 1fr;
+  }
+}
 
 @media (min-width: 780px) {
   /* Grade de colunas */
