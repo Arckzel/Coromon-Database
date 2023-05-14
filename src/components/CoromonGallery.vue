@@ -1,7 +1,7 @@
 <template>
     <div id="gallery">
-        <div id="content">
-            
+
+        <div id="content">            
             <div id="navigation">
                 <a v-if="current_rarity == 'Potent' || current_rarity == 'Perfect'" class="arrow" @click.prevent="changeRarity('<')" >{{ "<" }}</a>
                 <p v-else ></p>
@@ -9,21 +9,16 @@
                 <a v-if="current_rarity == 'Normal' || current_rarity == 'Potent'" class="arrow" @click.prevent="changeRarity('>')" >{{ ">" }}</a>
                 <p v-else ></p>
             </div>
-
+            
             <div class="image-div">
                 <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_'+rarity_letter+'_front.webp'" :alt="coromon.name+' image normal'">                
-                <div id="shadow"></div>
-            </div>
-
-            <ul class="types">
-                <li :class="'type-'+coromon.type">{{ coromon.type }}</li>
-            </ul>
-
-            <div id="buttons">
-                <VueButtonVue :link="'https://coromon.wiki.gg/wiki/'+coromon.name.toLowerCase()" :type="'ext'">Wiki</VueButtonVue>
-            </div>
-
+            </div>            
         </div>
+
+        <ul class="types">
+            <li :class="'type-'+coromon.type">{{ coromon.type }}</li>
+        </ul>
+        
     </div>
 </template>
 
@@ -73,9 +68,10 @@ export default{
 
 #gallery div#content{
     text-align: center;
-    background: radial-gradient(#ffffff1f, #c3c4c8);
+    background-image: url('../files/images/database/background.webp');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
     padding-top: 1rem;
-    padding-bottom: 3rem;
     border-style: solid;
     border-radius: 10px;
     border-width: 3px;
@@ -91,6 +87,8 @@ export default{
 #navigation {
     display: grid;
     grid-template-columns: 100px 1fr 100px;
+    color: #ffc98e;
+    text-shadow: 0 0 10px white;
 }
 
 #navigation a{
@@ -98,36 +96,29 @@ export default{
 }
 
 .arrow{
-    color: black;
     font-weight: bolder;
     font-size: 20px;
 }
 
 .rarity {
     text-transform: uppercase;
+    align-self: center;
 }
 
 .image-div{
-    margin-top: 2rem;
+    margin-top: 5rem;
     position: relative;
 }
 
-div#shadow{
-    width: 40%;
-    height: 0px;
-    border-radius: 50px;
-    margin: auto;
-    box-shadow: #656464 0px 0px 20px 8px;
-    background-color: #656464;
+#gallery ul.types{
+    margin-block: 20px;
+    display: flex;
+    justify-content: center;
 }
 
 #gallery ul.types li{
-    margin-top: 20px;
-    margin-inline: auto;
-}
-
-#gallery #buttons{
-    margin-top: 20px;
+    /* margin-top: 20px; */
+    margin-right: 10px; 
 }
 
 </style>
