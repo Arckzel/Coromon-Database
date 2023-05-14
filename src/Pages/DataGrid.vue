@@ -100,7 +100,7 @@ export default{
 
     methods: {        
         getCoromons(){
-            fetch("./public/data/coromon.json")
+            fetch("./data/coromon.json")
             .then((response) => response.json())
             .then((json) => this.coromons = json);            
         },

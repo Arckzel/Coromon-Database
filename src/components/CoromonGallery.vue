@@ -11,7 +11,7 @@
             </div>
             
             <div class="image-div">
-                <img :src="'/public/images/coromon/'+coromon.id+'_'+coromon.name+'_'+rarity_letter+'_front.webp'" :alt="coromon.name+' image normal'">                
+                <img :src="'../images/coromon/'+coromon.id+'_'+coromon.name+'_'+rarity_letter+'_front.webp'" :alt="coromon.name+' image '+current_rarity">                
             </div>            
         </div>
 
@@ -68,7 +68,7 @@ export default{
 
 #gallery div#content{
     text-align: center;
-    background-image: url('../public/images/database/background.webp');
+    background-image: url('../images/database/background.webp');
     background-repeat: no-repeat;
     background-size: 100% 100%;
     padding-top: 1rem;
