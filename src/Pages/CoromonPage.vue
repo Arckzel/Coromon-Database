@@ -60,7 +60,7 @@ export default{
     methods:{
 
         getCurrent(){            
-            fetch("../src/files/data/coromon.json")
+            fetch("../public/data/coromon.json")
             .then((response) => response.json())
             .then((json) => {
                     this.current = json[this.$route.params.id-1]
