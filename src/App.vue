@@ -1,6 +1,6 @@
 <script setup>
-import MenuVue from "./components/Menu.vue";
-import Title from "./components/Title.vue";
+import MenuVue from "./components/MainMenu.vue";
+import Title from "./components/MainTitle.vue";
 </script>
 
 <template>

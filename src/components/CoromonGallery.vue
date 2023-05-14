@@ -24,7 +24,6 @@
 
 
 <script>
-import VueButtonVue from './VueButton.vue'
 
 export default{
 
@@ -33,10 +32,6 @@ export default{
             current_rarity: "Normal",
             rarity_letter: "A"
         }
-    },
-
-    components: {
-        VueButtonVue
     },
 
     props: {
