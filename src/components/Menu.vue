@@ -132,6 +132,7 @@ export default {
   padding: 0;
   box-shadow: none;
   border-style: none;
+  overflow: unset;
 }
 
 }
