@@ -88,6 +88,12 @@ div.imagem img{
 }
 
 /* Informações Básicas */
+
+.block-content .info{
+    display: none;
+    overflow: auto;
+  }
+
 ul.stats{
   display: flex;
   place-content: space-between;
@@ -113,6 +119,15 @@ ul.stats span{
 
 h3{
   font-weight: bolder;
+}
+
+@media (min-width: 550px){
+
+  .block-content .info{
+    display: block;
+    overflow: auto;
+  }
+
 }
 
 @media (min-width: 780px) {
