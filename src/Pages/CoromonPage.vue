@@ -116,6 +116,7 @@ export default{
     display: flex;
     flex-wrap: wrap;
     align-content: center;
+    font-size: 15px;
 }
 
 #page #coromon-navigation .arrow h4{
@@ -138,8 +139,19 @@ export default{
 #page #coromon-navigation #coromon-name h1{
     font-weight: bolder;
     text-transform: uppercase;
+    font-size: 15px;
 }
 
+@media (min-width: 550px){
+
+    #page #coromon-navigation .arrow{
+        font-size: 20px;
+    }
+
+    #page #coromon-navigation #coromon-name h1{
+        font-size: 25px;
+    }
+}
 
 @media (min-width: 780px){
     
