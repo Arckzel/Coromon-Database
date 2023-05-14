@@ -90,7 +90,7 @@ div.imagem img{
 /* Informações Básicas */
 
 .block-content .info{
-    display: none;
+    display: block;
     overflow: auto;
   }
 
@@ -119,6 +119,12 @@ ul.stats span{
 
 h3{
   font-weight: bolder;
+}
+
+@media (min-width: 400px) {
+  .block-content .info{
+    display: none;
+  }
 }
 
 @media (min-width: 550px){
