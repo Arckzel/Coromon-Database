@@ -1,6 +1,6 @@
 <template>
     <div id="title">
-        <img src="../files/images/logo/logo-coromon.png" alt="" srcset="">
+        <img src="../../public/images/logo/logo-coromon.png" alt="" srcset="">
         <h1>Database</h1>
     </div>
 </template>

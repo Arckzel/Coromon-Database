@@ -11,7 +11,7 @@
             </div>
             
             <div class="image-div">
-                <img :src="'../src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_'+rarity_letter+'_front.webp'" :alt="coromon.name+' image normal'">                
+                <img :src="'/files/images/coromon/'+coromon.id+'_'+coromon.name+'_'+rarity_letter+'_front.webp'" :alt="coromon.name+' image normal'">                
             </div>            
         </div>
 

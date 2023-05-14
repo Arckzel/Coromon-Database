@@ -14,8 +14,7 @@
         </ul>
         </div>
         <div class="imagem">
-            <!-- <img :src="'src/files/images/coromon/'+coromon.Image" alt="" srcset=""> -->
-            <img :src="'src/files/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" :alt="coromon.name+' image'" srcset="">
+            <img :src="'./public/images/coromon/'+coromon.id+'_'+coromon.name+'_A_front.webp'" :alt="coromon.name+' image'" srcset="">
         </div>
     </div>
     <ToCoromonVue :id="coromon.id"></ToCoromonVue>
