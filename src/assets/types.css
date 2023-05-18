@@ -1,93 +1,92 @@
-
- ul.datas li.block{
-    border-style: solid;
+ul.datas li.block {
+   border-style: solid;
 }
 
 /* Ice Type */
 
- ul.datas li.Ice{
-    background-color: #d3ffff;
-    box-shadow: inset #3A93C1 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Ice{
-    background-color: #3A93C1;
+.Ice {
+   background-color: #d3ffff;
+   box-shadow: inset #3A93C1 0px 0px 1px 3px;
+}
+
+ul.types li.type-Ice {
+   background-color: #3A93C1;
 }
 
 /* Fire Type */
 
- ul.datas li.Fire{
-    background-color: #ff7a00;
-    box-shadow: inset #a90e0e 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Fire{
-    background-color: #ee0909;
+.Fire {
+   background-color: #ff7a00;
+   box-shadow: inset #a90e0e 0px 0px 1px 3px;
+}
+
+ul.types li.type-Fire {
+   background-color: #ee0909;
 }
 
 /* Water Type */
 
- ul.datas li.Water{
-    background-color: #568fea;
-    box-shadow: inset #3e5efd 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Water{
-    background-color: #3e5efd;
+.Water {
+   background-color: #568fea;
+   box-shadow: inset #3e5efd 0px 0px 1px 3px;
+}
+
+ul.types li.type-Water {
+   background-color: #3e5efd;
 }
 
 
 /* Normal Type */
 
- ul.datas li.Normal{
-    background-color: #999999;
-    box-shadow: inset #888888 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Normal{
-    background-color: #888888;
+.Normal {
+   background-color: #999999;
+   box-shadow: inset #888888 0px 0px 1px 3px;
+}
+
+ul.types li.type-Normal {
+   background-color: #888888;
 }
 
 /* Electric Type */
 
- ul.datas li.Electric{
-    background-color: #fffb00;
-    box-shadow: inset #adad0f 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Electric{
-    background-color: #adad0f;
+.Electric {
+   background-color: #fffb00;
+   box-shadow: inset #adad0f 0px 0px 1px 3px;
+}
+
+ul.types li.type-Electric {
+   background-color: #adad0f;
 }
 
 /* Sand Type */
 
- ul.datas li.Sand{
-    background-color: #cf9703;
-    box-shadow: inset #926a01 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Sand{
-    background-color: #926a01;
+.Sand {
+   background-color: #cf9703;
+   box-shadow: inset #926a01 0px 0px 1px 3px;
+}
+
+ul.types li.type-Sand {
+   background-color: #926a01;
 }
 
 /* Ghost Type */
 
- ul.datas li.Ghost{
-    background-color: #8603dc;
-    box-shadow: inset #6400a5 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Ghost{
-    background-color: #6400a5;
+.Ghost {
+   background-color: #8603dc;
+   box-shadow: inset #6400a5 0px 0px 1px 3px;
+}
+
+ul.types li.type-Ghost {
+   background-color: #6400a5;
 }
 
 /* Dark Magic Type */
 
- ul.datas li.Dark.Magic{
-    background-color: #ae0303;
-    box-shadow: inset #740303 0px 0px 1px 3px;
-  }
-  
- ul.types li.type-Dark.Magic{
-    background-color: #740303;
+.Dark.Magic {
+   background-color: #ae0303;
+   box-shadow: inset #740303 0px 0px 1px 3px;
+}
+
+ul.types li.type-Dark.Magic {
+   background-color: #740303;
 }
