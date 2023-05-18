@@ -209,6 +209,7 @@ export default{
         },
 
         reload(){
+          this.term = ""
           this.filter = this.allCoromons
           this.paginate(0)
         }
