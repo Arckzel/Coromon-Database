@@ -1,5 +1,5 @@
 <template>
-    <p class="name">{{ coromon.name }}</p>
+    <p class="name">#{{coromon.id}} {{ coromon.name }}</p>
     <ul class="types">
         <li :class="'type-'+coromon.type">{{ coromon.type }}</li>
     </ul>
